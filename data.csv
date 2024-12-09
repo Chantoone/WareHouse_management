@@ -1,0 +1,2009 @@
+Date,Product_ID,Product_Category,Brand,Average_Damage_Rate,Refund_Rate,Avg_Time_Between_Stockouts,Avg_Quantity_Per_Order,Current_Inventory_Quantity,Maximum_Quantity_in_Stock,Current_Inventory_Levels,Storage_Time,Quantity_Released
+1/1/2022,101,Electronics,BrandC,0.016,0.05,35,12,845,1200,High,32,11
+1/2/2022,101,Electronics,BrandC,0.016,0.05,35,12,834,1200,Medium,33,28
+1/3/2022,101,Electronics,BrandC,0.016,0.05,35,12,806,1200,Medium,34,18
+1/4/2022,101,Electronics,BrandC,0.016,0.05,35,12,788,1200,Medium,35,15
+1/5/2022,101,Electronics,BrandC,0.016,0.05,35,12,773,1200,Medium,36,17
+1/6/2022,101,Electronics,BrandC,0.016,0.05,35,12,756,1200,Medium,37,22
+1/7/2022,101,Electronics,BrandC,0.016,0.05,35,12,734,1200,Medium,38,25
+1/8/2022,101,Electronics,BrandC,0.016,0.05,35,12,709,1200,Medium,39,24
+1/9/2022,101,Electronics,BrandC,0.016,0.05,35,12,685,1200,Medium,40,29
+1/10/2022,101,Electronics,BrandC,0.016,0.05,35,12,656,1200,Medium,41,22
+1/11/2022,101,Electronics,BrandC,0.016,0.05,35,12,634,1200,Medium,42,25
+1/12/2022,101,Electronics,BrandC,0.016,0.05,35,12,609,1200,Medium,43,25
+1/13/2022,101,Electronics,BrandC,0.016,0.05,35,12,584,1200,Medium,44,27
+1/14/2022,101,Electronics,BrandC,0.016,0.05,35,12,557,1200,Medium,45,16
+1/15/2022,101,Electronics,BrandC,0.016,0.05,35,12,541,1200,Medium,46,11
+1/16/2022,101,Electronics,BrandC,0.016,0.05,35,12,530,1200,Medium,47,10
+1/17/2022,101,Electronics,BrandC,0.016,0.05,35,12,520,1200,Medium,48,30
+1/18/2022,101,Electronics,BrandC,0.016,0.05,35,12,490,1200,Medium,49,26
+1/19/2022,101,Electronics,BrandC,0.016,0.05,35,12,464,1200,Medium,50,27
+1/20/2022,101,Electronics,BrandC,0.016,0.05,35,12,437,1200,Medium,51,17
+1/21/2022,101,Electronics,BrandC,0.016,0.05,35,12,420,1200,Medium,52,29
+1/22/2022,101,Electronics,BrandC,0.016,0.05,35,12,391,1200,Medium,53,21
+1/23/2022,101,Electronics,BrandC,0.016,0.05,35,12,370,1200,Medium,54,21
+1/24/2022,101,Electronics,BrandC,0.016,0.05,35,12,349,1200,Low,55,29
+1/25/2022,101,Electronics,BrandC,0.016,0.05,35,12,320,1200,Low,56,10
+1/26/2022,101,Electronics,BrandC,0.016,0.05,35,12,310,1200,Low,57,21
+1/27/2022,101,Electronics,BrandC,0.016,0.05,35,12,289,1200,Low,58,18
+1/28/2022,101,Electronics,BrandC,0.016,0.05,35,12,271,1200,Low,59,24
+1/29/2022,101,Electronics,BrandC,0.016,0.05,35,12,247,1200,Low,60,22
+1/30/2022,101,Electronics,BrandC,0.016,0.05,35,12,225,1200,Low,61,29
+1/31/2022,101,Electronics,BrandC,0.016,0.05,35,12,196,1200,Low,62,16
+2/1/2022,101,Electronics,BrandC,0.016,0.05,35,12,180,1200,Low,63,13
+2/2/2022,101,Electronics,BrandC,0.016,0.05,35,12,980,1200,High,1,24
+2/3/2022,101,Electronics,BrandC,0.016,0.05,35,12,956,1200,High,2,24
+2/4/2022,101,Electronics,BrandC,0.016,0.05,35,12,932,1200,High,3,10
+2/5/2022,101,Electronics,BrandC,0.016,0.05,35,12,922,1200,High,4,29
+2/6/2022,101,Electronics,BrandC,0.016,0.05,35,12,893,1200,High,5,28
+2/7/2022,101,Electronics,BrandC,0.016,0.05,35,12,865,1200,High,6,18
+2/8/2022,101,Electronics,BrandC,0.016,0.05,35,12,847,1200,High,7,20
+2/9/2022,101,Electronics,BrandC,0.016,0.05,35,12,827,1200,Medium,8,21
+2/10/2022,101,Electronics,BrandC,0.016,0.05,35,12,806,1200,Medium,9,16
+2/11/2022,101,Electronics,BrandC,0.016,0.05,35,12,790,1200,Medium,10,30
+2/12/2022,101,Electronics,BrandC,0.016,0.05,35,12,760,1200,Medium,11,29
+2/13/2022,101,Electronics,BrandC,0.016,0.05,35,12,731,1200,Medium,12,20
+2/14/2022,101,Electronics,BrandC,0.016,0.05,35,12,711,1200,Medium,13,15
+2/15/2022,101,Electronics,BrandC,0.016,0.05,35,12,696,1200,Medium,14,27
+2/16/2022,101,Electronics,BrandC,0.016,0.05,35,12,669,1200,Medium,15,25
+2/17/2022,101,Electronics,BrandC,0.016,0.05,35,12,644,1200,Medium,16,24
+2/18/2022,101,Electronics,BrandC,0.016,0.05,35,12,620,1200,Medium,17,21
+2/19/2022,101,Electronics,BrandC,0.016,0.05,35,12,599,1200,Medium,18,15
+2/20/2022,101,Electronics,BrandC,0.016,0.05,35,12,584,1200,Medium,19,14
+2/21/2022,101,Electronics,BrandC,0.016,0.05,35,12,570,1200,Medium,20,21
+2/22/2022,101,Electronics,BrandC,0.016,0.05,35,12,549,1200,Medium,21,10
+2/23/2022,101,Electronics,BrandC,0.016,0.05,35,12,539,1200,Medium,22,19
+2/24/2022,101,Electronics,BrandC,0.016,0.05,35,12,520,1200,Medium,23,15
+2/25/2022,101,Electronics,BrandC,0.016,0.05,35,12,505,1200,Medium,24,21
+2/26/2022,101,Electronics,BrandC,0.016,0.05,35,12,484,1200,Medium,25,30
+2/27/2022,101,Electronics,BrandC,0.016,0.05,35,12,454,1200,Medium,26,20
+2/28/2022,101,Electronics,BrandC,0.016,0.05,35,12,434,1200,Medium,27,21
+3/1/2022,101,Electronics,BrandC,0.014,0.04,35,12,934,1200,High,1,17
+3/2/2022,101,Electronics,BrandC,0.014,0.04,35,12,917,1200,High,2,14
+3/3/2022,101,Electronics,BrandC,0.014,0.04,35,12,903,1200,High,3,13
+3/4/2022,101,Electronics,BrandC,0.014,0.04,35,12,890,1200,High,4,10
+3/5/2022,101,Electronics,BrandC,0.014,0.04,35,12,880,1200,High,5,25
+3/6/2022,101,Electronics,BrandC,0.014,0.04,35,12,855,1200,High,6,17
+3/7/2022,101,Electronics,BrandC,0.014,0.04,35,12,838,1200,Medium,7,10
+3/8/2022,101,Electronics,BrandC,0.014,0.04,35,12,828,1200,Medium,8,14
+3/9/2022,101,Electronics,BrandC,0.014,0.04,35,12,814,1200,Medium,9,30
+3/10/2022,101,Electronics,BrandC,0.014,0.04,35,12,784,1200,Medium,10,30
+3/11/2022,101,Electronics,BrandC,0.014,0.04,35,12,754,1200,Medium,11,23
+3/12/2022,101,Electronics,BrandC,0.014,0.04,35,12,731,1200,Medium,12,10
+3/13/2022,101,Electronics,BrandC,0.014,0.04,35,12,721,1200,Medium,13,24
+3/14/2022,101,Electronics,BrandC,0.014,0.04,35,12,697,1200,Medium,14,14
+3/15/2022,101,Electronics,BrandC,0.014,0.04,35,12,683,1200,Medium,15,11
+3/16/2022,101,Electronics,BrandC,0.014,0.04,35,12,672,1200,Medium,16,11
+3/17/2022,101,Electronics,BrandC,0.014,0.04,35,12,661,1200,Medium,17,11
+3/18/2022,101,Electronics,BrandC,0.014,0.04,35,12,650,1200,Medium,18,17
+3/19/2022,101,Electronics,BrandC,0.014,0.04,35,12,633,1200,Medium,19,21
+3/20/2022,101,Electronics,BrandC,0.014,0.04,35,12,612,1200,Medium,20,25
+3/21/2022,101,Electronics,BrandC,0.014,0.04,35,12,587,1200,Medium,21,23
+3/22/2022,101,Electronics,BrandC,0.014,0.04,35,12,564,1200,Medium,22,11
+3/23/2022,101,Electronics,BrandC,0.014,0.04,35,12,553,1200,Medium,23,29
+3/24/2022,101,Electronics,BrandC,0.014,0.04,35,12,524,1200,Medium,24,13
+3/25/2022,101,Electronics,BrandC,0.014,0.04,35,12,511,1200,Medium,25,19
+3/26/2022,101,Electronics,BrandC,0.014,0.04,35,12,492,1200,Medium,26,26
+3/27/2022,101,Electronics,BrandC,0.014,0.04,35,12,466,1200,Medium,27,10
+3/28/2022,101,Electronics,BrandC,0.014,0.04,35,12,456,1200,Medium,28,15
+3/29/2022,101,Electronics,BrandC,0.014,0.04,35,12,441,1200,Medium,29,29
+3/30/2022,101,Electronics,BrandC,0.014,0.04,35,12,412,1200,Medium,30,27
+3/31/2022,101,Electronics,BrandC,0.014,0.04,35,12,385,1200,Medium,31,16
+4/1/2022,101,Electronics,BrandC,0.014,0.04,35,12,885,1200,High,1,22
+4/2/2022,101,Electronics,BrandC,0.014,0.04,35,12,863,1200,High,2,16
+4/3/2022,101,Electronics,BrandC,0.014,0.04,35,12,847,1200,High,3,21
+4/4/2022,101,Electronics,BrandC,0.014,0.04,35,12,826,1200,Medium,4,17
+4/5/2022,101,Electronics,BrandC,0.014,0.04,35,12,809,1200,Medium,5,10
+4/6/2022,101,Electronics,BrandC,0.014,0.04,35,12,799,1200,Medium,6,27
+4/7/2022,101,Electronics,BrandC,0.014,0.04,35,12,772,1200,Medium,7,26
+4/8/2022,101,Electronics,BrandC,0.014,0.04,35,12,746,1200,Medium,8,19
+4/9/2022,101,Electronics,BrandC,0.014,0.04,35,12,727,1200,Medium,9,18
+4/10/2022,101,Electronics,BrandC,0.014,0.04,35,12,709,1200,Medium,10,20
+4/11/2022,101,Electronics,BrandC,0.014,0.04,35,12,689,1200,Medium,11,24
+4/12/2022,101,Electronics,BrandC,0.014,0.04,30,15,665,1200,Medium,12,19
+4/13/2022,101,Electronics,BrandC,0.014,0.04,30,15,646,1200,Medium,13,28
+4/14/2022,101,Electronics,BrandC,0.014,0.04,30,15,618,1200,Medium,14,42
+4/15/2022,101,Electronics,BrandC,0.014,0.04,30,15,576,1200,Medium,15,33
+4/16/2022,101,Electronics,BrandC,0.014,0.04,30,15,543,1200,Medium,16,42
+4/17/2022,101,Electronics,BrandC,0.014,0.04,30,15,501,1200,Medium,17,28
+4/18/2022,101,Electronics,BrandC,0.014,0.04,30,15,473,1200,Medium,18,43
+4/19/2022,101,Electronics,BrandC,0.014,0.04,30,15,430,1200,Medium,19,40
+4/20/2022,101,Electronics,BrandC,0.014,0.04,30,15,390,1200,Medium,20,25
+4/21/2022,101,Electronics,BrandC,0.014,0.04,30,15,365,1200,Medium,21,36
+4/22/2022,101,Electronics,BrandC,0.014,0.04,30,15,329,1200,Low,22,40
+4/23/2022,101,Electronics,BrandC,0.014,0.04,30,15,289,1200,Low,23,45
+4/24/2022,101,Electronics,BrandC,0.014,0.04,30,15,244,1200,Low,24,36
+4/25/2022,101,Electronics,BrandC,0.014,0.04,30,15,208,1200,Low,25,39
+4/26/2022,101,Electronics,BrandC,0.014,0.04,30,15,169,1200,Low,26,29
+4/27/2022,101,Electronics,BrandC,0.014,0.04,30,15,140,1200,Low,27,40
+4/28/2022,101,Electronics,BrandC,0.014,0.04,30,15,100,1200,Low,28,32
+4/29/2022,101,Electronics,BrandC,0.014,0.04,30,15,68,1200,Low,29,41
+4/30/2022,101,Electronics,BrandC,0.014,0.04,30,15,27,1200,Low,30,32
+5/1/2022,101,Electronics,BrandC,0.015,0.05,16,22,1327,1800,High,1,32
+5/2/2022,101,Electronics,BrandC,0.015,0.05,16,22,1295,1800,High,2,39
+5/3/2022,101,Electronics,BrandC,0.015,0.05,16,22,1256,1800,Medium,3,75
+5/4/2022,101,Electronics,BrandC,0.015,0.05,16,22,1181,1800,Medium,4,108
+5/5/2022,101,Electronics,BrandC,0.015,0.05,16,22,1073,1800,Medium,5,92
+5/6/2022,101,Electronics,BrandC,0.015,0.05,16,22,981,1800,Medium,6,82
+5/7/2022,101,Electronics,BrandC,0.015,0.05,16,22,899,1800,Medium,7,118
+5/8/2022,101,Electronics,BrandC,0.015,0.05,16,22,781,1800,Medium,8,107
+5/9/2022,101,Electronics,BrandC,0.015,0.05,16,22,674,1800,Medium,9,93
+5/10/2022,101,Electronics,BrandC,0.015,0.05,16,22,581,1800,Medium,10,94
+5/11/2022,101,Electronics,BrandC,0.015,0.05,16,22,487,1800,Low,11,120
+5/12/2022,101,Electronics,BrandC,0.015,0.05,16,22,367,1800,Low,12,88
+5/13/2022,101,Electronics,BrandC,0.015,0.05,16,22,279,1800,Low,13,86
+5/14/2022,101,Electronics,BrandC,0.015,0.05,16,22,193,1800,Low,14,104
+5/15/2022,101,Electronics,BrandC,0.015,0.05,16,22,89,1800,Low,15,105
+5/16/2022,101,Electronics,BrandC,0.015,0.05,15,25,1389,1800,High,1,94
+5/17/2022,101,Electronics,BrandC,0.015,0.05,15,25,1295,1800,High,2,92
+5/18/2022,101,Electronics,BrandC,0.015,0.05,15,25,1203,1800,Medium,3,82
+5/19/2022,101,Electronics,BrandC,0.015,0.05,15,25,1121,1800,Medium,4,108
+5/20/2022,101,Electronics,BrandC,0.015,0.05,15,25,1013,1800,Medium,5,89
+5/21/2022,101,Electronics,BrandC,0.015,0.05,15,25,924,1800,Medium,6,103
+5/22/2022,101,Electronics,BrandC,0.015,0.05,15,25,821,1800,Medium,7,99
+5/23/2022,101,Electronics,BrandC,0.015,0.05,15,25,722,1800,Medium,8,82
+5/24/2022,101,Electronics,BrandC,0.015,0.05,15,25,640,1800,Medium,9,115
+5/25/2022,101,Electronics,BrandC,0.015,0.05,15,25,525,1800,Low,10,112
+5/26/2022,101,Electronics,BrandC,0.015,0.05,15,25,413,1800,Low,11,116
+5/27/2022,101,Electronics,BrandC,0.015,0.05,15,25,297,1800,Low,12,112
+5/28/2022,101,Electronics,BrandC,0.015,0.05,15,25,185,1800,Low,13,110
+5/29/2022,101,Electronics,BrandC,0.015,0.05,13,27,1485,1800,High,1,108
+5/30/2022,101,Electronics,BrandC,0.015,0.05,13,27,1377,1800,High,2,86
+5/31/2022,101,Electronics,BrandC,0.015,0.05,13,27,1291,1800,High,3,81
+6/1/2022,101,Electronics,BrandC,0.015,0.05,13,27,1210,1800,Medium,4,97
+6/2/2022,101,Electronics,BrandC,0.015,0.05,13,27,1113,1800,Medium,5,91
+6/3/2022,101,Electronics,BrandC,0.015,0.05,13,27,1022,1800,Medium,6,95
+6/4/2022,101,Electronics,BrandC,0.015,0.05,13,27,927,1800,Medium,7,108
+6/5/2022,101,Electronics,BrandC,0.015,0.05,13,27,819,1800,Medium,8,105
+6/6/2022,101,Electronics,BrandC,0.015,0.05,13,27,714,1800,Medium,9,112
+6/7/2022,101,Electronics,BrandC,0.015,0.05,13,27,602,1800,Medium,10,92
+6/8/2022,101,Electronics,BrandC,0.015,0.05,13,27,510,1800,Low,11,120
+6/9/2022,101,Electronics,BrandC,0.015,0.05,13,27,390,1800,Low,12,99
+6/10/2022,101,Electronics,BrandC,0.015,0.05,13,27,291,1800,Low,13,118
+6/11/2022,101,Electronics,BrandC,0.015,0.05,13,27,173,1800,Low,14,101
+6/12/2022,101,Electronics,BrandC,0.015,0.05,13,29,1473,1800,High,1,102
+6/13/2022,101,Electronics,BrandC,0.015,0.05,13,29,1371,1800,High,2,110
+6/14/2022,101,Electronics,BrandC,0.015,0.05,13,29,1261,1800,High,3,107
+6/15/2022,101,Electronics,BrandC,0.015,0.05,13,29,1154,1800,Medium,4,116
+6/16/2022,101,Electronics,BrandC,0.015,0.05,13,29,1038,1800,Medium,5,109
+6/17/2022,101,Electronics,BrandC,0.015,0.05,13,29,929,1800,Medium,6,114
+6/18/2022,101,Electronics,BrandC,0.015,0.05,13,29,815,1800,Medium,7,102
+6/19/2022,101,Electronics,BrandC,0.015,0.05,13,29,713,1800,Medium,8,108
+6/20/2022,101,Electronics,BrandC,0.015,0.05,13,29,605,1800,Medium,9,105
+6/21/2022,101,Electronics,BrandC,0.015,0.05,13,29,500,1800,Low,10,112
+6/22/2022,101,Electronics,BrandC,0.015,0.05,13,29,388,1800,Low,11,109
+6/23/2022,101,Electronics,BrandC,0.015,0.05,13,29,279,1800,Low,12,111
+6/24/2022,101,Electronics,BrandC,0.015,0.05,13,29,168,1800,Low,13,120
+6/25/2022,101,Electronics,BrandC,0.015,0.05,16,26,1468,1800,High,1,82
+6/26/2022,101,Electronics,BrandC,0.015,0.05,16,26,1386,1800,High,2,119
+6/27/2022,101,Electronics,BrandC,0.015,0.05,16,26,1267,1800,High,3,81
+6/28/2022,101,Electronics,BrandC,0.015,0.05,16,26,1186,1800,Medium,4,112
+6/29/2022,101,Electronics,BrandC,0.015,0.05,16,26,1074,1800,Medium,5,98
+6/30/2022,101,Electronics,BrandC,0.015,0.05,16,26,976,1800,Medium,6,103
+7/1/2022,101,Electronics,BrandC,0.015,0.05,16,26,873,1800,Medium,7,99
+7/2/2022,101,Electronics,BrandC,0.015,0.05,16,26,774,1800,Medium,8,120
+7/3/2022,101,Electronics,BrandC,0.015,0.05,16,26,654,1800,Medium,9,112
+7/4/2022,101,Electronics,BrandC,0.015,0.05,16,26,542,1800,Medium,10,93
+7/5/2022,101,Electronics,BrandC,0.015,0.05,16,26,449,1800,Low,11,110
+7/6/2022,101,Electronics,BrandC,0.015,0.05,16,26,339,1800,Low,12,95
+7/7/2022,101,Electronics,BrandC,0.015,0.05,16,26,244,1800,Low,13,103
+7/8/2022,101,Electronics,BrandC,0.015,0.05,16,26,1544,1800,High,1,119
+7/9/2022,101,Electronics,BrandC,0.015,0.05,16,26,1425,1800,High,2,101
+7/10/2022,101,Electronics,BrandC,0.015,0.05,16,26,1324,1800,High,3,82
+7/11/2022,101,Electronics,BrandC,0.015,0.05,16,26,1242,1800,Medium,4,82
+7/12/2022,101,Electronics,BrandC,0.015,0.05,16,26,1160,1800,Medium,5,104
+7/13/2022,101,Electronics,BrandC,0.015,0.05,16,26,1056,1800,Medium,6,102
+7/14/2022,101,Electronics,BrandC,0.015,0.05,16,26,954,1800,Medium,7,101
+7/15/2022,101,Electronics,BrandC,0.015,0.05,16,26,853,1800,Medium,8,106
+7/16/2022,101,Electronics,BrandC,0.015,0.05,16,26,747,1800,Medium,9,93
+7/17/2022,101,Electronics,BrandC,0.015,0.05,16,26,654,1800,Medium,10,112
+7/18/2022,101,Electronics,BrandC,0.015,0.05,16,26,542,1800,Medium,11,88
+7/19/2022,101,Electronics,BrandC,0.015,0.05,16,26,454,1800,Low,12,96
+7/20/2022,101,Electronics,BrandC,0.015,0.05,16,26,358,1800,Low,13,119
+7/21/2022,101,Electronics,BrandC,0.015,0.05,16,26,239,1800,Low,14,104
+7/22/2022,101,Electronics,BrandC,0.015,0.05,16,26,1539,1800,High,1,113
+7/23/2022,101,Electronics,BrandC,0.015,0.05,16,26,1426,1800,High,2,111
+7/24/2022,101,Electronics,BrandC,0.015,0.05,16,26,1315,1800,High,3,107
+7/25/2022,101,Electronics,BrandC,0.015,0.05,16,26,1208,1800,Medium,4,111
+7/26/2022,101,Electronics,BrandC,0.015,0.05,16,26,1097,1800,Medium,5,99
+7/27/2022,101,Electronics,BrandC,0.015,0.05,16,26,998,1800,Medium,6,109
+7/28/2022,101,Electronics,BrandC,0.015,0.05,16,26,889,1800,Medium,7,112
+7/29/2022,101,Electronics,BrandC,0.015,0.05,16,26,777,1800,Medium,8,94
+7/30/2022,101,Electronics,BrandC,0.015,0.05,16,26,683,1800,Medium,9,80
+7/31/2022,101,Electronics,BrandC,0.0145,0.045,16,26,603,1800,Medium,10,108
+8/1/2022,101,Electronics,BrandC,0.0145,0.045,25,14,1003,1200,High,1,83
+8/2/2022,101,Electronics,BrandC,0.0145,0.045,25,14,920,1200,High,2,63
+8/3/2022,101,Electronics,BrandC,0.0145,0.045,25,14,857,1200,High,3,77
+8/4/2022,101,Electronics,BrandC,0.0145,0.045,25,14,780,1200,Medium,4,43
+8/5/2022,101,Electronics,BrandC,0.0145,0.045,25,14,737,1200,Medium,5,48
+8/6/2022,101,Electronics,BrandC,0.0145,0.045,25,14,689,1200,Medium,6,50
+8/7/2022,101,Electronics,BrandC,0.0145,0.045,25,14,639,1200,Medium,7,45
+8/8/2022,101,Electronics,BrandC,0.0145,0.045,25,14,594,1200,Medium,8,47
+8/9/2022,101,Electronics,BrandC,0.0145,0.045,25,14,547,1200,Medium,9,44
+8/10/2022,101,Electronics,BrandC,0.0145,0.045,25,14,503,1200,Medium,10,43
+8/11/2022,101,Electronics,BrandC,0.0145,0.045,25,14,460,1200,Medium,11,40
+8/12/2022,101,Electronics,BrandC,0.0145,0.045,25,14,420,1200,Medium,12,43
+8/13/2022,101,Electronics,BrandC,0.0145,0.045,25,14,377,1200,Medium,13,48
+8/14/2022,101,Electronics,BrandC,0.0145,0.045,25,14,329,1200,Low,14,41
+8/15/2022,101,Electronics,BrandC,0.0145,0.045,25,14,288,1200,Low,15,50
+8/16/2022,101,Electronics,BrandC,0.0145,0.045,25,14,238,1200,Low,16,43
+8/17/2022,101,Electronics,BrandC,0.0145,0.045,25,14,195,1200,Low,17,42
+8/18/2022,101,Electronics,BrandC,0.0145,0.045,25,14,153,1200,Low,18,49
+8/19/2022,101,Electronics,BrandC,0.0145,0.045,25,14,104,1200,Low,19,42
+8/20/2022,101,Electronics,BrandC,0.0145,0.045,25,14,62,1200,Low,20,48
+8/21/2022,101,Electronics,BrandC,0.0145,0.045,25,14,14,1200,Low,21,44
+8/22/2022,101,Electronics,BrandC,0.0145,0.045,30,12,814,1200,Medium,1,45
+8/23/2022,101,Electronics,BrandC,0.0145,0.045,30,12,769,1200,Medium,2,43
+8/24/2022,101,Electronics,BrandC,0.0145,0.045,30,12,726,1200,Medium,3,44
+8/25/2022,101,Electronics,BrandC,0.0145,0.045,30,12,682,1200,Medium,4,45
+8/26/2022,101,Electronics,BrandC,0.0145,0.045,30,12,637,1200,Medium,5,50
+8/27/2022,101,Electronics,BrandC,0.0145,0.045,30,12,587,1200,Medium,6,48
+8/28/2022,101,Electronics,BrandC,0.0145,0.045,30,12,539,1200,Medium,7,40
+8/29/2022,101,Electronics,BrandC,0.0145,0.045,30,12,499,1200,Medium,8,45
+8/30/2022,101,Electronics,BrandC,0.0145,0.045,30,12,454,1200,Medium,9,34
+8/31/2022,101,Electronics,BrandC,0.0145,0.045,30,12,420,1200,Medium,10,45
+9/1/2022,101,Electronics,BrandC,0.0145,0.045,30,12,375,1200,Medium,11,31
+9/2/2022,101,Electronics,BrandC,0.0145,0.045,30,12,344,1200,Low,12,39
+9/3/2022,101,Electronics,BrandC,0.0145,0.045,30,12,1144,1200,High,1,48
+9/4/2022,101,Electronics,BrandC,0.0145,0.045,30,12,1096,1200,High,2,47
+9/5/2022,101,Electronics,BrandC,0.0145,0.045,30,12,1049,1200,High,3,39
+9/6/2022,101,Electronics,BrandC,0.0145,0.045,30,12,1010,1200,High,4,35
+9/7/2022,101,Electronics,BrandC,0.0145,0.045,30,12,975,1200,High,5,43
+9/8/2022,101,Electronics,BrandC,0.0145,0.045,30,12,932,1200,High,6,30
+9/9/2022,101,Electronics,BrandC,0.0145,0.045,30,12,902,1200,High,7,48
+9/10/2022,101,Electronics,BrandC,0.0145,0.045,30,12,854,1200,High,8,50
+9/11/2022,101,Electronics,BrandC,0.0145,0.045,30,12,804,1200,Medium,9,30
+9/12/2022,101,Electronics,BrandC,0.0145,0.045,30,12,774,1200,Medium,10,33
+9/13/2022,101,Electronics,BrandC,0.0145,0.045,30,12,741,1200,Medium,11,31
+9/14/2022,101,Electronics,BrandC,0.0145,0.045,30,12,710,1200,Medium,12,34
+9/15/2022,101,Electronics,BrandC,0.0145,0.045,30,12,676,1200,Medium,13,31
+9/16/2022,101,Electronics,BrandC,0.0145,0.045,30,12,645,1200,Medium,14,40
+9/17/2022,101,Electronics,BrandC,0.0145,0.045,30,12,605,1200,Medium,15,40
+9/18/2022,101,Electronics,BrandC,0.0145,0.045,30,12,565,1200,Medium,16,36
+9/19/2022,101,Electronics,BrandC,0.0145,0.045,30,12,529,1200,Medium,17,32
+9/20/2022,101,Electronics,BrandC,0.0145,0.045,30,12,497,1200,Medium,18,34
+9/21/2022,101,Electronics,BrandC,0.0145,0.045,30,12,463,1200,Medium,19,38
+9/22/2022,101,Electronics,BrandC,0.0145,0.045,30,12,425,1200,Medium,20,38
+9/23/2022,101,Electronics,BrandC,0.0145,0.045,30,12,387,1200,Medium,21,39
+9/24/2022,101,Electronics,BrandC,0.0145,0.045,30,12,787,1200,Medium,1,35
+9/25/2022,101,Electronics,BrandC,0.0145,0.045,30,12,752,1200,Medium,2,33
+9/26/2022,101,Electronics,BrandC,0.0145,0.045,30,12,719,1200,Medium,3,37
+9/27/2022,101,Electronics,BrandC,0.0145,0.045,30,12,682,1200,Medium,4,32
+9/28/2022,101,Electronics,BrandC,0.0145,0.045,30,12,650,1200,Medium,5,30
+9/29/2022,101,Electronics,BrandC,0.0145,0.045,30,12,620,1200,Medium,6,39
+9/30/2022,101,Electronics,BrandC,0.0145,0.045,30,12,581,1200,Medium,7,35
+10/1/2022,101,Electronics,BrandC,0.0145,0.045,30,12,546,1200,Medium,8,31
+10/2/2022,101,Electronics,BrandC,0.0145,0.045,30,12,515,1200,Medium,9,31
+10/3/2022,101,Electronics,BrandC,0.0145,0.045,30,12,484,1200,Medium,10,38
+10/4/2022,101,Electronics,BrandC,0.0145,0.045,30,12,446,1200,Medium,11,31
+10/5/2022,101,Electronics,BrandC,0.0145,0.045,30,12,415,1200,Medium,12,30
+10/6/2022,101,Electronics,BrandC,0.0145,0.045,30,12,385,1200,Medium,13,33
+10/7/2022,101,Electronics,BrandC,0.0145,0.045,30,12,352,1200,Low,14,34
+10/8/2022,101,Electronics,BrandC,0.0145,0.045,30,12,318,1200,Low,15,31
+10/9/2022,101,Electronics,BrandC,0.0145,0.045,30,12,287,1200,Low,16,34
+10/10/2022,101,Electronics,BrandC,0.0145,0.045,30,12,253,1200,Low,17,37
+10/11/2022,101,Electronics,BrandC,0.0145,0.045,30,12,216,1200,Low,18,36
+10/12/2022,101,Electronics,BrandC,0.0145,0.045,30,12,180,1200,Low,19,33
+10/13/2022,101,Electronics,BrandC,0.0145,0.045,30,12,147,1200,Low,20,37
+10/14/2022,101,Electronics,BrandC,0.0145,0.045,30,12,110,1200,Low,21,33
+10/15/2022,101,Electronics,BrandC,0.0145,0.045,30,12,77,1200,Low,22,35
+10/16/2022,101,Electronics,BrandC,0.0145,0.045,30,12,42,1200,Low,23,38
+10/17/2022,101,Electronics,BrandC,0.0145,0.045,30,12,4,1200,Low,24,37
+10/18/2022,101,Electronics,BrandC,0.0145,0.045,30,12,-33,1200,Low,25,30
+10/19/2022,101,Electronics,BrandC,0.0145,0.045,30,12,767,1200,Medium,1,34
+10/20/2022,101,Electronics,BrandC,0.0145,0.045,30,12,733,1200,Medium,2,38
+10/21/2022,101,Electronics,BrandC,0.0145,0.045,30,12,695,1200,Medium,3,35
+10/22/2022,101,Electronics,BrandC,0.0145,0.045,30,12,660,1200,Medium,4,37
+10/23/2022,101,Electronics,BrandC,0.0145,0.045,30,12,623,1200,Medium,5,35
+10/24/2022,101,Electronics,BrandC,0.0145,0.045,30,12,588,1200,Medium,6,40
+10/25/2022,101,Electronics,BrandC,0.0145,0.045,30,12,548,1200,Medium,7,35
+10/26/2022,101,Electronics,BrandC,0.0145,0.045,30,12,513,1200,Medium,8,33
+10/27/2022,101,Electronics,BrandC,0.0145,0.045,30,12,480,1200,Medium,9,30
+10/28/2022,101,Electronics,BrandC,0.0145,0.045,30,12,450,1200,Medium,10,30
+10/29/2022,101,Electronics,BrandC,0.0145,0.045,30,12,420,1200,Medium,11,33
+10/30/2022,101,Electronics,BrandC,0.0145,0.045,30,12,387,1200,Medium,12,31
+10/31/2022,101,Electronics,BrandC,0.0145,0.045,35,7,356,1200,Low,13,14
+11/1/2022,101,Electronics,BrandC,0.0145,0.045,35,7,342,1200,Low,14,25
+11/2/2022,101,Electronics,BrandC,0.0145,0.045,35,7,317,1200,Low,15,19
+11/3/2022,101,Electronics,BrandC,0.0145,0.045,35,7,298,1200,Low,16,27
+11/4/2022,101,Electronics,BrandC,0.0145,0.045,35,7,271,1200,Low,17,29
+11/5/2022,101,Electronics,BrandC,0.0145,0.045,35,7,242,1200,Low,18,15
+11/6/2022,101,Electronics,BrandC,0.0145,0.045,35,7,227,1200,Low,19,21
+11/7/2022,101,Electronics,BrandC,0.0145,0.045,35,7,206,1200,Low,20,19
+11/8/2022,101,Electronics,BrandC,0.0145,0.045,35,7,187,1200,Low,21,22
+11/9/2022,101,Electronics,BrandC,0.0145,0.045,35,7,165,1200,Low,22,22
+11/10/2022,101,Electronics,BrandC,0.0145,0.045,35,7,143,1200,Low,23,14
+11/11/2022,101,Electronics,BrandC,0.0145,0.045,35,7,129,1200,Low,24,26
+11/12/2022,101,Electronics,BrandC,0.0145,0.045,35,7,103,1200,Low,25,19
+11/13/2022,101,Electronics,BrandC,0.0145,0.045,35,7,703,1200,Medium,1,26
+11/14/2022,101,Electronics,BrandC,0.0145,0.045,35,6,677,1200,Medium,2,21
+11/15/2022,101,Electronics,BrandC,0.0145,0.045,35,6,656,1200,Medium,3,12
+11/16/2022,101,Electronics,BrandC,0.0145,0.045,35,6,644,1200,Medium,4,20
+11/17/2022,101,Electronics,BrandC,0.0145,0.045,35,6,624,1200,Medium,5,22
+11/18/2022,101,Electronics,BrandC,0.0145,0.045,35,6,602,1200,Medium,6,18
+11/19/2022,101,Electronics,BrandC,0.0145,0.045,35,6,584,1200,Medium,7,25
+11/20/2022,101,Electronics,BrandC,0.0145,0.045,35,6,559,1200,Medium,8,18
+11/21/2022,101,Electronics,BrandC,0.0145,0.045,35,6,541,1200,Medium,9,15
+11/22/2022,101,Electronics,BrandC,0.0145,0.045,35,6,526,1200,Medium,10,11
+11/23/2022,101,Electronics,BrandC,0.0145,0.045,35,6,515,1200,Medium,11,18
+11/24/2022,101,Electronics,BrandC,0.0145,0.045,35,6,497,1200,Medium,12,16
+11/25/2022,101,Electronics,BrandC,0.0145,0.045,35,6,481,1200,Medium,13,30
+11/26/2022,101,Electronics,BrandC,0.0145,0.045,35,6,451,1200,Medium,14,10
+11/27/2022,101,Electronics,BrandC,0.0145,0.045,35,6,441,1200,Medium,15,17
+11/28/2022,101,Electronics,BrandC,0.0145,0.045,35,6,424,1200,Medium,16,16
+11/29/2022,101,Electronics,BrandC,0.0145,0.045,35,6,408,1200,Medium,17,29
+11/30/2022,101,Electronics,BrandC,0.0145,0.045,35,6,379,1200,Medium,18,12
+12/1/2022,101,Electronics,BrandC,0.0145,0.045,35,6,367,1200,Medium,19,26
+12/2/2022,101,Electronics,BrandC,0.0145,0.045,35,6,341,1200,Low,20,25
+12/3/2022,101,Electronics,BrandC,0.0145,0.045,35,6,316,1200,Low,21,21
+12/4/2022,101,Electronics,BrandC,0.0145,0.045,35,6,295,1200,Low,22,20
+12/5/2022,101,Electronics,BrandC,0.0145,0.045,35,6,275,1200,Low,23,13
+12/6/2022,101,Electronics,BrandC,0.0145,0.045,35,6,262,1200,Low,24,19
+12/7/2022,101,Electronics,BrandC,0.0145,0.045,35,6,243,1200,Low,25,25
+12/8/2022,101,Electronics,BrandC,0.0145,0.045,35,6,843,1200,High,1,19
+12/9/2022,101,Electronics,BrandC,0.0145,0.045,35,6,824,1200,Medium,2,14
+12/10/2022,101,Electronics,BrandC,0.0145,0.045,35,6,810,1200,Medium,3,27
+12/11/2022,101,Electronics,BrandC,0.0145,0.045,35,6,783,1200,Medium,4,13
+12/12/2022,101,Electronics,BrandC,0.0145,0.045,35,6,770,1200,Medium,5,30
+12/13/2022,101,Electronics,BrandC,0.0145,0.045,35,6,740,1200,Medium,6,25
+12/14/2022,101,Electronics,BrandC,0.0145,0.045,35,6,715,1200,Medium,7,13
+12/15/2022,101,Electronics,BrandC,0.0145,0.045,35,6,702,1200,Medium,8,25
+12/16/2022,101,Electronics,BrandC,0.0145,0.045,35,6,677,1200,Medium,9,25
+12/17/2022,101,Electronics,BrandC,0.0145,0.045,35,6,652,1200,Medium,10,18
+12/18/2022,101,Electronics,BrandC,0.0145,0.045,35,6,634,1200,Medium,11,11
+12/19/2022,101,Electronics,BrandC,0.0145,0.045,35,6,623,1200,Medium,12,23
+12/20/2022,101,Electronics,BrandC,0.0145,0.045,35,6,600,1200,Medium,13,12
+12/21/2022,101,Electronics,BrandC,0.0145,0.045,35,6,588,1200,Medium,14,15
+12/22/2022,101,Electronics,BrandC,0.0145,0.045,35,6,573,1200,Medium,15,19
+12/23/2022,101,Electronics,BrandC,0.0145,0.045,35,6,554,1200,Medium,16,10
+12/24/2022,101,Electronics,BrandC,0.0145,0.045,35,6,544,1200,Medium,17,10
+12/25/2022,101,Electronics,BrandC,0.0145,0.045,35,6,534,1200,Medium,18,12
+12/26/2022,101,Electronics,BrandC,0.0145,0.045,35,6,522,1200,Medium,19,20
+12/27/2022,101,Electronics,BrandC,0.0145,0.045,35,6,502,1200,Medium,20,25
+12/28/2022,101,Electronics,BrandC,0.0145,0.045,35,6,477,1200,Medium,21,27
+12/29/2022,101,Electronics,BrandC,0.0145,0.045,35,6,450,1200,Medium,22,16
+12/30/2022,101,Electronics,BrandC,0.0145,0.045,35,6,434,1200,Medium,23,15
+12/31/2022,101,Electronics,BrandC,0.0145,0.045,35,6,419,1200,Medium,24,20
+9/1/2022,102,Winter Clothing,BrandA,0.03,0.012,20,15,732,800,High,1,48
+9/2/2022,103,Winter Clothing,BrandA,0.03,0.012,20,15,684,800,High,2,50
+9/3/2022,104,Winter Clothing,BrandA,0.03,0.012,20,15,634,800,High,3,35
+9/4/2022,105,Winter Clothing,BrandA,0.03,0.012,20,15,599,800,High,4,47
+9/5/2022,106,Winter Clothing,BrandA,0.03,0.012,20,15,552,800,Medium,5,41
+9/6/2022,107,Winter Clothing,BrandA,0.03,0.012,20,15,511,800,Medium,6,33
+9/7/2022,108,Winter Clothing,BrandA,0.03,0.012,20,15,478,800,Medium,7,32
+9/8/2022,109,Winter Clothing,BrandA,0.03,0.012,20,15,446,800,Medium,8,38
+9/9/2022,110,Winter Clothing,BrandA,0.03,0.012,20,15,408,800,Medium,9,43
+9/10/2022,111,Winter Clothing,BrandA,0.03,0.012,20,15,365,800,Medium,10,43
+9/11/2022,112,Winter Clothing,BrandA,0.03,0.012,20,15,322,800,Medium,11,35
+9/12/2022,113,Winter Clothing,BrandA,0.03,0.012,20,15,287,800,Medium,12,34
+9/13/2022,114,Winter Clothing,BrandA,0.03,0.012,20,15,253,800,Medium,13,38
+9/14/2022,115,Winter Clothing,BrandA,0.03,0.012,20,15,215,800,Low,14,39
+9/15/2022,116,Winter Clothing,BrandA,0.03,0.012,20,15,176,800,Low,15,44
+9/16/2022,117,Winter Clothing,BrandA,0.03,0.012,20,15,132,800,Low,16,48
+9/17/2022,118,Winter Clothing,BrandA,0.03,0.012,20,15,732,800,High,1,39
+9/18/2022,119,Winter Clothing,BrandA,0.03,0.012,20,15,693,800,High,2,33
+9/19/2022,120,Winter Clothing,BrandA,0.03,0.012,20,15,660,800,High,3,48
+9/20/2022,121,Winter Clothing,BrandA,0.03,0.012,20,15,612,800,High,4,41
+9/21/2022,122,Winter Clothing,BrandA,0.03,0.012,20,15,571,800,High,5,36
+9/22/2022,123,Winter Clothing,BrandA,0.03,0.012,20,15,535,800,Medium,6,34
+9/23/2022,124,Winter Clothing,BrandA,0.03,0.012,20,15,501,800,Medium,7,38
+9/24/2022,125,Winter Clothing,BrandA,0.03,0.012,20,15,463,800,Medium,8,42
+9/25/2022,126,Winter Clothing,BrandA,0.03,0.012,20,15,421,800,Medium,9,49
+9/26/2022,127,Winter Clothing,BrandA,0.03,0.012,20,15,372,800,Medium,10,42
+9/27/2022,128,Winter Clothing,BrandA,0.03,0.012,20,15,330,800,Medium,11,32
+9/28/2022,129,Winter Clothing,BrandA,0.03,0.012,20,15,298,800,Medium,12,48
+9/29/2022,130,Winter Clothing,BrandA,0.03,0.012,20,15,250,800,Medium,13,45
+9/30/2022,131,Winter Clothing,BrandA,0.03,0.012,20,15,205,800,Low,14,50
+10/1/2022,132,Winter Clothing,BrandA,0.03,0.012,20,15,155,800,Low,15,52
+10/2/2022,133,Winter Clothing,BrandA,0.03,0.012,20,15,855,1000,High,1,49
+10/3/2022,134,Winter Clothing,BrandA,0.03,0.012,20,15,806,1000,High,2,44
+10/4/2022,135,Winter Clothing,BrandA,0.03,0.012,20,15,762,1000,High,3,47
+10/5/2022,136,Winter Clothing,BrandA,0.03,0.012,20,15,715,1000,High,4,55
+10/6/2022,137,Winter Clothing,BrandA,0.03,0.012,20,15,660,1000,Medium,5,47
+10/7/2022,138,Winter Clothing,BrandA,0.03,0.012,20,15,613,1000,Medium,6,47
+10/8/2022,139,Winter Clothing,BrandA,0.03,0.012,20,15,566,1000,Medium,7,45
+10/9/2022,140,Winter Clothing,BrandA,0.03,0.012,20,15,521,1000,Medium,8,55
+10/10/2022,141,Winter Clothing,BrandA,0.03,0.012,20,15,466,1000,Medium,9,49
+10/11/2022,142,Winter Clothing,BrandA,0.03,0.012,20,15,417,1000,Medium,10,53
+10/12/2022,143,Winter Clothing,BrandA,0.03,0.012,20,15,364,1000,Medium,11,55
+10/13/2022,144,Winter Clothing,BrandA,0.03,0.012,20,15,309,1000,Medium,12,47
+10/14/2022,145,Winter Clothing,BrandA,0.03,0.012,20,15,262,1000,Low,13,40
+10/15/2022,146,Winter Clothing,BrandA,0.03,0.012,20,15,222,1000,Low,14,55
+10/16/2022,147,Winter Clothing,BrandA,0.03,0.012,20,15,167,1000,Low,15,41
+10/17/2022,148,Winter Clothing,BrandA,0.03,0.012,20,15,867,1000,High,1,55
+10/18/2022,149,Winter Clothing,BrandA,0.03,0.012,20,15,812,1000,High,2,49
+10/19/2022,150,Winter Clothing,BrandA,0.03,0.012,20,15,763,1000,High,3,52
+10/20/2022,151,Winter Clothing,BrandA,0.03,0.012,20,15,711,1000,High,4,43
+10/21/2022,152,Winter Clothing,BrandA,0.03,0.012,20,15,668,1000,Medium,5,42
+10/22/2022,153,Winter Clothing,BrandA,0.03,0.012,20,15,626,1000,Medium,6,44
+10/23/2022,154,Winter Clothing,BrandA,0.03,0.012,20,15,582,1000,Medium,7,51
+10/24/2022,155,Winter Clothing,BrandA,0.03,0.012,20,15,531,1000,Medium,8,49
+10/25/2022,156,Winter Clothing,BrandA,0.03,0.012,20,15,482,1000,Medium,9,44
+10/26/2022,157,Winter Clothing,BrandA,0.03,0.012,20,15,438,1000,Medium,10,55
+10/27/2022,158,Winter Clothing,BrandA,0.03,0.012,20,15,383,1000,Medium,11,51
+10/28/2022,159,Winter Clothing,BrandA,0.03,0.012,20,15,332,1000,Medium,12,51
+10/29/2022,160,Winter Clothing,BrandA,0.03,0.012,20,15,281,1000,Low,13,53
+10/30/2022,161,Winter Clothing,BrandA,0.03,0.012,20,15,228,1000,Low,14,47
+10/31/2022,162,Winter Clothing,BrandA,0.03,0.012,20,15,181,1000,Low,15,45
+11/1/2022,163,Winter Clothing,BrandA,0.03,0.012,18,18,881,1000,High,1,55
+11/2/2022,164,Winter Clothing,BrandA,0.03,0.012,18,18,826,1000,High,2,51
+11/3/2022,165,Winter Clothing,BrandA,0.03,0.012,18,18,775,1000,High,3,50
+11/4/2022,166,Winter Clothing,BrandA,0.03,0.012,18,18,725,1000,High,4,43
+11/5/2022,167,Winter Clothing,BrandA,0.03,0.012,18,18,682,1000,Medium,5,50
+11/6/2022,168,Winter Clothing,BrandA,0.03,0.012,18,18,632,1000,Medium,6,43
+11/7/2022,169,Winter Clothing,BrandA,0.03,0.012,18,18,589,1000,Medium,7,43
+11/8/2022,170,Winter Clothing,BrandA,0.03,0.012,18,18,546,1000,Medium,8,41
+11/9/2022,171,Winter Clothing,BrandA,0.03,0.012,18,18,505,1000,Medium,9,42
+11/10/2022,172,Winter Clothing,BrandA,0.03,0.012,18,18,463,1000,Medium,10,54
+11/11/2022,173,Winter Clothing,BrandA,0.03,0.012,18,18,409,1000,Medium,11,41
+11/12/2022,174,Winter Clothing,BrandA,0.03,0.012,18,18,368,1000,Medium,12,44
+11/13/2022,175,Winter Clothing,BrandA,0.03,0.012,18,18,324,1000,Medium,13,45
+11/14/2022,176,Winter Clothing,BrandA,0.03,0.012,18,18,279,1000,Low,14,54
+11/15/2022,177,Winter Clothing,BrandA,0.03,0.012,18,18,225,1000,Low,15,48
+11/16/2022,178,Winter Clothing,BrandA,0.03,0.012,18,18,925,1000,High,1,44
+11/17/2022,179,Winter Clothing,BrandA,0.03,0.012,18,18,881,1000,High,2,49
+11/18/2022,180,Winter Clothing,BrandA,0.03,0.012,18,18,832,1000,High,3,48
+11/19/2022,181,Winter Clothing,BrandA,0.03,0.012,18,18,784,1000,High,4,43
+11/20/2022,182,Winter Clothing,BrandA,0.03,0.012,18,18,741,1000,High,5,41
+11/21/2022,183,Winter Clothing,BrandA,0.03,0.012,18,18,700,1000,High,6,43
+11/22/2022,184,Winter Clothing,BrandA,0.03,0.012,18,18,657,1000,Medium,7,40
+11/23/2022,185,Winter Clothing,BrandA,0.03,0.012,18,18,617,1000,Medium,8,45
+11/24/2022,186,Winter Clothing,BrandA,0.03,0.012,18,18,572,1000,Medium,9,45
+11/25/2022,187,Winter Clothing,BrandA,0.03,0.012,18,18,527,1000,Medium,10,55
+11/26/2022,188,Winter Clothing,BrandA,0.03,0.012,18,18,472,1000,Medium,11,44
+11/27/2022,189,Winter Clothing,BrandA,0.03,0.012,18,18,428,1000,Medium,12,55
+11/28/2022,190,Winter Clothing,BrandA,0.03,0.012,18,18,373,1000,Medium,13,42
+11/29/2022,191,Winter Clothing,BrandA,0.03,0.012,18,18,331,1000,Medium,14,47
+11/30/2022,192,Winter Clothing,BrandA,0.03,0.012,18,18,284,1000,Low,15,54
+12/1/2022,193,Winter Clothing,BrandA,0.03,0.012,16,22,984,1000,High,1,46
+12/2/2022,194,Winter Clothing,BrandA,0.03,0.012,16,22,938,1000,High,2,55
+12/3/2022,195,Winter Clothing,BrandA,0.03,0.012,16,22,883,1000,High,3,48
+12/4/2022,196,Winter Clothing,BrandA,0.03,0.012,16,22,835,1000,High,4,48
+12/5/2022,197,Winter Clothing,BrandA,0.03,0.012,16,22,787,1000,High,5,50
+12/6/2022,198,Winter Clothing,BrandA,0.03,0.012,16,22,737,1000,High,6,55
+12/7/2022,199,Winter Clothing,BrandA,0.03,0.012,16,22,682,1000,Medium,7,54
+12/8/2022,200,Winter Clothing,BrandA,0.03,0.012,16,22,628,1000,Medium,8,54
+12/9/2022,201,Winter Clothing,BrandA,0.03,0.012,16,22,574,1000,Medium,9,55
+12/10/2022,202,Winter Clothing,BrandA,0.03,0.012,16,22,519,1000,Medium,10,54
+12/11/2022,203,Winter Clothing,BrandA,0.03,0.012,16,22,465,1000,Medium,11,54
+12/12/2022,204,Winter Clothing,BrandA,0.03,0.012,16,22,411,1000,Medium,12,49
+12/13/2022,205,Winter Clothing,BrandA,0.03,0.012,16,22,362,1000,Medium,13,45
+12/14/2022,206,Winter Clothing,BrandA,0.03,0.012,16,22,317,1000,Medium,14,55
+12/15/2022,207,Winter Clothing,BrandA,0.03,0.012,16,22,262,1000,Low,15,49
+12/16/2022,208,Winter Clothing,BrandA,0.03,0.012,16,22,962,1000,High,1,50
+12/17/2022,209,Winter Clothing,BrandA,0.03,0.012,16,22,912,1000,High,2,55
+12/18/2022,210,Winter Clothing,BrandA,0.03,0.012,16,22,857,1000,High,3,49
+12/19/2022,211,Winter Clothing,BrandA,0.03,0.012,16,22,808,1000,High,4,45
+12/20/2022,212,Winter Clothing,BrandA,0.03,0.012,16,22,763,1000,High,5,50
+12/21/2022,213,Winter Clothing,BrandA,0.03,0.012,16,22,713,1000,High,6,47
+12/22/2022,214,Winter Clothing,BrandA,0.03,0.012,16,22,666,1000,Medium,7,48
+12/23/2022,215,Winter Clothing,BrandA,0.03,0.012,16,22,618,1000,Medium,8,50
+12/24/2022,216,Winter Clothing,BrandA,0.03,0.012,16,22,568,1000,Medium,9,54
+12/25/2022,217,Winter Clothing,BrandA,0.03,0.012,16,22,514,1000,Medium,10,48
+12/26/2022,218,Winter Clothing,BrandA,0.03,0.012,16,22,466,1000,Medium,11,50
+12/27/2022,219,Winter Clothing,BrandA,0.03,0.012,16,22,416,1000,Medium,12,49
+12/28/2022,220,Winter Clothing,BrandA,0.03,0.012,16,22,367,1000,Medium,13,45
+12/29/2022,221,Winter Clothing,BrandA,0.03,0.012,16,22,322,1000,Medium,14,55
+12/30/2022,222,Winter Clothing,BrandA,0.03,0.012,16,22,267,1000,Low,15,50
+1/1/2022,145,Rain Gear,Brand_Z,0.045,0.021,30,10,380,400,High,15,20
+1/2/2022,145,Rain Gear,Brand_Z,0.025,0.02,24,18,357,400,High,16,23
+1/3/2022,145,Rain Gear,Brand_Z,0.022,0.012,19,9,344,400,High,17,13
+1/4/2022,145,Rain Gear,Brand_Z,0.045,0.011,11,5,330,400,High,18,14
+1/5/2022,145,Rain Gear,Brand_Z,0.043,0.023,16,12,318,400,High,19,12
+1/6/2022,145,Rain Gear,Brand_Z,0.037,0.015,23,16,301,400,High,20,17
+1/7/2022,145,Rain Gear,Brand_Z,0.03,0.012,13,9,284,400,High,21,17
+1/8/2022,145,Rain Gear,Brand_Z,0.029,0.024,21,14,276,400,Medium,22,8
+1/9/2022,145,Rain Gear,Brand_Z,0.014,0.015,27,6,257,400,Medium,23,19
+1/10/2022,145,Rain Gear,Brand_Z,0.01,0.024,21,8,247,400,Medium,24,10
+1/11/2022,145,Rain Gear,Brand_Z,0.043,0.019,16,13,223,400,Medium,25,24
+1/12/2022,145,Rain Gear,Brand_Z,0.017,0.01,21,20,199,400,Medium,26,24
+1/13/2022,145,Rain Gear,Brand_Z,0.032,0.019,14,17,194,400,Medium,27,5
+1/14/2022,145,Rain Gear,Brand_Z,0.035,0.02,22,9,165,400,Medium,28,29
+1/15/2022,145,Rain Gear,Brand_Z,0.047,0.013,22,11,152,400,Medium,29,13
+1/16/2022,145,Rain Gear,Brand_Z,0.011,0.028,16,6,131,400,Medium,30,21
+1/17/2022,145,Rain Gear,Brand_Z,0.037,0.019,21,7,112,400,Low,31,19
+1/18/2022,145,Rain Gear,Brand_Z,0.024,0.012,8,11,83,400,Low,32,29
+1/19/2022,145,Rain Gear,Brand_Z,0.019,0.028,7,10,364,400,High,1,19
+1/20/2022,145,Rain Gear,Brand_Z,0.041,0.012,21,18,348,400,High,2,16
+1/21/2022,145,Rain Gear,Brand_Z,0.018,0.028,23,15,318,400,High,3,30
+1/22/2022,145,Rain Gear,Brand_Z,0.046,0.029,22,10,292,400,High,4,26
+1/23/2022,145,Rain Gear,Brand_Z,0.049,0.017,20,15,266,400,Medium,5,26
+1/24/2022,145,Rain Gear,Brand_Z,0.023,0.016,29,19,257,400,Medium,6,9
+1/25/2022,145,Rain Gear,Brand_Z,0.031,0.016,30,7,243,400,Medium,7,14
+1/26/2022,145,Rain Gear,Brand_Z,0.035,0.027,20,14,230,400,Medium,8,13
+1/27/2022,145,Rain Gear,Brand_Z,0.026,0.019,30,14,222,400,Medium,9,8
+1/28/2022,145,Rain Gear,Brand_Z,0.034,0.029,21,10,193,400,Medium,10,29
+1/29/2022,145,Rain Gear,Brand_Z,0.044,0.024,22,19,183,400,Medium,11,10
+1/30/2022,145,Rain Gear,Brand_Z,0.037,0.012,23,11,159,400,Medium,12,24
+1/31/2022,145,Rain Gear,Brand_Z,0.047,0.027,20,16,137,400,Medium,13,22
+2/1/2022,145,Rain Gear,Brand_Z,0.026,0.022,26,13,118,400,Low,14,19
+2/2/2022,145,Rain Gear,Brand_Z,0.027,0.017,7,14,103,400,Low,15,15
+2/3/2022,145,Rain Gear,Brand_Z,0.037,0.021,10,13,217,400,Medium,1,27
+2/4/2022,145,Rain Gear,Brand_Z,0.048,0.017,28,5,212,400,Medium,2,5
+2/5/2022,145,Rain Gear,Brand_Z,0.027,0.022,25,20,183,400,Medium,3,29
+2/6/2022,145,Rain Gear,Brand_Z,0.035,0.017,25,6,170,400,Medium,4,13
+2/7/2022,145,Rain Gear,Brand_Z,0.041,0.019,20,19,146,400,Medium,5,24
+2/8/2022,145,Rain Gear,Brand_Z,0.026,0.017,10,5,132,400,Medium,6,14
+2/9/2022,145,Rain Gear,Brand_Z,0.043,0.027,22,7,104,400,Low,7,28
+2/10/2022,145,Rain Gear,Brand_Z,0.037,0.029,22,9,368,400,High,1,25
+2/11/2022,145,Rain Gear,Brand_Z,0.048,0.015,9,7,342,400,High,2,26
+2/12/2022,145,Rain Gear,Brand_Z,0.013,0.013,14,7,331,400,High,3,11
+2/13/2022,145,Rain Gear,Brand_Z,0.034,0.027,17,14,309,400,High,4,22
+2/14/2022,145,Rain Gear,Brand_Z,0.04,0.015,30,9,296,400,High,5,13
+2/15/2022,145,Rain Gear,Brand_Z,0.049,0.011,13,9,267,400,Medium,6,29
+2/16/2022,145,Rain Gear,Brand_Z,0.023,0.029,28,18,237,400,Medium,7,30
+2/17/2022,145,Rain Gear,Brand_Z,0.021,0.021,22,5,210,400,Medium,8,27
+2/18/2022,145,Rain Gear,Brand_Z,0.023,0.015,19,10,194,400,Medium,9,16
+2/19/2022,145,Rain Gear,Brand_Z,0.037,0.029,17,9,187,400,Medium,10,7
+2/20/2022,145,Rain Gear,Brand_Z,0.042,0.01,15,12,170,400,Medium,11,17
+2/21/2022,145,Rain Gear,Brand_Z,0.032,0.026,22,13,153,400,Medium,12,17
+2/22/2022,145,Rain Gear,Brand_Z,0.016,0.01,22,18,129,400,Medium,13,24
+2/23/2022,145,Rain Gear,Brand_Z,0.024,0.016,8,6,124,400,Medium,14,5
+2/24/2022,145,Rain Gear,Brand_Z,0.02,0.014,28,15,106,400,Low,15,18
+2/25/2022,145,Rain Gear,Brand_Z,0.011,0.029,22,13,100,400,Low,16,6
+2/26/2022,145,Rain Gear,Brand_Z,0.022,0.017,21,19,85,400,Low,17,15
+2/27/2022,145,Rain Gear,Brand_Z,0.021,0.018,15,12,177,400,Medium,1,9
+2/28/2022,145,Rain Gear,Brand_Z,0.011,0.02,27,6,154,400,Medium,2,23
+3/1/2022,145,Rain Gear,Brand_Z,0.028,0.015,16,9,139,400,Medium,3,15
+3/2/2022,145,Rain Gear,Brand_Z,0.034,0.021,25,5,131,400,Medium,4,8
+3/3/2022,145,Rain Gear,Brand_Z,0.037,0.018,9,5,111,400,Low,5,20
+3/4/2022,145,Rain Gear,Brand_Z,0.032,0.022,28,15,91,400,Low,6,20
+3/5/2022,145,Rain Gear,Brand_Z,0.046,0.021,23,5,221,400,Medium,1,22
+3/6/2022,145,Rain Gear,Brand_Z,0.017,0.026,29,15,194,400,Medium,2,27
+3/7/2022,145,Rain Gear,Brand_Z,0.041,0.01,30,6,173,400,Medium,3,21
+3/8/2022,145,Rain Gear,Brand_Z,0.049,0.024,20,12,164,400,Medium,4,9
+3/9/2022,145,Rain Gear,Brand_Z,0.011,0.016,25,12,155,400,Medium,5,9
+3/10/2022,145,Rain Gear,Brand_Z,0.05,0.027,22,20,150,400,Medium,6,5
+3/11/2022,145,Rain Gear,Brand_Z,0.024,0.019,27,11,135,400,Medium,7,15
+3/12/2022,145,Rain Gear,Brand_Z,0.016,0.029,23,14,122,400,Medium,8,13
+3/13/2022,145,Rain Gear,Brand_Z,0.014,0.028,26,9,109,400,Low,9,13
+3/14/2022,145,Rain Gear,Brand_Z,0.019,0.029,11,14,101,400,Low,10,8
+3/15/2022,145,Rain Gear,Brand_Z,0.027,0.022,15,15,285,400,High,1,27
+3/16/2022,145,Rain Gear,Brand_Z,0.043,0.028,19,15,276,400,Medium,2,9
+3/17/2022,145,Rain Gear,Brand_Z,0.048,0.027,15,15,255,400,Medium,3,21
+3/18/2022,145,Rain Gear,Brand_Z,0.03,0.023,15,19,234,400,Medium,4,21
+3/19/2022,145,Rain Gear,Brand_Z,0.011,0.03,28,16,228,400,Medium,5,6
+3/20/2022,145,Rain Gear,Brand_Z,0.015,0.026,10,9,199,400,Medium,6,29
+3/21/2022,145,Rain Gear,Brand_Z,0.037,0.018,25,17,170,400,Medium,7,29
+3/22/2022,145,Rain Gear,Brand_Z,0.035,0.029,23,10,146,400,Medium,8,24
+3/23/2022,145,Rain Gear,Brand_Z,0.05,0.019,21,9,135,400,Medium,9,11
+3/24/2022,145,Rain Gear,Brand_Z,0.048,0.029,20,19,108,400,Low,10,27
+3/25/2022,145,Rain Gear,Brand_Z,0.029,0.022,26,18,87,400,Low,11,21
+3/26/2022,145,Rain Gear,Brand_Z,0.017,0.023,26,5,345,400,High,1,16
+3/27/2022,145,Rain Gear,Brand_Z,0.046,0.028,22,15,332,400,High,2,13
+3/28/2022,145,Rain Gear,Brand_Z,0.013,0.01,15,13,316,400,High,3,16
+3/29/2022,145,Rain Gear,Brand_Z,0.043,0.027,25,5,286,400,High,4,30
+3/30/2022,145,Rain Gear,Brand_Z,0.036,0.02,20,17,278,400,Medium,5,8
+3/31/2022,145,Rain Gear,Brand_Z,0.014,0.025,24,14,271,400,Medium,6,7
+4/1/2022,145,Rain Gear,Brand_Z,0.013,0.025,25,9,265,400,Medium,7,6
+4/2/2022,145,Rain Gear,Brand_Z,0.014,0.02,7,10,240,400,Medium,8,25
+4/3/2022,145,Rain Gear,Brand_Z,0.032,0.026,29,19,210,400,Medium,9,30
+4/4/2022,145,Rain Gear,Brand_Z,0.026,0.015,11,10,194,400,Medium,10,16
+4/5/2022,145,Rain Gear,Brand_Z,0.044,0.021,22,15,180,400,Medium,11,14
+4/6/2022,145,Rain Gear,Brand_Z,0.032,0.027,24,12,154,400,Medium,12,26
+4/7/2022,145,Rain Gear,Brand_Z,0.014,0.013,9,8,133,400,Medium,13,21
+4/8/2022,145,Rain Gear,Brand_Z,0.039,0.023,11,15,115,400,Low,14,18
+4/9/2022,145,Rain Gear,Brand_Z,0.011,0.019,11,9,88,400,Low,15,27
+4/10/2022,145,Rain Gear,Brand_Z,0.028,0.024,8,13,252,400,Medium,1,28
+4/11/2022,145,Rain Gear,Brand_Z,0.028,0.027,20,19,226,400,Medium,2,26
+4/12/2022,145,Rain Gear,Brand_Z,0.026,0.012,14,6,201,400,Medium,3,25
+4/13/2022,145,Rain Gear,Brand_Z,0.029,0.018,17,10,177,400,Medium,4,24
+4/14/2022,145,Rain Gear,Brand_Z,0.034,0.012,20,18,147,400,Medium,5,30
+4/15/2022,145,Rain Gear,Brand_Z,0.022,0.019,11,18,126,400,Medium,6,21
+4/16/2022,145,Rain Gear,Brand_Z,0.016,0.022,22,18,119,400,Low,7,7
+4/17/2022,145,Rain Gear,Brand_Z,0.043,0.013,27,8,111,400,Low,8,8
+4/18/2022,145,Rain Gear,Brand_Z,0.037,0.018,26,18,97,400,Low,9,14
+4/19/2022,145,Rain Gear,Brand_Z,0.016,0.021,10,19,87,400,Low,10,10
+4/20/2022,145,Rain Gear,Brand_Z,0.05,0.023,20,10,81,400,Low,11,6
+4/21/2022,145,Rain Gear,Brand_Z,0.016,0.024,8,15,304,400,High,1,11
+4/22/2022,145,Rain Gear,Brand_Z,0.02,0.028,16,8,282,400,High,2,22
+4/23/2022,145,Rain Gear,Brand_Z,0.045,0.016,20,14,271,400,Medium,3,11
+4/24/2022,145,Rain Gear,Brand_Z,0.04,0.012,9,16,257,400,Medium,4,14
+4/25/2022,145,Rain Gear,Brand_Z,0.011,0.01,27,16,244,400,Medium,5,13
+4/26/2022,145,Rain Gear,Brand_Z,0.016,0.014,18,16,219,400,Medium,6,25
+4/27/2022,145,Rain Gear,Brand_Z,0.045,0.018,12,10,212,400,Medium,7,7
+4/28/2022,145,Rain Gear,Brand_Z,0.026,0.016,27,17,207,400,Medium,8,5
+4/29/2022,145,Rain Gear,Brand_Z,0.035,0.017,30,8,196,400,Medium,9,11
+4/30/2022,145,Rain Gear,Brand_Z,0.035,0.021,18,5,185,400,Medium,10,11
+5/1/2022,145,Rain Gear,Brand_Z,0.048,0.012,23,5,131,400,Medium,11,54
+5/2/2022,145,Rain Gear,Brand_Z,0.042,0.012,29,13,252,400,Medium,1,92
+5/3/2022,145,Rain Gear,Brand_Z,0.045,0.03,28,15,197,400,Medium,2,55
+5/4/2022,145,Rain Gear,Brand_Z,0.028,0.022,9,10,133,400,Medium,3,64
+5/5/2022,145,Rain Gear,Brand_Z,0.049,0.019,16,13,344,400,High,1,78
+5/6/2022,145,Rain Gear,Brand_Z,0.019,0.026,13,11,270,400,Medium,2,74
+5/7/2022,145,Rain Gear,Brand_Z,0.03,0.021,26,18,200,400,Medium,3,70
+5/8/2022,145,Rain Gear,Brand_Z,0.049,0.024,8,18,143,400,Medium,4,57
+5/9/2022,145,Rain Gear,Brand_Z,0.034,0.021,22,7,203,400,Medium,1,64
+5/10/2022,145,Rain Gear,Brand_Z,0.016,0.01,16,11,136,400,Medium,2,67
+5/11/2022,145,Rain Gear,Brand_Z,0.048,0.018,16,15,82,400,Low,3,54
+5/12/2022,145,Rain Gear,Brand_Z,0.014,0.016,29,18,104,400,Low,1,98
+5/13/2022,145,Rain Gear,Brand_Z,0.049,0.011,19,15,305,400,High,1,71
+5/14/2022,145,Rain Gear,Brand_Z,0.047,0.017,10,19,218,400,Medium,2,87
+5/15/2022,145,Rain Gear,Brand_Z,0.013,0.013,8,19,149,400,Medium,3,69
+5/16/2022,145,Rain Gear,Brand_Z,0.046,0.01,30,7,348,400,High,1,75
+5/17/2022,145,Rain Gear,Brand_Z,0.049,0.02,15,17,283,400,High,2,65
+5/18/2022,145,Rain Gear,Brand_Z,0.035,0.027,21,19,195,400,Medium,3,88
+5/19/2022,145,Rain Gear,Brand_Z,0.034,0.011,26,6,145,400,Medium,4,50
+5/20/2022,145,Rain Gear,Brand_Z,0.025,0.019,20,19,301,400,High,1,70
+5/21/2022,145,Rain Gear,Brand_Z,0.027,0.028,14,14,211,400,Medium,2,90
+5/22/2022,145,Rain Gear,Brand_Z,0.04,0.017,17,9,143,400,Medium,3,68
+5/23/2022,145,Rain Gear,Brand_Z,0.043,0.012,28,15,253,400,Medium,1,94
+5/24/2022,145,Rain Gear,Brand_Z,0.039,0.021,29,6,202,400,Medium,2,51
+5/25/2022,145,Rain Gear,Brand_Z,0.036,0.03,19,9,133,400,Medium,3,69
+5/26/2022,145,Rain Gear,Brand_Z,0.013,0.022,7,16,181,400,Medium,1,56
+5/27/2022,145,Rain Gear,Brand_Z,0.032,0.025,13,8,81,400,Low,2,100
+5/28/2022,145,Rain Gear,Brand_Z,0.027,0.012,24,14,266,400,Medium,1,60
+5/29/2022,145,Rain Gear,Brand_Z,0.033,0.027,20,15,216,400,Medium,2,50
+5/30/2022,145,Rain Gear,Brand_Z,0.023,0.024,8,18,155,400,Medium,3,61
+5/31/2022,145,Rain Gear,Brand_Z,0.023,0.027,30,17,310,400,High,1,77
+6/1/2022,145,Rain Gear,Brand_Z,0.027,0.012,26,15,224,400,Medium,2,86
+6/2/2022,145,Rain Gear,Brand_Z,0.043,0.026,14,7,140,400,Medium,3,84
+6/3/2022,145,Rain Gear,Brand_Z,0.045,0.011,20,20,197,400,Medium,1,82
+6/4/2022,145,Rain Gear,Brand_Z,0.036,0.021,10,11,119,400,Low,2,78
+6/5/2022,145,Rain Gear,Brand_Z,0.034,0.011,25,9,227,400,Medium,1,52
+6/6/2022,145,Rain Gear,Brand_Z,0.037,0.026,7,10,160,400,Medium,2,67
+6/7/2022,145,Rain Gear,Brand_Z,0.045,0.024,18,6,218,400,Medium,1,94
+6/8/2022,145,Rain Gear,Brand_Z,0.018,0.03,17,11,155,400,Medium,2,63
+6/9/2022,145,Rain Gear,Brand_Z,0.011,0.017,13,9,84,400,Low,3,71
+6/10/2022,145,Rain Gear,Brand_Z,0.025,0.015,9,13,248,400,Medium,1,63
+6/11/2022,145,Rain Gear,Brand_Z,0.04,0.028,12,15,181,400,Medium,2,67
+6/12/2022,145,Rain Gear,Brand_Z,0.048,0.02,22,18,118,400,Low,3,63
+6/13/2022,145,Rain Gear,Brand_Z,0.047,0.013,17,17,333,400,High,1,70
+6/14/2022,145,Rain Gear,Brand_Z,0.032,0.019,19,8,236,400,Medium,2,97
+6/15/2022,145,Rain Gear,Brand_Z,0.016,0.024,9,8,166,400,Medium,3,70
+6/16/2022,145,Rain Gear,Brand_Z,0.019,0.026,10,11,100,400,Low,4,66
+6/17/2022,145,Rain Gear,Brand_Z,0.039,0.019,7,14,267,400,Medium,1,80
+6/18/2022,145,Rain Gear,Brand_Z,0.029,0.017,21,13,197,400,Medium,2,70
+6/19/2022,145,Rain Gear,Brand_Z,0.039,0.027,10,20,111,400,Low,3,86
+6/20/2022,145,Rain Gear,Brand_Z,0.045,0.013,20,18,214,400,Medium,1,57
+6/21/2022,145,Rain Gear,Brand_Z,0.045,0.019,23,6,121,400,Medium,2,93
+6/22/2022,145,Rain Gear,Brand_Z,0.012,0.027,9,5,212,400,Medium,1,75
+6/23/2022,145,Rain Gear,Brand_Z,0.021,0.017,20,7,130,400,Medium,2,82
+6/24/2022,145,Rain Gear,Brand_Z,0.037,0.027,18,6,163,400,Medium,1,88
+6/25/2022,145,Rain Gear,Brand_Z,0.013,0.01,19,5,101,400,Low,2,62
+6/26/2022,145,Rain Gear,Brand_Z,0.047,0.023,15,13,314,400,High,1,83
+6/27/2022,145,Rain Gear,Brand_Z,0.032,0.026,13,15,226,400,Medium,2,88
+6/28/2022,145,Rain Gear,Brand_Z,0.01,0.026,9,10,143,400,Medium,3,83
+6/29/2022,145,Rain Gear,Brand_Z,0.012,0.022,17,20,342,400,High,1,99
+6/30/2022,145,Rain Gear,Brand_Z,0.043,0.023,10,13,242,400,Medium,2,100
+7/1/2022,145,Rain Gear,Brand_Z,0.041,0.016,8,15,180,400,Medium,3,62
+7/2/2022,145,Rain Gear,Brand_Z,0.025,0.029,17,17,83,400,Low,4,97
+7/3/2022,145,Rain Gear,Brand_Z,0.012,0.016,28,14,202,400,Medium,1,65
+7/4/2022,145,Rain Gear,Brand_Z,0.026,0.025,12,15,118,400,Low,2,84
+7/5/2022,145,Rain Gear,Brand_Z,0.048,0.011,13,16,257,400,Medium,1,94
+7/6/2022,145,Rain Gear,Brand_Z,0.049,0.023,8,8,177,400,Medium,2,80
+7/7/2022,145,Rain Gear,Brand_Z,0.041,0.014,24,9,97,400,Low,3,80
+7/8/2022,145,Rain Gear,Brand_Z,0.028,0.012,11,8,257,400,Medium,1,50
+7/9/2022,145,Rain Gear,Brand_Z,0.015,0.013,11,7,183,400,Medium,2,74
+7/10/2022,145,Rain Gear,Brand_Z,0.013,0.017,20,16,109,400,Low,3,74
+7/11/2022,145,Rain Gear,Brand_Z,0.029,0.029,18,14,166,400,Medium,1,59
+7/12/2022,145,Rain Gear,Brand_Z,0.037,0.022,11,18,100,400,Low,2,66
+7/13/2022,145,Rain Gear,Brand_Z,0.022,0.014,8,5,190,400,Medium,1,73
+7/14/2022,145,Rain Gear,Brand_Z,0.049,0.014,25,10,94,400,Low,2,96
+7/15/2022,145,Rain Gear,Brand_Z,0.013,0.026,14,20,265,400,Medium,1,86
+7/16/2022,145,Rain Gear,Brand_Z,0.016,0.015,23,9,197,400,Medium,2,68
+7/17/2022,145,Rain Gear,Brand_Z,0.037,0.023,17,9,99,400,Low,3,98
+7/18/2022,145,Rain Gear,Brand_Z,0.018,0.022,21,19,310,400,High,1,53
+7/19/2022,145,Rain Gear,Brand_Z,0.01,0.015,28,14,259,400,Medium,2,51
+7/20/2022,145,Rain Gear,Brand_Z,0.03,0.014,11,9,171,400,Medium,3,88
+7/21/2022,145,Rain Gear,Brand_Z,0.037,0.026,7,7,112,400,Low,4,59
+7/22/2022,145,Rain Gear,Brand_Z,0.041,0.023,13,9,289,400,High,1,94
+7/23/2022,145,Rain Gear,Brand_Z,0.021,0.026,19,10,206,400,Medium,2,83
+7/24/2022,145,Rain Gear,Brand_Z,0.025,0.02,7,6,137,400,Medium,3,69
+7/25/2022,145,Rain Gear,Brand_Z,0.017,0.022,25,18,229,400,Medium,1,61
+7/26/2022,145,Rain Gear,Brand_Z,0.029,0.027,13,20,158,400,Medium,2,71
+7/27/2022,145,Rain Gear,Brand_Z,0.024,0.023,30,19,83,400,Low,3,75
+7/28/2022,145,Rain Gear,Brand_Z,0.037,0.012,20,7,199,400,Medium,1,62
+7/29/2022,145,Rain Gear,Brand_Z,0.025,0.028,12,16,108,400,Low,2,91
+7/30/2022,145,Rain Gear,Brand_Z,0.019,0.024,14,15,232,400,Medium,1,69
+7/31/2022,145,Rain Gear,Brand_Z,0.025,0.024,11,16,163,400,Medium,2,69
+8/1/2022,145,Rain Gear,Brand_Z,0.017,0.029,22,13,142,400,Medium,3,21
+8/2/2022,145,Rain Gear,Brand_Z,0.04,0.029,14,6,132,400,Medium,4,10
+8/3/2022,145,Rain Gear,Brand_Z,0.027,0.023,15,8,118,400,Low,5,14
+8/4/2022,145,Rain Gear,Brand_Z,0.015,0.015,29,7,104,400,Low,6,14
+8/5/2022,145,Rain Gear,Brand_Z,0.039,0.024,28,16,349,400,High,1,28
+8/6/2022,145,Rain Gear,Brand_Z,0.045,0.03,9,17,342,400,High,2,7
+8/7/2022,145,Rain Gear,Brand_Z,0.049,0.03,20,8,317,400,High,3,25
+8/8/2022,145,Rain Gear,Brand_Z,0.029,0.02,13,15,290,400,High,4,27
+8/9/2022,145,Rain Gear,Brand_Z,0.011,0.029,15,8,282,400,High,5,8
+8/10/2022,145,Rain Gear,Brand_Z,0.049,0.022,22,20,256,400,Medium,6,26
+8/11/2022,145,Rain Gear,Brand_Z,0.013,0.022,24,17,227,400,Medium,7,29
+8/12/2022,145,Rain Gear,Brand_Z,0.02,0.02,8,16,214,400,Medium,8,13
+8/13/2022,145,Rain Gear,Brand_Z,0.014,0.017,25,6,191,400,Medium,9,23
+8/14/2022,145,Rain Gear,Brand_Z,0.039,0.011,26,15,186,400,Medium,10,5
+8/15/2022,145,Rain Gear,Brand_Z,0.027,0.027,24,6,173,400,Medium,11,13
+8/16/2022,145,Rain Gear,Brand_Z,0.019,0.025,20,10,160,400,Medium,12,13
+8/17/2022,145,Rain Gear,Brand_Z,0.021,0.019,13,14,138,400,Medium,13,22
+8/18/2022,145,Rain Gear,Brand_Z,0.033,0.017,18,14,124,400,Medium,14,14
+8/19/2022,145,Rain Gear,Brand_Z,0.033,0.012,29,8,99,400,Low,15,25
+8/20/2022,145,Rain Gear,Brand_Z,0.048,0.018,24,19,333,400,High,1,28
+8/21/2022,145,Rain Gear,Brand_Z,0.023,0.018,23,11,310,400,High,2,23
+8/22/2022,145,Rain Gear,Brand_Z,0.025,0.029,28,5,299,400,High,3,11
+8/23/2022,145,Rain Gear,Brand_Z,0.034,0.028,13,10,279,400,Medium,4,20
+8/24/2022,145,Rain Gear,Brand_Z,0.046,0.02,30,15,269,400,Medium,5,10
+8/25/2022,145,Rain Gear,Brand_Z,0.038,0.022,30,13,251,400,Medium,6,18
+8/26/2022,145,Rain Gear,Brand_Z,0.046,0.019,18,13,243,400,Medium,7,8
+8/27/2022,145,Rain Gear,Brand_Z,0.05,0.012,21,11,226,400,Medium,8,17
+8/28/2022,145,Rain Gear,Brand_Z,0.042,0.017,16,8,201,400,Medium,9,25
+8/29/2022,145,Rain Gear,Brand_Z,0.012,0.015,16,11,194,400,Medium,10,7
+8/30/2022,145,Rain Gear,Brand_Z,0.038,0.012,21,18,167,400,Medium,11,27
+8/31/2022,145,Rain Gear,Brand_Z,0.05,0.014,8,18,138,400,Medium,12,29
+9/1/2022,145,Rain Gear,Brand_Z,0.011,0.017,15,10,113,400,Low,13,25
+9/2/2022,145,Rain Gear,Brand_Z,0.011,0.023,15,11,92,400,Low,14,21
+9/3/2022,145,Rain Gear,Brand_Z,0.039,0.022,14,7,232,400,Medium,1,16
+9/4/2022,145,Rain Gear,Brand_Z,0.017,0.018,13,20,217,400,Medium,2,15
+9/5/2022,145,Rain Gear,Brand_Z,0.032,0.028,23,12,191,400,Medium,3,26
+9/6/2022,145,Rain Gear,Brand_Z,0.034,0.021,13,16,168,400,Medium,4,23
+9/7/2022,145,Rain Gear,Brand_Z,0.032,0.011,20,5,144,400,Medium,5,24
+9/8/2022,145,Rain Gear,Brand_Z,0.03,0.01,9,15,116,400,Low,6,28
+9/9/2022,145,Rain Gear,Brand_Z,0.019,0.016,16,17,91,400,Low,7,25
+9/10/2022,145,Rain Gear,Brand_Z,0.044,0.011,21,20,230,400,Medium,1,19
+9/11/2022,145,Rain Gear,Brand_Z,0.011,0.012,22,12,225,400,Medium,2,5
+9/12/2022,145,Rain Gear,Brand_Z,0.021,0.018,28,7,211,400,Medium,3,14
+9/13/2022,145,Rain Gear,Brand_Z,0.037,0.011,26,19,201,400,Medium,4,10
+9/14/2022,145,Rain Gear,Brand_Z,0.015,0.018,9,17,189,400,Medium,5,12
+9/15/2022,145,Rain Gear,Brand_Z,0.012,0.016,12,18,181,400,Medium,6,8
+9/16/2022,145,Rain Gear,Brand_Z,0.05,0.029,11,20,152,400,Medium,7,29
+9/17/2022,145,Rain Gear,Brand_Z,0.037,0.021,16,10,145,400,Medium,8,7
+9/18/2022,145,Rain Gear,Brand_Z,0.026,0.01,26,19,140,400,Medium,9,5
+9/19/2022,145,Rain Gear,Brand_Z,0.024,0.027,20,18,120,400,Low,10,20
+9/20/2022,145,Rain Gear,Brand_Z,0.024,0.016,12,10,99,400,Low,11,21
+9/21/2022,145,Rain Gear,Brand_Z,0.018,0.022,29,5,80,400,Low,12,19
+9/22/2022,145,Rain Gear,Brand_Z,0.022,0.026,8,16,339,400,High,1,7
+9/23/2022,145,Rain Gear,Brand_Z,0.031,0.022,12,9,330,400,High,2,9
+9/24/2022,145,Rain Gear,Brand_Z,0.026,0.014,14,20,325,400,High,3,5
+9/25/2022,145,Rain Gear,Brand_Z,0.023,0.02,30,10,311,400,High,4,14
+9/26/2022,145,Rain Gear,Brand_Z,0.019,0.03,18,18,303,400,High,5,8
+9/27/2022,145,Rain Gear,Brand_Z,0.044,0.015,11,12,282,400,High,6,21
+9/28/2022,145,Rain Gear,Brand_Z,0.025,0.013,25,12,271,400,Medium,7,11
+9/29/2022,145,Rain Gear,Brand_Z,0.039,0.018,14,11,256,400,Medium,8,15
+9/30/2022,145,Rain Gear,Brand_Z,0.019,0.019,30,6,242,400,Medium,9,14
+10/1/2022,145,Rain Gear,Brand_Z,0.017,0.011,16,15,219,400,Medium,10,23
+10/2/2022,145,Rain Gear,Brand_Z,0.032,0.017,24,11,211,400,Medium,11,8
+10/3/2022,145,Rain Gear,Brand_Z,0.04,0.026,13,17,182,400,Medium,12,29
+10/4/2022,145,Rain Gear,Brand_Z,0.013,0.021,15,16,164,400,Medium,13,18
+10/5/2022,145,Rain Gear,Brand_Z,0.018,0.026,22,14,138,400,Medium,14,26
+10/6/2022,145,Rain Gear,Brand_Z,0.014,0.022,10,5,130,400,Medium,15,8
+10/7/2022,145,Rain Gear,Brand_Z,0.031,0.016,20,5,115,400,Low,16,15
+10/8/2022,145,Rain Gear,Brand_Z,0.018,0.013,18,7,98,400,Low,17,17
+10/9/2022,145,Rain Gear,Brand_Z,0.019,0.025,8,8,269,400,Medium,1,21
+10/10/2022,145,Rain Gear,Brand_Z,0.037,0.024,27,7,256,400,Medium,2,13
+10/11/2022,145,Rain Gear,Brand_Z,0.049,0.014,20,5,246,400,Medium,3,10
+10/12/2022,145,Rain Gear,Brand_Z,0.04,0.011,19,14,223,400,Medium,4,23
+10/13/2022,145,Rain Gear,Brand_Z,0.027,0.011,16,20,193,400,Medium,5,30
+10/14/2022,145,Rain Gear,Brand_Z,0.025,0.012,26,14,171,400,Medium,6,22
+10/15/2022,145,Rain Gear,Brand_Z,0.028,0.022,21,11,165,400,Medium,7,6
+10/16/2022,145,Rain Gear,Brand_Z,0.028,0.024,17,10,151,400,Medium,8,14
+10/17/2022,145,Rain Gear,Brand_Z,0.035,0.018,19,12,134,400,Medium,9,17
+10/18/2022,145,Rain Gear,Brand_Z,0.038,0.013,23,13,125,400,Medium,10,9
+10/19/2022,145,Rain Gear,Brand_Z,0.045,0.017,28,9,100,400,Low,11,25
+10/20/2022,145,Rain Gear,Brand_Z,0.046,0.023,25,16,88,400,Low,12,12
+10/21/2022,145,Rain Gear,Brand_Z,0.023,0.029,21,11,308,400,High,1,21
+10/22/2022,145,Rain Gear,Brand_Z,0.011,0.01,30,6,287,400,High,2,21
+10/23/2022,145,Rain Gear,Brand_Z,0.028,0.011,27,16,270,400,Medium,3,17
+10/24/2022,145,Rain Gear,Brand_Z,0.037,0.017,28,19,256,400,Medium,4,14
+10/25/2022,145,Rain Gear,Brand_Z,0.036,0.027,25,18,235,400,Medium,5,21
+10/26/2022,145,Rain Gear,Brand_Z,0.012,0.029,30,5,212,400,Medium,6,23
+10/27/2022,145,Rain Gear,Brand_Z,0.017,0.018,28,15,205,400,Medium,7,7
+10/28/2022,145,Rain Gear,Brand_Z,0.046,0.013,18,12,182,400,Medium,8,23
+10/29/2022,145,Rain Gear,Brand_Z,0.017,0.022,19,20,163,400,Medium,9,19
+10/30/2022,145,Rain Gear,Brand_Z,0.026,0.027,22,9,155,400,Medium,10,8
+10/31/2022,145,Rain Gear,Brand_Z,0.046,0.024,8,14,149,400,Medium,11,6
+11/1/2022,145,Rain Gear,Brand_Z,0.039,0.022,9,5,125,400,Medium,12,24
+11/2/2022,145,Rain Gear,Brand_Z,0.036,0.028,21,14,97,400,Low,13,28
+11/3/2022,145,Rain Gear,Brand_Z,0.026,0.021,22,5,89,400,Low,14,8
+11/4/2022,145,Rain Gear,Brand_Z,0.013,0.029,8,18,191,400,Medium,1,15
+11/5/2022,145,Rain Gear,Brand_Z,0.044,0.026,10,16,177,400,Medium,2,14
+11/6/2022,145,Rain Gear,Brand_Z,0.025,0.026,12,18,162,400,Medium,3,15
+11/7/2022,145,Rain Gear,Brand_Z,0.028,0.019,12,9,142,400,Medium,4,20
+11/8/2022,145,Rain Gear,Brand_Z,0.015,0.017,28,6,119,400,Low,5,23
+11/9/2022,145,Rain Gear,Brand_Z,0.012,0.015,14,6,97,400,Low,6,22
+11/10/2022,145,Rain Gear,Brand_Z,0.049,0.019,14,9,84,400,Low,7,13
+11/11/2022,145,Rain Gear,Brand_Z,0.047,0.029,15,5,196,400,Medium,1,29
+11/12/2022,145,Rain Gear,Brand_Z,0.023,0.012,29,9,170,400,Medium,2,26
+11/13/2022,145,Rain Gear,Brand_Z,0.01,0.025,17,6,146,400,Medium,3,24
+11/14/2022,145,Rain Gear,Brand_Z,0.039,0.011,21,14,117,400,Low,4,29
+11/15/2022,145,Rain Gear,Brand_Z,0.016,0.013,9,16,93,400,Low,5,24
+11/16/2022,145,Rain Gear,Brand_Z,0.029,0.02,24,14,87,400,Low,6,6
+11/17/2022,145,Rain Gear,Brand_Z,0.013,0.01,15,20,80,400,Low,7,7
+11/18/2022,145,Rain Gear,Brand_Z,0.013,0.013,18,9,325,400,High,1,30
+11/19/2022,145,Rain Gear,Brand_Z,0.018,0.017,14,7,308,400,High,2,17
+11/20/2022,145,Rain Gear,Brand_Z,0.029,0.026,25,15,286,400,High,3,22
+11/21/2022,145,Rain Gear,Brand_Z,0.045,0.014,10,16,270,400,Medium,4,16
+11/22/2022,145,Rain Gear,Brand_Z,0.018,0.017,18,6,259,400,Medium,5,11
+11/23/2022,145,Rain Gear,Brand_Z,0.026,0.026,17,5,245,400,Medium,6,14
+11/24/2022,145,Rain Gear,Brand_Z,0.046,0.016,24,15,232,400,Medium,7,13
+11/25/2022,145,Rain Gear,Brand_Z,0.031,0.03,11,16,221,400,Medium,8,11
+11/26/2022,145,Rain Gear,Brand_Z,0.029,0.021,20,7,196,400,Medium,9,25
+11/27/2022,145,Rain Gear,Brand_Z,0.047,0.018,19,5,177,400,Medium,10,19
+11/28/2022,145,Rain Gear,Brand_Z,0.03,0.019,28,9,170,400,Medium,11,7
+11/29/2022,145,Rain Gear,Brand_Z,0.015,0.026,17,8,164,400,Medium,12,6
+11/30/2022,145,Rain Gear,Brand_Z,0.013,0.03,18,7,158,400,Medium,13,6
+12/1/2022,145,Rain Gear,Brand_Z,0.013,0.024,9,12,129,400,Medium,14,29
+12/2/2022,145,Rain Gear,Brand_Z,0.029,0.022,22,12,120,400,Low,15,9
+12/3/2022,145,Rain Gear,Brand_Z,0.043,0.012,16,10,93,400,Low,16,27
+12/4/2022,145,Rain Gear,Brand_Z,0.048,0.021,7,16,86,400,Low,17,7
+12/5/2022,145,Rain Gear,Brand_Z,0.019,0.018,27,10,354,400,High,1,27
+12/6/2022,145,Rain Gear,Brand_Z,0.048,0.017,16,6,333,400,High,2,21
+12/7/2022,145,Rain Gear,Brand_Z,0.014,0.026,11,17,303,400,High,3,30
+12/8/2022,145,Rain Gear,Brand_Z,0.045,0.026,23,8,291,400,High,4,12
+12/9/2022,145,Rain Gear,Brand_Z,0.038,0.023,12,6,273,400,Medium,5,18
+12/10/2022,145,Rain Gear,Brand_Z,0.045,0.022,29,15,256,400,Medium,6,17
+12/11/2022,145,Rain Gear,Brand_Z,0.045,0.015,28,11,238,400,Medium,7,18
+12/12/2022,145,Rain Gear,Brand_Z,0.045,0.026,10,8,229,400,Medium,8,9
+12/13/2022,145,Rain Gear,Brand_Z,0.033,0.025,7,10,212,400,Medium,9,17
+12/14/2022,145,Rain Gear,Brand_Z,0.027,0.02,28,19,193,400,Medium,10,19
+12/15/2022,145,Rain Gear,Brand_Z,0.023,0.024,27,7,163,400,Medium,11,30
+12/16/2022,145,Rain Gear,Brand_Z,0.015,0.011,25,8,157,400,Medium,12,6
+12/17/2022,145,Rain Gear,Brand_Z,0.013,0.024,10,8,127,400,Medium,13,30
+12/18/2022,145,Rain Gear,Brand_Z,0.046,0.012,30,5,113,400,Low,14,14
+12/19/2022,145,Rain Gear,Brand_Z,0.044,0.012,29,18,85,400,Low,15,28
+12/20/2022,145,Rain Gear,Brand_Z,0.028,0.023,30,18,327,400,High,1,11
+12/21/2022,145,Rain Gear,Brand_Z,0.038,0.021,25,5,303,400,High,2,24
+12/22/2022,145,Rain Gear,Brand_Z,0.041,0.013,11,13,294,400,High,3,9
+12/23/2022,145,Rain Gear,Brand_Z,0.018,0.017,16,13,275,400,Medium,4,19
+12/24/2022,145,Rain Gear,Brand_Z,0.041,0.022,11,6,261,400,Medium,5,14
+12/25/2022,145,Rain Gear,Brand_Z,0.038,0.026,13,16,238,400,Medium,6,23
+12/26/2022,145,Rain Gear,Brand_Z,0.032,0.011,25,17,224,400,Medium,7,14
+12/27/2022,145,Rain Gear,Brand_Z,0.047,0.011,16,10,217,400,Medium,8,7
+12/28/2022,145,Rain Gear,Brand_Z,0.016,0.022,19,14,210,400,Medium,9,7
+12/29/2022,145,Rain Gear,Brand_Z,0.023,0.023,30,19,191,400,Medium,10,19
+12/30/2022,145,Rain Gear,Brand_Z,0.04,0.03,7,7,163,400,Medium,11,28
+12/31/2022,145,Rain Gear,Brand_Z,0.016,0.025,9,20,149,400,Medium,12,14
+12/1/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.015,0.015,24,9,800,880,High,12,90
+12/2/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.034,0.013,30,8,710,880,High,21,81
+12/3/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.016,0.013,23,11,629,880,High,17,58
+12/4/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.02,0.025,16,9,571,880,Medium,4,59
+12/5/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.022,0.024,17,13,512,880,Medium,50,70
+12/6/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.026,0.016,11,5,442,880,Medium,31,65
+12/7/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.033,0.03,13,13,377,880,Medium,11,97
+12/8/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.025,0.028,16,6,280,880,Medium,17,68
+12/9/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.017,0.029,27,14,212,880,Low,40,107
+12/10/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.019,0.022,17,13,105,880,Low,36,88
+12/11/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.025,0.012,16,5,617,880,High,27,61
+12/12/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.039,0.02,16,10,556,880,Medium,33,50
+12/13/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.024,0.024,19,14,506,880,Medium,45,110
+12/14/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.016,0.015,27,6,396,880,Medium,30,118
+12/15/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.036,0.024,12,13,278,880,Medium,18,78
+12/16/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.018,0.019,15,13,200,880,Low,24,82
+12/17/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.031,0.025,30,5,118,880,Low,26,106
+12/18/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.021,0.011,17,8,612,880,Medium,15,95
+12/19/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.039,0.011,17,14,517,880,Medium,29,90
+12/20/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.033,0.018,13,11,427,880,Medium,36,105
+12/21/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.034,0.017,12,10,322,880,Medium,1,84
+12/22/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.018,0.016,27,6,238,880,Low,39,114
+12/23/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.025,0.024,19,9,124,880,Low,31,120
+12/24/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.027,0.019,14,12,704,880,High,36,63
+12/25/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.033,0.019,27,6,641,880,High,13,50
+12/26/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.013,0.012,17,14,591,880,Medium,8,61
+12/27/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.038,0.021,25,10,530,880,Medium,36,111
+12/28/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.028,0.016,16,15,419,880,Medium,5,63
+12/29/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.036,0.023,24,5,356,880,Medium,27,99
+12/30/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.029,0.017,11,5,257,880,Low,40,109
+12/31/2022,385,Tet Holiday Decorations,Acevedo and Sons,0.037,0.019,24,15,148,880,Low,26,59
+1/1/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.039,0.024,25,11,89,880,Low,10,71
+1/2/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.024,0.016,13,5,818,880,High,32,95
+1/3/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.019,0.025,14,7,723,880,High,48,63
+1/4/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.025,0.013,30,9,660,880,High,37,59
+1/5/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.024,0.023,18,7,601,880,Medium,12,117
+1/6/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.015,0.026,14,11,484,880,Medium,23,51
+1/7/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.024,0.018,24,5,433,880,Medium,50,106
+1/8/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.02,0.021,29,15,327,880,Medium,32,119
+1/9/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.032,0.017,16,12,208,880,Low,46,71
+1/10/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.017,0.027,17,9,137,880,Low,32,88
+1/11/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.034,0.017,19,9,849,880,High,12,61
+1/12/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.028,0.02,30,12,788,880,High,21,53
+1/13/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.02,0.023,26,11,735,880,High,42,103
+1/14/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.036,0.015,18,8,632,880,High,13,67
+1/15/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.011,0.029,22,10,565,880,Medium,16,80
+1/16/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.032,0.023,18,6,485,880,Medium,33,109
+1/17/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.021,0.022,29,11,376,880,Medium,12,80
+1/18/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.032,0.013,22,12,296,880,Medium,3,93
+1/19/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.01,0.021,17,7,203,880,Low,25,86
+1/20/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.019,0.012,26,8,117,880,Low,27,90
+1/21/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.037,0.011,22,15,777,880,High,26,88
+1/22/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.029,0.024,21,12,689,880,High,11,91
+1/23/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.014,0.014,29,6,598,880,Medium,30,56
+1/24/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.038,0.023,21,10,542,880,Medium,26,59
+1/25/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.039,0.021,10,13,483,880,Medium,12,62
+1/26/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.022,0.017,22,11,421,880,Medium,48,51
+1/27/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.028,0.021,22,5,370,880,Medium,43,117
+1/28/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.026,0.028,27,11,253,880,Low,9,63
+1/29/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.011,0.013,26,8,190,880,Low,4,92
+1/30/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.033,0.023,27,15,98,880,Low,23,85
+1/31/2023,385,Tet Holiday Decorations,Acevedo and Sons,0.019,0.014,30,15,13,880,Low,41,60
+1/1/2022,154,Food,Brand_F,0.003,0.002,3,8,4000,5000,High,2,1446
+1/2/2022,154,Food,Brand_F,0.002,0.003,3,7,2554,5000,Medium,3,1139
+1/3/2022,154,Food,Brand_F,0.002,0.002,3,7,4415,5000,High,1,1343
+1/4/2022,154,Food,Brand_F,0.003,0.002,3,11,3072,5000,Medium,2,1150
+1/5/2022,154,Food,Brand_F,0.004,0.002,3,12,1922,5000,Medium,3,1405
+1/6/2022,154,Food,Brand_F,0.002,0.002,3,6,3517,5000,High,1,1453
+1/7/2022,154,Food,Brand_F,0.004,0.002,3,11,2064,5000,Medium,2,1289
+1/8/2022,154,Food,Brand_F,0.003,0.003,3,8,3775,5000,High,1,1294
+1/9/2022,154,Food,Brand_F,0.002,0.003,3,10,2481,5000,Medium,2,1403
+1/10/2022,154,Food,Brand_F,0.004,0.002,3,8,4078,5000,High,1,1110
+1/11/2022,154,Food,Brand_F,0.002,0.002,3,10,2968,5000,Medium,2,1201
+1/12/2022,154,Food,Brand_F,0.005,0.002,3,7,1767,5000,Medium,3,1156
+1/13/2022,154,Food,Brand_F,0.004,0.003,3,7,3611,5000,High,1,1285
+1/14/2022,154,Food,Brand_F,0.004,0.002,3,9,2326,5000,Medium,2,1494
+1/15/2022,154,Food,Brand_F,0.004,0.001,3,8,3832,5000,High,1,1297
+1/16/2022,154,Food,Brand_F,0.003,0.003,3,5,2535,5000,Medium,2,1347
+1/17/2022,154,Food,Brand_F,0.002,0.002,3,9,4188,5000,High,1,1526
+1/18/2022,154,Food,Brand_F,0.004,0.002,3,8,2662,5000,Medium,2,1275
+1/19/2022,154,Food,Brand_F,0.003,0.002,3,7,4387,5000,High,1,1247
+1/20/2022,154,Food,Brand_F,0.001,0.002,3,6,3140,5000,Medium,2,1225
+1/21/2022,154,Food,Brand_F,0.002,0.002,3,5,1915,5000,Medium,3,1443
+1/22/2022,154,Food,Brand_F,0.003,0.001,3,8,3472,5000,Medium,1,1570
+1/23/2022,154,Food,Brand_F,0.004,0.002,3,7,1902,5000,Medium,2,1162
+1/24/2022,154,Food,Brand_F,0.002,0.001,3,8,3740,5000,High,1,1224
+1/25/2022,154,Food,Brand_F,0.002,0.003,3,11,2516,5000,Medium,2,1448
+1/26/2022,154,Food,Brand_F,0.002,0.002,3,8,4068,5000,High,1,1236
+1/27/2022,154,Food,Brand_F,0.002,0.001,3,12,2832,5000,Medium,2,1459
+1/28/2022,154,Food,Brand_F,0.004,0.003,3,6,4373,5000,High,1,1172
+1/29/2022,154,Food,Brand_F,0.002,0.002,3,8,3201,5000,Medium,2,1107
+1/30/2022,154,Food,Brand_F,0.002,0.003,3,13,2094,5000,Medium,3,1194
+1/31/2022,154,Food,Brand_F,0.002,0.002,5,13,3900,5000,High,1,1403
+2/1/2022,154,Food,Brand_F,0.004,0.002,5,8,2497,3000,High,2,712
+2/2/2022,154,Food,Brand_F,0.002,0.002,5,20,1785,3000,Medium,3,623
+2/3/2022,154,Food,Brand_F,0.004,0.001,5,18,2662,3000,High,1,642
+2/4/2022,154,Food,Brand_F,0.002,0.003,5,15,2020,3000,Medium,2,578
+2/5/2022,154,Food,Brand_F,0.001,0.002,5,10,2942,3000,High,1,759
+2/6/2022,154,Food,Brand_F,0.003,0.003,5,10,2183,3000,High,2,674
+2/7/2022,154,Food,Brand_F,0.005,0.001,5,18,1509,3000,Medium,3,546
+2/8/2022,154,Food,Brand_F,0.002,0.003,5,10,2463,3000,High,1,611
+2/9/2022,154,Food,Brand_F,0.003,0.001,5,9,1852,3000,Medium,2,789
+2/10/2022,154,Food,Brand_F,0.005,0.003,5,9,2563,3000,High,1,794
+2/11/2022,154,Food,Brand_F,0.003,0.001,5,16,1769,3000,Medium,2,793
+2/12/2022,154,Food,Brand_F,0.004,0.001,5,5,2476,3000,High,1,594
+2/13/2022,154,Food,Brand_F,0.001,0.002,5,18,1882,3000,Medium,2,667
+2/14/2022,154,Food,Brand_F,0.003,0.002,5,8,2715,3000,High,1,721
+2/15/2022,154,Food,Brand_F,0.004,0.003,5,19,1994,3000,Medium,2,561
+2/16/2022,154,Food,Brand_F,0.003,0.002,5,15,2933,3000,High,1,559
+2/17/2022,154,Food,Brand_F,0.005,0.002,5,15,2374,3000,High,2,502
+2/18/2022,154,Food,Brand_F,0.003,0.003,5,14,1872,3000,Medium,3,799
+2/19/2022,154,Food,Brand_F,0.001,0.003,5,19,2573,3000,High,1,517
+2/20/2022,154,Food,Brand_F,0.001,0.002,5,7,2056,3000,Medium,2,624
+2/21/2022,154,Food,Brand_F,0.003,0.001,5,5,2932,3000,High,1,741
+2/22/2022,154,Food,Brand_F,0.002,0.002,5,13,2191,3000,High,2,629
+2/23/2022,154,Food,Brand_F,0.005,0.002,5,12,1562,3000,Medium,3,631
+2/24/2022,154,Food,Brand_F,0.002,0.001,5,15,2431,3000,High,1,680
+2/25/2022,154,Food,Brand_F,0.001,0.001,5,9,1751,3000,Medium,2,623
+2/26/2022,154,Food,Brand_F,0.003,0.002,5,19,2628,3000,High,1,613
+2/27/2022,154,Food,Brand_F,0.003,0.002,5,16,2015,3000,Medium,2,621
+2/28/2022,154,Food,Brand_F,0.004,0.002,5,18,2894,3000,High,1,565
+3/1/2022,154,Food,Brand_F,0.005,0.001,5,13,2329,3000,High,2,614
+3/2/2022,154,Food,Brand_F,0.005,0.002,5,15,1715,3000,Medium,3,707
+3/3/2022,154,Food,Brand_F,0.004,0.001,5,11,2508,3000,High,1,600
+3/4/2022,154,Food,Brand_F,0.004,0.001,5,17,1908,3000,Medium,2,553
+3/5/2022,154,Food,Brand_F,0.002,0.001,5,6,2855,3000,High,1,571
+3/6/2022,154,Food,Brand_F,0.002,0.003,5,8,2284,3000,High,2,510
+3/7/2022,154,Food,Brand_F,0.001,0.001,5,6,1774,3000,Medium,3,564
+3/8/2022,154,Food,Brand_F,0.002,0.003,5,15,2710,3000,High,1,640
+3/9/2022,154,Food,Brand_F,0.004,0.002,5,13,2070,3000,Medium,2,555
+3/10/2022,154,Food,Brand_F,0.005,0.001,5,10,1515,3000,Medium,3,524
+3/11/2022,154,Food,Brand_F,0.001,0.003,5,8,2491,3000,High,1,724
+3/12/2022,154,Food,Brand_F,0.005,0.002,5,17,1767,3000,Medium,2,667
+3/13/2022,154,Food,Brand_F,0.001,0.003,5,10,2600,3000,High,1,712
+3/14/2022,154,Food,Brand_F,0.004,0.002,5,13,1888,3000,Medium,2,555
+3/15/2022,154,Food,Brand_F,0.005,0.002,5,19,2833,3000,High,1,580
+3/16/2022,154,Food,Brand_F,0.005,0.002,5,14,2253,3000,High,2,730
+3/17/2022,154,Food,Brand_F,0.004,0.002,5,8,1523,3000,Medium,3,753
+3/18/2022,154,Food,Brand_F,0.002,0.002,5,13,2270,3000,High,1,679
+3/19/2022,154,Food,Brand_F,0.005,0.002,5,14,1591,3000,Medium,2,674
+3/20/2022,154,Food,Brand_F,0.003,0.002,5,19,2417,3000,High,1,776
+3/21/2022,154,Food,Brand_F,0.002,0.001,5,14,1641,3000,Medium,2,702
+3/22/2022,154,Food,Brand_F,0.004,0.002,5,7,2439,3000,High,1,781
+3/23/2022,154,Food,Brand_F,0.004,0.001,5,20,1658,3000,Medium,2,753
+3/24/2022,154,Food,Brand_F,0.004,0.002,5,17,2405,3000,High,1,512
+3/25/2022,154,Food,Brand_F,0.002,0.001,5,20,1893,3000,Medium,2,786
+3/26/2022,154,Food,Brand_F,0.002,0.002,5,10,2607,3000,High,1,665
+3/27/2022,154,Food,Brand_F,0.002,0.002,5,13,1942,3000,Medium,2,588
+3/28/2022,154,Food,Brand_F,0.004,0.002,5,5,2854,3000,High,1,583
+3/29/2022,154,Food,Brand_F,0.003,0.001,5,14,2271,3000,High,2,651
+3/30/2022,154,Food,Brand_F,0.002,0.002,5,19,1620,3000,Medium,3,605
+3/31/2022,154,Food,Brand_F,0.002,0.003,5,10,2515,3000,High,1,594
+4/1/2022,154,Food,Brand_F,0.004,0.003,5,5,1921,3000,Medium,2,525
+4/2/2022,154,Food,Brand_F,0.001,0.003,5,17,2896,3000,High,1,555
+4/3/2022,154,Food,Brand_F,0.002,0.001,5,10,2341,3000,High,2,679
+4/4/2022,154,Food,Brand_F,0.003,0.001,5,16,1662,3000,Medium,3,685
+4/5/2022,154,Food,Brand_F,0.005,0.003,5,11,2477,3000,High,1,502
+4/6/2022,154,Food,Brand_F,0.004,0.002,5,10,1975,3000,Medium,2,695
+4/7/2022,154,Food,Brand_F,0.003,0.002,5,19,2780,3000,High,1,660
+4/8/2022,154,Food,Brand_F,0.002,0.001,5,18,2120,3000,High,2,550
+4/9/2022,154,Food,Brand_F,0.002,0.003,5,9,1570,3000,Medium,3,669
+4/10/2022,154,Food,Brand_F,0.002,0.003,5,18,2401,3000,High,1,604
+4/11/2022,154,Food,Brand_F,0.004,0.002,5,9,1797,3000,Medium,2,535
+4/12/2022,154,Food,Brand_F,0.004,0.002,5,15,2762,3000,High,1,682
+4/13/2022,154,Food,Brand_F,0.004,0.001,5,9,2080,3000,Medium,2,504
+4/14/2022,154,Food,Brand_F,0.005,0.001,5,5,1576,3000,Medium,3,541
+4/15/2022,154,Food,Brand_F,0.001,0.002,5,20,2535,3000,High,1,674
+4/16/2022,154,Food,Brand_F,0.004,0.001,5,5,1861,3000,Medium,2,543
+4/17/2022,154,Food,Brand_F,0.002,0.002,5,10,2818,3000,High,1,650
+4/18/2022,154,Food,Brand_F,0.003,0.003,5,5,2168,3000,High,2,752
+4/19/2022,154,Food,Brand_F,0.003,0.002,5,11,2916,3000,High,1,755
+4/20/2022,154,Food,Brand_F,0.004,0.001,5,18,2161,3000,High,2,500
+4/21/2022,154,Food,Brand_F,0.002,0.003,5,20,1661,3000,Medium,3,551
+4/22/2022,154,Food,Brand_F,0.001,0.002,5,14,2610,3000,High,1,786
+4/23/2022,154,Food,Brand_F,0.003,0.002,5,11,1824,3000,Medium,2,665
+4/24/2022,154,Food,Brand_F,0.005,0.003,5,10,2659,3000,High,1,536
+4/25/2022,154,Food,Brand_F,0.005,0.002,5,17,2123,3000,High,2,631
+4/26/2022,154,Food,Brand_F,0.002,0.002,5,16,2992,3000,High,1,568
+4/27/2022,154,Food,Brand_F,0.005,0.003,5,7,2424,3000,High,2,740
+4/28/2022,154,Food,Brand_F,0.003,0.002,5,10,1684,3000,Medium,3,734
+4/29/2022,154,Food,Brand_F,0.004,0.003,5,6,2450,3000,High,1,750
+4/30/2022,154,Food,Brand_F,0.003,0.002,5,8,1700,3000,Medium,2,532
+5/1/2022,154,Food,Brand_F,0.002,0.003,5,7,2668,3000,High,1,740
+5/2/2022,154,Food,Brand_F,0.001,0.003,5,19,1928,3000,Medium,2,567
+5/3/2022,154,Food,Brand_F,0.002,0.001,5,9,2861,3000,High,1,626
+5/4/2022,154,Food,Brand_F,0.003,0.002,5,20,2235,3000,High,2,605
+5/5/2022,154,Food,Brand_F,0.005,0.003,5,18,1630,3000,Medium,3,519
+5/6/2022,154,Food,Brand_F,0.002,0.002,5,13,2611,3000,High,1,656
+5/7/2022,154,Food,Brand_F,0.004,0.002,5,5,1955,3000,Medium,2,799
+5/8/2022,154,Food,Brand_F,0.004,0.001,5,9,2656,3000,High,1,520
+5/9/2022,154,Food,Brand_F,0.001,0.003,5,17,2136,3000,High,2,677
+5/10/2022,154,Food,Brand_F,0.001,0.002,5,11,2959,3000,High,1,688
+5/11/2022,154,Food,Brand_F,0.004,0.001,5,9,2271,3000,High,2,506
+5/12/2022,154,Food,Brand_F,0.005,0.001,5,8,1765,3000,Medium,3,609
+5/13/2022,154,Food,Brand_F,0.005,0.001,5,15,2656,3000,High,1,614
+5/14/2022,154,Food,Brand_F,0.003,0.002,5,9,2042,3000,Medium,2,633
+5/15/2022,154,Food,Brand_F,0.002,0.001,5,13,2909,3000,High,1,645
+5/16/2022,154,Food,Brand_F,0.004,0.003,5,13,2264,3000,High,2,793
+5/17/2022,154,Food,Brand_F,0.003,0.003,5,5,2971,3000,High,1,785
+5/18/2022,154,Food,Brand_F,0.002,0.002,5,16,2186,3000,High,2,539
+5/19/2022,154,Food,Brand_F,0.002,0.001,5,16,1647,3000,Medium,3,669
+5/20/2022,154,Food,Brand_F,0.001,0.002,5,19,2478,3000,High,1,574
+5/21/2022,154,Food,Brand_F,0.003,0.003,5,16,1904,3000,Medium,2,523
+5/22/2022,154,Food,Brand_F,0.003,0.003,5,10,2881,3000,High,1,687
+5/23/2022,154,Food,Brand_F,0.003,0.001,5,12,2194,3000,High,2,609
+5/24/2022,154,Food,Brand_F,0.004,0.001,5,8,1585,3000,Medium,3,518
+5/25/2022,154,Food,Brand_F,0.003,0.003,5,17,2567,3000,High,1,648
+5/26/2022,154,Food,Brand_F,0.004,0.002,5,9,1919,3000,Medium,2,775
+5/27/2022,154,Food,Brand_F,0.001,0.002,5,5,2644,3000,High,1,560
+5/28/2022,154,Food,Brand_F,0.003,0.003,5,13,2084,3000,Medium,2,707
+5/29/2022,154,Food,Brand_F,0.004,0.002,5,16,2877,3000,High,1,573
+5/30/2022,154,Food,Brand_F,0.005,0.003,5,15,2304,3000,High,2,691
+5/31/2022,154,Food,Brand_F,0.003,0.001,5,11,1613,3000,Medium,3,711
+6/1/2022,154,Food,Brand_F,0.005,0.001,5,8,2402,3000,High,1,688
+6/2/2022,154,Food,Brand_F,0.003,0.002,5,9,1714,3000,Medium,2,600
+6/3/2022,154,Food,Brand_F,0.004,0.002,5,13,2614,3000,High,1,673
+6/4/2022,154,Food,Brand_F,0.003,0.002,5,16,1941,3000,Medium,2,764
+6/5/2022,154,Food,Brand_F,0.004,0.002,5,9,2677,3000,High,1,781
+6/6/2022,154,Food,Brand_F,0.003,0.003,5,10,1896,3000,Medium,2,547
+6/7/2022,154,Food,Brand_F,0.004,0.001,5,20,2849,3000,High,1,647
+6/8/2022,154,Food,Brand_F,0.003,0.003,5,11,2202,3000,High,2,574
+6/9/2022,154,Food,Brand_F,0.005,0.002,5,11,1628,3000,Medium,3,688
+6/10/2022,154,Food,Brand_F,0.003,0.001,5,9,2440,3000,High,1,758
+6/11/2022,154,Food,Brand_F,0.001,0.003,5,11,1682,3000,Medium,2,572
+6/12/2022,154,Food,Brand_F,0.005,0.002,5,11,2610,3000,High,1,722
+6/13/2022,154,Food,Brand_F,0.004,0.002,5,16,1888,3000,Medium,2,672
+6/14/2022,154,Food,Brand_F,0.001,0.003,5,17,2716,3000,High,1,564
+6/15/2022,154,Food,Brand_F,0.005,0.001,5,17,2152,3000,High,2,672
+6/16/2022,154,Food,Brand_F,0.003,0.001,5,11,2980,3000,High,1,585
+6/17/2022,154,Food,Brand_F,0.002,0.001,5,6,2395,3000,High,2,678
+6/18/2022,154,Food,Brand_F,0.005,0.001,5,16,1717,3000,Medium,3,693
+6/19/2022,154,Food,Brand_F,0.004,0.001,5,13,2524,3000,High,1,516
+6/20/2022,154,Food,Brand_F,0.003,0.001,5,14,2008,3000,Medium,2,512
+6/21/2022,154,Food,Brand_F,0.002,0.003,5,10,2996,3000,High,1,598
+6/22/2022,154,Food,Brand_F,0.004,0.001,5,20,2398,3000,High,2,608
+6/23/2022,154,Food,Brand_F,0.002,0.002,5,14,1790,3000,Medium,3,722
+6/24/2022,154,Food,Brand_F,0.002,0.002,5,16,2568,3000,High,1,674
+6/25/2022,154,Food,Brand_F,0.002,0.002,5,11,1894,3000,Medium,2,585
+6/26/2022,154,Food,Brand_F,0.002,0.003,5,16,2809,3000,High,1,546
+6/27/2022,154,Food,Brand_F,0.004,0.003,5,19,2263,3000,High,2,734
+6/28/2022,154,Food,Brand_F,0.005,0.001,5,12,1529,3000,Medium,3,744
+6/29/2022,154,Food,Brand_F,0.004,0.001,5,9,2285,3000,High,1,774
+6/30/2022,154,Food,Brand_F,0.003,0.003,5,12,1511,3000,Medium,2,619
+7/1/2022,154,Food,Brand_F,0.002,0.001,5,10,2392,3000,High,1,726
+7/2/2022,154,Food,Brand_F,0.004,0.003,5,9,1666,3000,Medium,2,520
+7/3/2022,154,Food,Brand_F,0.005,0.002,5,18,2646,3000,High,1,541
+7/4/2022,154,Food,Brand_F,0.003,0.001,5,7,2105,3000,High,2,575
+7/5/2022,154,Food,Brand_F,0.003,0.002,5,9,1530,3000,Medium,3,759
+7/6/2022,154,Food,Brand_F,0.003,0.001,5,13,2271,3000,High,1,695
+7/7/2022,154,Food,Brand_F,0.004,0.003,5,14,1576,3000,Medium,2,698
+7/8/2022,154,Food,Brand_F,0.002,0.002,5,7,2378,3000,High,1,515
+7/9/2022,154,Food,Brand_F,0.002,0.002,5,10,1863,3000,Medium,2,639
+7/10/2022,154,Food,Brand_F,0.002,0.002,5,12,2724,3000,High,1,592
+7/11/2022,154,Food,Brand_F,0.003,0.002,5,14,2132,3000,High,2,664
+7/12/2022,154,Food,Brand_F,0.003,0.003,5,17,2968,3000,High,1,755
+7/13/2022,154,Food,Brand_F,0.001,0.002,5,10,2213,3000,High,2,741
+7/14/2022,154,Food,Brand_F,0.004,0.002,5,7,2972,3000,High,1,525
+7/15/2022,154,Food,Brand_F,0.003,0.002,5,14,2447,3000,High,2,560
+7/16/2022,154,Food,Brand_F,0.002,0.002,5,12,1887,3000,Medium,3,567
+7/17/2022,154,Food,Brand_F,0.003,0.003,5,20,2820,3000,High,1,555
+7/18/2022,154,Food,Brand_F,0.003,0.002,5,7,2265,3000,High,2,615
+7/19/2022,154,Food,Brand_F,0.003,0.003,5,12,1650,3000,Medium,3,794
+7/20/2022,154,Food,Brand_F,0.004,0.001,5,13,2356,3000,High,1,612
+7/21/2022,154,Food,Brand_F,0.001,0.002,5,10,1744,3000,Medium,2,740
+7/22/2022,154,Food,Brand_F,0.005,0.001,5,14,2504,3000,High,1,727
+7/23/2022,154,Food,Brand_F,0.004,0.002,5,20,1777,3000,Medium,2,635
+7/24/2022,154,Food,Brand_F,0.004,0.001,5,20,2642,3000,High,1,709
+7/25/2022,154,Food,Brand_F,0.004,0.002,5,12,1933,3000,Medium,2,683
+7/26/2022,154,Food,Brand_F,0.002,0.001,5,11,2750,3000,High,1,788
+7/27/2022,154,Food,Brand_F,0.005,0.001,5,19,1962,3000,Medium,2,676
+7/28/2022,154,Food,Brand_F,0.002,0.003,5,10,2786,3000,High,1,512
+7/29/2022,154,Food,Brand_F,0.001,0.003,5,8,2274,3000,High,2,653
+7/30/2022,154,Food,Brand_F,0.002,0.003,5,17,1621,3000,Medium,3,726
+7/31/2022,154,Food,Brand_F,0.002,0.002,5,17,2395,3000,High,1,677
+8/1/2022,154,Food,Brand_F,0.003,0.003,5,13,1718,3000,Medium,2,784
+8/2/2022,154,Food,Brand_F,0.005,0.001,5,10,2434,3000,High,1,645
+8/3/2022,154,Food,Brand_F,0.001,0.003,5,6,1789,3000,Medium,2,594
+8/4/2022,154,Food,Brand_F,0.002,0.001,4,19,2695,3000,High,1,644
+8/5/2022,154,Food,Brand_F,0.002,0.003,4,13,2051,3000,Medium,2,763
+8/6/2022,154,Food,Brand_F,0.004,0.002,4,15,2788,3000,High,1,713
+8/7/2022,154,Food,Brand_F,0.002,0.003,4,5,2075,3000,Medium,2,517
+8/8/2022,154,Food,Brand_F,0.004,0.002,4,8,1558,3000,Medium,3,601
+8/9/2022,154,Food,Brand_F,0.004,0.002,4,11,2457,3000,High,1,612
+8/10/2022,154,Food,Brand_F,0.004,0.003,4,18,1845,3000,Medium,2,520
+8/11/2022,154,Food,Brand_F,0.002,0.002,4,19,2825,3000,High,1,599
+8/12/2022,154,Food,Brand_F,0.004,0.002,4,16,2226,3000,High,2,675
+8/13/2022,154,Food,Brand_F,0.002,0.003,4,17,1551,3000,Medium,3,622
+8/14/2022,154,Food,Brand_F,0.004,0.003,4,8,2429,3000,High,1,699
+8/15/2022,154,Food,Brand_F,0.005,0.001,4,12,1730,3000,Medium,2,746
+8/16/2022,154,Food,Brand_F,0.004,0.002,4,16,2484,3000,High,1,691
+8/17/2022,154,Food,Brand_F,0.005,0.002,4,17,1793,3000,Medium,2,686
+8/18/2022,154,Food,Brand_F,0.004,0.003,4,5,2607,3000,High,1,576
+8/19/2022,154,Food,Brand_F,0.002,0.001,4,18,2031,3000,Medium,2,503
+8/20/2022,154,Food,Brand_F,0.002,0.002,4,7,1528,3000,Medium,3,572
+8/21/2022,154,Food,Brand_F,0.002,0.002,4,9,2456,3000,High,1,719
+8/22/2022,154,Food,Brand_F,0.004,0.002,4,9,1737,3000,Medium,2,769
+8/23/2022,154,Food,Brand_F,0.004,0.001,4,6,2468,3000,High,1,723
+8/24/2022,154,Food,Brand_F,0.003,0.001,4,14,1745,3000,Medium,2,556
+8/25/2022,154,Food,Brand_F,0.003,0.002,4,5,2689,3000,High,1,775
+8/26/2022,154,Food,Brand_F,0.001,0.002,4,18,1914,3000,Medium,2,626
+8/27/2022,154,Food,Brand_F,0.004,0.001,4,19,2788,3000,High,1,714
+8/28/2022,154,Food,Brand_F,0.002,0.003,4,20,2074,3000,Medium,2,689
+8/29/2022,154,Food,Brand_F,0.002,0.002,4,7,2885,3000,High,1,553
+8/30/2022,154,Food,Brand_F,0.004,0.001,4,13,2332,3000,High,2,619
+8/31/2022,154,Food,Brand_F,0.004,0.001,4,5,1713,3000,Medium,3,588
+9/1/2022,154,Food,Brand_F,0.001,0.003,4,9,2625,3000,High,1,717
+9/2/2022,154,Food,Brand_F,0.001,0.002,4,15,1908,3000,Medium,2,757
+9/3/2022,154,Food,Brand_F,0.003,0.002,4,10,2651,3000,High,1,660
+9/4/2022,154,Food,Brand_F,0.003,0.001,4,12,1991,3000,Medium,2,747
+9/5/2022,154,Food,Brand_F,0.005,0.002,4,20,2744,3000,High,1,557
+9/6/2022,154,Food,Brand_F,0.004,0.001,4,10,2187,3000,High,2,692
+9/7/2022,154,Food,Brand_F,0.002,0.002,4,16,2995,3000,High,1,603
+9/8/2022,154,Food,Brand_F,0.002,0.002,4,9,2392,3000,High,2,694
+9/9/2022,154,Food,Brand_F,0.003,0.003,4,10,1698,3000,Medium,3,753
+9/10/2022,154,Food,Brand_F,0.003,0.001,4,11,2445,3000,High,1,677
+9/11/2022,154,Food,Brand_F,0.003,0.001,4,10,1768,3000,Medium,2,500
+9/12/2022,154,Food,Brand_F,0.003,0.002,4,19,2768,3000,High,1,613
+9/13/2022,154,Food,Brand_F,0.004,0.002,4,17,2155,3000,High,2,783
+9/14/2022,154,Food,Brand_F,0.005,0.002,4,9,2872,3000,High,1,584
+9/15/2022,154,Food,Brand_F,0.002,0.001,4,8,2288,3000,High,2,782
+9/16/2022,154,Food,Brand_F,0.003,0.003,4,9,1506,3000,Medium,3,580
+9/17/2022,154,Food,Brand_F,0.005,0.002,4,16,2426,3000,High,1,604
+9/18/2022,154,Food,Brand_F,0.002,0.002,4,8,1822,3000,Medium,2,631
+9/19/2022,154,Food,Brand_F,0.004,0.002,4,5,2691,3000,High,1,527
+9/20/2022,154,Food,Brand_F,0.003,0.002,4,7,2164,3000,High,2,580
+9/21/2022,154,Food,Brand_F,0.005,0.001,4,16,1584,3000,Medium,3,693
+9/22/2022,154,Food,Brand_F,0.002,0.002,4,14,2391,3000,High,1,645
+9/23/2022,154,Food,Brand_F,0.003,0.002,4,11,1746,3000,Medium,2,728
+9/24/2022,154,Food,Brand_F,0.004,0.003,4,8,2518,3000,High,1,693
+9/25/2022,154,Food,Brand_F,0.002,0.001,4,11,1825,3000,Medium,2,796
+9/26/2022,154,Food,Brand_F,0.004,0.002,4,19,2529,3000,High,1,554
+9/27/2022,154,Food,Brand_F,0.004,0.002,4,14,1975,3000,Medium,2,539
+9/28/2022,154,Food,Brand_F,0.003,0.002,4,16,2936,3000,High,1,659
+9/29/2022,154,Food,Brand_F,0.002,0.001,4,14,2277,3000,High,2,664
+9/30/2022,154,Food,Brand_F,0.001,0.003,4,9,1613,3000,Medium,3,582
+10/1/2022,154,Food,Brand_F,0.004,0.002,4,13,2531,3000,High,1,680
+10/2/2022,154,Food,Brand_F,0.003,0.003,4,18,1851,3000,Medium,2,549
+10/3/2022,154,Food,Brand_F,0.004,0.001,4,11,2802,3000,High,1,757
+10/4/2022,154,Food,Brand_F,0.003,0.002,4,16,2045,3000,Medium,2,579
+10/5/2022,154,Food,Brand_F,0.004,0.002,4,13,2966,3000,High,1,742
+10/6/2022,154,Food,Brand_F,0.002,0.002,4,6,2224,3000,High,2,529
+10/7/2022,154,Food,Brand_F,0.004,0.002,4,6,1695,3000,Medium,3,567
+10/8/2022,154,Food,Brand_F,0.004,0.001,4,17,2628,3000,High,1,725
+10/9/2022,154,Food,Brand_F,0.002,0.001,4,6,1903,3000,Medium,2,565
+10/10/2022,154,Food,Brand_F,0.003,0.001,4,10,2838,3000,High,1,793
+10/11/2022,154,Food,Brand_F,0.005,0.003,4,18,2045,3000,Medium,2,561
+10/12/2022,154,Food,Brand_F,0.005,0.003,4,8,2984,3000,High,1,615
+10/13/2022,154,Food,Brand_F,0.002,0.002,4,7,2369,3000,High,2,530
+10/14/2022,154,Food,Brand_F,0.003,0.001,4,9,1839,3000,Medium,3,768
+10/15/2022,154,Food,Brand_F,0.004,0.001,4,13,2571,3000,High,1,714
+10/16/2022,154,Food,Brand_F,0.004,0.001,4,9,1857,3000,Medium,2,539
+10/17/2022,154,Food,Brand_F,0.002,0.002,4,12,2818,3000,High,1,654
+10/18/2022,154,Food,Brand_F,0.003,0.001,4,19,2164,3000,High,2,582
+10/19/2022,154,Food,Brand_F,0.001,0.002,4,18,1582,3000,Medium,3,744
+10/20/2022,154,Food,Brand_F,0.001,0.002,4,15,2338,3000,High,1,666
+10/21/2022,154,Food,Brand_F,0.002,0.002,4,12,1672,3000,Medium,2,548
+10/22/2022,154,Food,Brand_F,0.002,0.002,4,5,2624,3000,High,1,600
+10/23/2022,154,Food,Brand_F,0.004,0.003,4,13,2024,3000,Medium,2,558
+10/24/2022,154,Food,Brand_F,0.005,0.002,4,9,2966,3000,High,1,782
+10/25/2022,154,Food,Brand_F,0.004,0.001,4,5,2184,3000,High,2,732
+10/26/2022,154,Food,Brand_F,0.005,0.003,4,20,2952,3000,High,1,564
+10/27/2022,154,Food,Brand_F,0.001,0.002,4,17,2388,3000,High,2,623
+10/28/2022,154,Food,Brand_F,0.004,0.002,4,19,1765,3000,Medium,3,583
+10/29/2022,154,Food,Brand_F,0.003,0.001,4,10,2682,3000,High,1,579
+10/30/2022,154,Food,Brand_F,0.005,0.003,4,20,2103,3000,High,2,549
+10/31/2022,154,Food,Brand_F,0.002,0.001,4,11,1554,3000,Medium,3,785
+11/1/2022,154,Food,Brand_F,0.004,0.001,4,18,2269,3000,High,1,593
+11/2/2022,154,Food,Brand_F,0.003,0.002,4,10,1676,3000,Medium,2,772
+11/3/2022,154,Food,Brand_F,0.004,0.002,4,18,2404,3000,High,1,559
+11/4/2022,154,Food,Brand_F,0.003,0.002,4,5,1845,3000,Medium,2,627
+11/5/2022,154,Food,Brand_F,0.001,0.002,4,9,2718,3000,High,1,708
+11/6/2022,154,Food,Brand_F,0.003,0.002,4,15,2010,3000,Medium,2,523
+11/7/2022,154,Food,Brand_F,0.002,0.002,4,15,2987,3000,High,1,583
+11/8/2022,154,Food,Brand_F,0.004,0.003,4,5,2404,3000,High,2,559
+11/9/2022,154,Food,Brand_F,0.002,0.003,4,20,1845,3000,Medium,3,633
+11/10/2022,154,Food,Brand_F,0.004,0.002,4,6,2712,3000,High,1,517
+11/11/2022,154,Food,Brand_F,0.001,0.003,4,17,2195,3000,High,2,506
+11/12/2022,154,Food,Brand_F,0.003,0.002,4,13,1689,3000,Medium,3,674
+11/13/2022,154,Food,Brand_F,0.004,0.003,4,19,2515,3000,High,1,540
+11/14/2022,154,Food,Brand_F,0.004,0.002,4,8,1975,3000,Medium,2,717
+11/15/2022,154,Food,Brand_F,0.002,0.002,4,15,2758,3000,High,1,551
+11/16/2022,154,Food,Brand_F,0.005,0.001,4,5,2207,3000,High,2,568
+11/17/2022,154,Food,Brand_F,0.004,0.003,4,6,1639,3000,Medium,3,793
+11/18/2022,154,Food,Brand_F,0.004,0.001,4,8,2346,3000,High,1,751
+11/19/2022,154,Food,Brand_F,0.001,0.002,4,14,1595,3000,Medium,2,594
+11/20/2022,154,Food,Brand_F,0.003,0.003,4,10,2501,3000,High,1,665
+11/21/2022,154,Food,Brand_F,0.005,0.003,4,16,1836,3000,Medium,2,548
+11/22/2022,154,Food,Brand_F,0.003,0.002,4,8,2788,3000,High,1,714
+11/23/2022,154,Food,Brand_F,0.004,0.002,4,8,2074,3000,Medium,2,575
+11/24/2022,154,Food,Brand_F,0.003,0.002,4,13,2999,3000,High,1,579
+11/25/2022,154,Food,Brand_F,0.003,0.001,4,17,2420,3000,High,2,613
+11/26/2022,154,Food,Brand_F,0.002,0.003,4,12,1807,3000,Medium,3,539
+11/27/2022,154,Food,Brand_F,0.002,0.003,4,5,2768,3000,High,1,599
+11/28/2022,154,Food,Brand_F,0.005,0.001,4,18,2169,3000,High,2,785
+11/29/2022,154,Food,Brand_F,0.003,0.001,4,17,2884,3000,High,1,668
+11/30/2022,154,Food,Brand_F,0.004,0.002,4,5,2216,3000,High,2,604
+12/1/2022,154,Food,Brand_F,0.001,0.002,3,20,4112,5000,High,1,1230
+12/2/2022,154,Food,Brand_F,0.002,0.002,3,6,2882,5000,Medium,2,1423
+12/3/2022,154,Food,Brand_F,0.001,0.002,3,15,3959,5000,High,1,1223
+12/4/2022,154,Food,Brand_F,0.002,0.001,3,16,2736,5000,Medium,2,1465
+12/5/2022,154,Food,Brand_F,0.005,0.002,3,5,3771,5000,High,1,1360
+12/6/2022,154,Food,Brand_F,0.003,0.002,3,18,4911,5000,High,1,1390
+12/7/2022,154,Food,Brand_F,0.002,0.001,3,13,3521,5000,High,2,1503
+12/8/2022,154,Food,Brand_F,0.002,0.001,3,13,4518,5000,High,1,1194
+12/9/2022,154,Food,Brand_F,0.002,0.002,3,11,3324,5000,Medium,2,1446
+12/10/2022,154,Food,Brand_F,0.003,0.001,3,20,4378,5000,High,1,1330
+12/11/2022,154,Food,Brand_F,0.002,0.002,3,17,3048,5000,Medium,2,1527
+12/12/2022,154,Food,Brand_F,0.003,0.003,3,16,4021,5000,High,1,1187
+12/13/2022,154,Food,Brand_F,0.001,0.002,3,18,2834,5000,Medium,2,1489
+12/14/2022,154,Food,Brand_F,0.003,0.002,3,17,3845,5000,High,1,1468
+12/15/2022,154,Food,Brand_F,0.002,0.003,3,19,4877,5000,High,1,1295
+12/16/2022,154,Food,Brand_F,0.002,0.002,3,18,3582,5000,High,2,1201
+12/17/2022,154,Food,Brand_F,0.003,0.001,3,8,4881,5000,High,1,1283
+12/18/2022,154,Food,Brand_F,0.002,0.003,3,9,3598,5000,High,2,1121
+12/19/2022,154,Food,Brand_F,0.003,0.002,3,15,4977,5000,High,1,1455
+12/20/2022,154,Food,Brand_F,0.005,0.001,3,9,3522,5000,High,2,1124
+12/21/2022,154,Food,Brand_F,0.001,0.001,3,8,4898,5000,High,1,1466
+12/22/2022,154,Food,Brand_F,0.003,0.002,3,13,3432,5000,Medium,2,1596
+12/23/2022,154,Food,Brand_F,0.002,0.003,3,15,4336,5000,High,1,1210
+12/24/2022,154,Food,Brand_F,0.005,0.003,3,13,3126,5000,Medium,2,1253
+12/25/2022,154,Food,Brand_F,0.001,0.002,3,5,4373,5000,High,1,1110
+12/26/2022,154,Food,Brand_F,0.001,0.002,3,7,3263,5000,Medium,2,1398
+12/27/2022,154,Food,Brand_F,0.003,0.002,3,19,4365,5000,High,1,1283
+12/28/2022,154,Food,Brand_F,0.003,0.001,3,5,3082,5000,Medium,2,1166
+12/29/2022,154,Food,Brand_F,0.005,0.002,3,17,4416,5000,High,1,1191
+12/30/2022,154,Food,Brand_F,0.002,0.002,3,6,3225,5000,Medium,2,1109
+12/31/2022,154,Food,Brand_F,0.003,0.002,3,13,4616,5000,High,1,1132
+1/1/2022,121,Autumn Clothing,Brand_T,0.004,0.002,18,14,1748,1800,High,1,52
+1/2/2022,121,Autumn Clothing,Brand_T,0.002,0.002,10,15,1696,1800,High,2,45
+1/3/2022,121,Autumn Clothing,Brand_T,0.004,0.002,14,9,1651,1800,High,3,55
+1/4/2022,121,Autumn Clothing,Brand_T,0.003,0.002,16,5,1596,1800,High,4,45
+1/5/2022,121,Autumn Clothing,Brand_T,0.001,0.001,21,5,1551,1800,High,5,41
+1/6/2022,121,Autumn Clothing,Brand_T,0.004,0.001,22,7,1510,1800,High,6,49
+1/7/2022,121,Autumn Clothing,Brand_T,0.004,0.002,26,9,1461,1800,High,7,53
+1/8/2022,121,Autumn Clothing,Brand_T,0.005,0.002,10,9,1408,1800,High,8,40
+1/9/2022,121,Autumn Clothing,Brand_T,0.003,0.001,19,7,1368,1800,High,9,55
+1/10/2022,121,Autumn Clothing,Brand_T,0.003,0.002,10,5,1313,1800,High,10,41
+1/11/2022,121,Autumn Clothing,Brand_T,0.003,0.002,17,6,1272,1800,High,11,53
+1/12/2022,121,Autumn Clothing,Brand_T,0.003,0.003,14,6,1219,1800,Medium,12,43
+1/13/2022,121,Autumn Clothing,Brand_T,0.004,0.003,13,19,1176,1800,Medium,13,42
+1/14/2022,121,Autumn Clothing,Brand_T,0.005,0.002,11,10,1134,1800,Medium,14,52
+1/15/2022,121,Autumn Clothing,Brand_T,0.005,0.002,18,12,1082,1800,Medium,15,45
+1/16/2022,121,Autumn Clothing,Brand_T,0.002,0.002,28,8,1037,1800,Medium,16,48
+1/17/2022,121,Autumn Clothing,Brand_T,0.004,0.001,28,14,989,1800,Medium,17,56
+1/18/2022,121,Autumn Clothing,Brand_T,0.003,0.003,9,7,933,1800,Medium,18,57
+1/19/2022,121,Autumn Clothing,Brand_T,0.003,0.002,22,16,876,1800,Medium,19,51
+1/20/2022,121,Autumn Clothing,Brand_T,0.004,0.001,30,18,825,1800,Medium,20,60
+1/21/2022,121,Autumn Clothing,Brand_T,0.003,0.002,16,15,765,1800,Medium,21,56
+1/22/2022,121,Autumn Clothing,Brand_T,0.001,0.003,29,10,709,1800,Medium,22,55
+1/23/2022,121,Autumn Clothing,Brand_T,0.005,0.003,7,20,654,1800,Medium,23,51
+1/24/2022,121,Autumn Clothing,Brand_T,0.005,0.001,17,15,603,1800,Medium,24,41
+1/25/2022,121,Autumn Clothing,Brand_T,0.003,0.002,17,9,562,1800,Medium,25,59
+1/26/2022,121,Autumn Clothing,Brand_T,0.001,0.001,19,6,503,1800,Low,26,44
+1/27/2022,121,Autumn Clothing,Brand_T,0.001,0.001,13,14,459,1800,Low,27,57
+1/28/2022,121,Autumn Clothing,Brand_T,0.004,0.002,23,15,402,1800,Low,28,48
+1/29/2022,121,Autumn Clothing,Brand_T,0.002,0.002,15,11,354,1800,Low,29,49
+1/30/2022,121,Autumn Clothing,Brand_T,0.003,0.002,18,20,305,1800,Low,30,50
+1/31/2022,121,Autumn Clothing,Brand_T,0.004,0.003,7,17,255,1800,Low,31,48
+2/1/2022,121,Autumn Clothing,Brand_T,0.002,0.001,22,6,207,1800,Low,32,53
+2/2/2022,121,Autumn Clothing,Brand_T,0.002,0.003,29,19,954,1800,Medium,1,46
+2/3/2022,121,Autumn Clothing,Brand_T,0.005,0.002,10,15,908,1800,Medium,2,53
+2/4/2022,121,Autumn Clothing,Brand_T,0.004,0.001,17,19,855,1800,Medium,3,54
+2/5/2022,121,Autumn Clothing,Brand_T,0.002,0.001,29,13,801,1800,Medium,4,45
+2/6/2022,121,Autumn Clothing,Brand_T,0.002,0.002,27,19,756,1800,Medium,5,52
+2/7/2022,121,Autumn Clothing,Brand_T,0.001,0.003,21,18,704,1800,Medium,6,49
+2/8/2022,121,Autumn Clothing,Brand_T,0.005,0.002,8,17,655,1800,Medium,7,53
+2/9/2022,121,Autumn Clothing,Brand_T,0.002,0.002,27,14,602,1800,Medium,8,43
+2/10/2022,121,Autumn Clothing,Brand_T,0.001,0.002,20,7,559,1800,Medium,9,43
+2/11/2022,121,Autumn Clothing,Brand_T,0.001,0.003,30,15,516,1800,Low,10,49
+2/12/2022,121,Autumn Clothing,Brand_T,0.004,0.001,9,7,467,1800,Low,11,43
+2/13/2022,121,Autumn Clothing,Brand_T,0.004,0.002,19,20,424,1800,Low,12,51
+2/14/2022,121,Autumn Clothing,Brand_T,0.002,0.001,17,15,373,1800,Low,13,41
+2/15/2022,121,Autumn Clothing,Brand_T,0.002,0.001,27,15,332,1800,Low,14,40
+2/16/2022,121,Autumn Clothing,Brand_T,0.002,0.001,24,10,292,1800,Low,15,54
+2/17/2022,121,Autumn Clothing,Brand_T,0.003,0.003,18,12,238,1800,Low,16,50
+2/18/2022,121,Autumn Clothing,Brand_T,0.002,0.002,15,17,988,1800,Medium,1,43
+2/19/2022,121,Autumn Clothing,Brand_T,0.002,0.001,21,7,945,1800,Medium,2,47
+2/20/2022,121,Autumn Clothing,Brand_T,0.001,0.003,26,5,898,1800,Medium,3,42
+2/21/2022,121,Autumn Clothing,Brand_T,0.003,0.002,28,6,856,1800,Medium,4,59
+2/22/2022,121,Autumn Clothing,Brand_T,0.001,0.003,26,12,797,1800,Medium,5,46
+2/23/2022,121,Autumn Clothing,Brand_T,0.003,0.003,28,20,751,1800,Medium,6,58
+2/24/2022,121,Autumn Clothing,Brand_T,0.004,0.003,25,20,693,1800,Medium,7,49
+2/25/2022,121,Autumn Clothing,Brand_T,0.004,0.002,18,14,644,1800,Medium,8,51
+2/26/2022,121,Autumn Clothing,Brand_T,0.005,0.001,16,11,593,1800,Medium,9,55
+2/27/2022,121,Autumn Clothing,Brand_T,0.003,0.003,24,12,538,1800,Low,10,54
+2/28/2022,121,Autumn Clothing,Brand_T,0.002,0.001,27,12,484,1800,Low,11,50
+3/1/2022,121,Autumn Clothing,Brand_T,0.002,0.002,13,10,434,1800,Low,12,43
+3/2/2022,121,Autumn Clothing,Brand_T,0.003,0.002,18,20,391,1800,Low,13,44
+3/3/2022,121,Autumn Clothing,Brand_T,0.005,0.002,28,10,347,1800,Low,14,57
+3/4/2022,121,Autumn Clothing,Brand_T,0.003,0.003,29,15,290,1800,Low,15,41
+3/5/2022,121,Autumn Clothing,Brand_T,0.003,0.002,29,11,249,1800,Low,16,51
+3/6/2022,121,Autumn Clothing,Brand_T,0.002,0.002,8,14,998,1800,Medium,1,60
+3/7/2022,121,Autumn Clothing,Brand_T,0.001,0.001,26,20,938,1800,Medium,2,48
+3/8/2022,121,Autumn Clothing,Brand_T,0.003,0.002,25,18,890,1800,Medium,3,58
+3/9/2022,121,Autumn Clothing,Brand_T,0.004,0.002,11,9,832,1800,Medium,4,42
+3/10/2022,121,Autumn Clothing,Brand_T,0.001,0.003,22,8,790,1800,Medium,5,47
+3/11/2022,121,Autumn Clothing,Brand_T,0.002,0.001,11,13,743,1800,Medium,6,42
+3/12/2022,121,Autumn Clothing,Brand_T,0.003,0.002,9,18,701,1800,Medium,7,42
+3/13/2022,121,Autumn Clothing,Brand_T,0.004,0.001,13,13,659,1800,Medium,8,55
+3/14/2022,121,Autumn Clothing,Brand_T,0.001,0.002,15,6,604,1800,Medium,9,47
+3/15/2022,121,Autumn Clothing,Brand_T,0.002,0.001,9,6,557,1800,Medium,10,59
+3/16/2022,121,Autumn Clothing,Brand_T,0.003,0.003,10,12,498,1800,Low,11,59
+3/17/2022,121,Autumn Clothing,Brand_T,0.003,0.002,8,17,439,1800,Low,12,57
+3/18/2022,121,Autumn Clothing,Brand_T,0.004,0.003,13,18,382,1800,Low,13,49
+3/19/2022,121,Autumn Clothing,Brand_T,0.004,0.002,10,7,333,1800,Low,14,60
+3/20/2022,121,Autumn Clothing,Brand_T,0.003,0.002,28,14,273,1800,Low,15,42
+3/21/2022,121,Autumn Clothing,Brand_T,0.003,0.002,9,11,231,1800,Low,16,41
+3/22/2022,121,Autumn Clothing,Brand_T,0.003,0.002,28,11,990,1800,Medium,1,43
+3/23/2022,121,Autumn Clothing,Brand_T,0.002,0.002,13,10,947,1800,Medium,2,52
+3/24/2022,121,Autumn Clothing,Brand_T,0.004,0.003,21,17,895,1800,Medium,3,40
+3/25/2022,121,Autumn Clothing,Brand_T,0.003,0.002,24,8,855,1800,Medium,4,55
+3/26/2022,121,Autumn Clothing,Brand_T,0.005,0.003,21,10,800,1800,Medium,5,53
+3/27/2022,121,Autumn Clothing,Brand_T,0.002,0.002,24,14,747,1800,Medium,6,56
+3/28/2022,121,Autumn Clothing,Brand_T,0.003,0.003,25,8,691,1800,Medium,7,40
+3/29/2022,121,Autumn Clothing,Brand_T,0.001,0.001,8,12,651,1800,Medium,8,58
+3/30/2022,121,Autumn Clothing,Brand_T,0.005,0.001,18,6,593,1800,Medium,9,45
+3/31/2022,121,Autumn Clothing,Brand_T,0.002,0.002,30,7,548,1800,Medium,10,49
+4/1/2022,121,Autumn Clothing,Brand_T,0.005,0.001,12,8,499,1800,Low,11,58
+4/2/2022,121,Autumn Clothing,Brand_T,0.005,0.002,15,9,441,1800,Low,12,41
+4/3/2022,121,Autumn Clothing,Brand_T,0.003,0.002,8,18,400,1800,Low,13,58
+4/4/2022,121,Autumn Clothing,Brand_T,0.005,0.001,28,9,342,1800,Low,14,56
+4/5/2022,121,Autumn Clothing,Brand_T,0.005,0.002,10,11,286,1800,Low,15,45
+4/6/2022,121,Autumn Clothing,Brand_T,0.004,0.002,17,17,241,1800,Low,16,58
+4/7/2022,121,Autumn Clothing,Brand_T,0.004,0.001,8,16,983,1800,Medium,1,43
+4/8/2022,121,Autumn Clothing,Brand_T,0.003,0.002,23,13,940,1800,Medium,2,53
+4/9/2022,121,Autumn Clothing,Brand_T,0.005,0.003,24,6,887,1800,Medium,3,53
+4/10/2022,121,Autumn Clothing,Brand_T,0.001,0.002,12,6,834,1800,Medium,4,40
+4/11/2022,121,Autumn Clothing,Brand_T,0.004,0.002,9,19,794,1800,Medium,5,47
+4/12/2022,121,Autumn Clothing,Brand_T,0.004,0.001,19,20,747,1800,Medium,6,55
+4/13/2022,121,Autumn Clothing,Brand_T,0.005,0.001,27,13,692,1800,Medium,7,53
+4/14/2022,121,Autumn Clothing,Brand_T,0.002,0.002,24,13,639,1800,Medium,8,48
+4/15/2022,121,Autumn Clothing,Brand_T,0.001,0.003,25,5,591,1800,Medium,9,54
+4/16/2022,121,Autumn Clothing,Brand_T,0.002,0.003,9,18,537,1800,Low,10,48
+4/17/2022,121,Autumn Clothing,Brand_T,0.005,0.003,30,12,489,1800,Low,11,57
+4/18/2022,121,Autumn Clothing,Brand_T,0.005,0.001,12,14,432,1800,Low,12,50
+4/19/2022,121,Autumn Clothing,Brand_T,0.001,0.002,24,12,382,1800,Low,13,42
+4/20/2022,121,Autumn Clothing,Brand_T,0.003,0.002,17,6,340,1800,Low,14,46
+4/21/2022,121,Autumn Clothing,Brand_T,0.002,0.002,11,12,294,1800,Low,15,54
+4/22/2022,121,Autumn Clothing,Brand_T,0.001,0.001,15,11,240,1800,Low,16,47
+4/23/2022,121,Autumn Clothing,Brand_T,0.001,0.002,12,20,993,1800,Medium,1,51
+4/24/2022,121,Autumn Clothing,Brand_T,0.004,0.002,9,16,942,1800,Medium,2,41
+4/25/2022,121,Autumn Clothing,Brand_T,0.003,0.002,20,10,901,1800,Medium,3,48
+4/26/2022,121,Autumn Clothing,Brand_T,0.002,0.003,27,13,853,1800,Medium,4,56
+4/27/2022,121,Autumn Clothing,Brand_T,0.004,0.002,30,19,797,1800,Medium,5,55
+4/28/2022,121,Autumn Clothing,Brand_T,0.002,0.002,22,9,742,1800,Medium,6,58
+4/29/2022,121,Autumn Clothing,Brand_T,0.003,0.001,17,19,684,1800,Medium,7,46
+4/30/2022,121,Autumn Clothing,Brand_T,0.004,0.001,27,14,638,1800,Medium,8,48
+5/1/2022,121,Autumn Clothing,Brand_T,0.004,0.002,29,7,590,1800,Medium,9,43
+5/2/2022,121,Autumn Clothing,Brand_T,0.005,0.002,26,8,547,1800,Medium,10,57
+5/3/2022,121,Autumn Clothing,Brand_T,0.005,0.001,21,20,490,1800,Low,11,58
+5/4/2022,121,Autumn Clothing,Brand_T,0.002,0.001,11,15,432,1800,Low,12,59
+5/5/2022,121,Autumn Clothing,Brand_T,0.003,0.002,19,7,373,1800,Low,13,56
+5/6/2022,121,Autumn Clothing,Brand_T,0.003,0.001,15,9,317,1800,Low,14,53
+5/7/2022,121,Autumn Clothing,Brand_T,0.005,0.002,18,16,264,1800,Low,15,41
+5/8/2022,121,Autumn Clothing,Brand_T,0.002,0.003,11,5,223,1800,Low,16,59
+5/9/2022,121,Autumn Clothing,Brand_T,0.003,0.003,25,13,964,1800,Medium,1,47
+5/10/2022,121,Autumn Clothing,Brand_T,0.004,0.001,24,19,917,1800,Medium,2,50
+5/11/2022,121,Autumn Clothing,Brand_T,0.005,0.002,26,7,867,1800,Medium,3,50
+5/12/2022,121,Autumn Clothing,Brand_T,0.005,0.003,18,10,817,1800,Medium,4,54
+5/13/2022,121,Autumn Clothing,Brand_T,0.003,0.003,29,7,763,1800,Medium,5,40
+5/14/2022,121,Autumn Clothing,Brand_T,0.005,0.002,19,10,723,1800,Medium,6,55
+5/15/2022,121,Autumn Clothing,Brand_T,0.003,0.002,15,12,668,1800,Medium,7,43
+5/16/2022,121,Autumn Clothing,Brand_T,0.002,0.003,24,14,625,1800,Medium,8,55
+5/17/2022,121,Autumn Clothing,Brand_T,0.003,0.001,18,9,570,1800,Medium,9,43
+5/18/2022,121,Autumn Clothing,Brand_T,0.001,0.003,12,12,527,1800,Low,10,46
+5/19/2022,121,Autumn Clothing,Brand_T,0.005,0.002,30,18,481,1800,Low,11,57
+5/20/2022,121,Autumn Clothing,Brand_T,0.004,0.001,20,14,424,1800,Low,12,59
+5/21/2022,121,Autumn Clothing,Brand_T,0.005,0.001,24,11,365,1800,Low,13,43
+5/22/2022,121,Autumn Clothing,Brand_T,0.003,0.002,9,18,322,1800,Low,14,56
+5/23/2022,121,Autumn Clothing,Brand_T,0.002,0.002,17,5,266,1800,Low,15,40
+5/24/2022,121,Autumn Clothing,Brand_T,0.003,0.003,28,17,226,1800,Low,16,51
+5/25/2022,121,Autumn Clothing,Brand_T,0.005,0.001,7,18,975,1800,Medium,1,43
+5/26/2022,121,Autumn Clothing,Brand_T,0.003,0.002,10,20,932,1800,Medium,2,49
+5/27/2022,121,Autumn Clothing,Brand_T,0.002,0.002,30,11,883,1800,Medium,3,59
+5/28/2022,121,Autumn Clothing,Brand_T,0.003,0.003,25,10,824,1800,Medium,4,51
+5/29/2022,121,Autumn Clothing,Brand_T,0.005,0.003,14,10,773,1800,Medium,5,51
+5/30/2022,121,Autumn Clothing,Brand_T,0.003,0.003,8,10,722,1800,Medium,6,58
+5/31/2022,121,Autumn Clothing,Brand_T,0.003,0.002,11,17,664,1800,Medium,7,53
+6/1/2022,121,Autumn Clothing,Brand_T,0.003,0.003,9,14,611,1800,Medium,8,59
+6/2/2022,121,Autumn Clothing,Brand_T,0.004,0.003,23,15,552,1800,Medium,9,53
+6/3/2022,121,Autumn Clothing,Brand_T,0.004,0.002,18,19,499,1800,Low,10,49
+6/4/2022,121,Autumn Clothing,Brand_T,0.001,0.001,19,7,450,1800,Low,11,40
+6/5/2022,121,Autumn Clothing,Brand_T,0.005,0.002,19,6,410,1800,Low,12,59
+6/6/2022,121,Autumn Clothing,Brand_T,0.005,0.001,18,13,351,1800,Low,13,41
+6/7/2022,121,Autumn Clothing,Brand_T,0.002,0.003,14,13,310,1800,Low,14,59
+6/8/2022,121,Autumn Clothing,Brand_T,0.002,0.003,14,14,251,1800,Low,15,50
+6/9/2022,121,Autumn Clothing,Brand_T,0.005,0.003,9,6,201,1800,Low,16,52
+6/10/2022,121,Autumn Clothing,Brand_T,0.004,0.003,22,16,949,1800,Medium,1,60
+6/11/2022,121,Autumn Clothing,Brand_T,0.005,0.002,13,6,889,1800,Medium,2,55
+6/12/2022,121,Autumn Clothing,Brand_T,0.002,0.002,29,12,834,1800,Medium,3,48
+6/13/2022,121,Autumn Clothing,Brand_T,0.005,0.001,30,19,786,1800,Medium,4,53
+6/14/2022,121,Autumn Clothing,Brand_T,0.001,0.002,27,10,733,1800,Medium,5,47
+6/15/2022,121,Autumn Clothing,Brand_T,0.005,0.001,7,9,686,1800,Medium,6,58
+6/16/2022,121,Autumn Clothing,Brand_T,0.003,0.002,16,16,628,1800,Medium,7,56
+6/17/2022,121,Autumn Clothing,Brand_T,0.005,0.002,26,10,572,1800,Medium,8,50
+6/18/2022,121,Autumn Clothing,Brand_T,0.003,0.002,13,17,522,1800,Low,9,49
+6/19/2022,121,Autumn Clothing,Brand_T,0.002,0.002,8,12,473,1800,Low,10,44
+6/20/2022,121,Autumn Clothing,Brand_T,0.004,0.002,20,10,429,1800,Low,11,43
+6/21/2022,121,Autumn Clothing,Brand_T,0.003,0.002,14,8,386,1800,Low,12,60
+6/22/2022,121,Autumn Clothing,Brand_T,0.001,0.002,23,20,326,1800,Low,13,59
+6/23/2022,121,Autumn Clothing,Brand_T,0.001,0.002,12,7,267,1800,Low,14,48
+6/24/2022,121,Autumn Clothing,Brand_T,0.001,0.001,21,5,219,1800,Low,15,44
+6/25/2022,121,Autumn Clothing,Brand_T,0.003,0.002,14,16,975,1800,Medium,1,50
+6/26/2022,121,Autumn Clothing,Brand_T,0.001,0.003,11,7,925,1800,Medium,2,51
+6/27/2022,121,Autumn Clothing,Brand_T,0.001,0.001,20,5,874,1800,Medium,3,54
+6/28/2022,121,Autumn Clothing,Brand_T,0.003,0.002,8,7,820,1800,Medium,4,41
+6/29/2022,121,Autumn Clothing,Brand_T,0.005,0.001,18,7,779,1800,Medium,5,57
+6/30/2022,121,Autumn Clothing,Brand_T,0.004,0.002,13,5,722,1800,Medium,6,46
+7/1/2022,121,Autumn Clothing,Brand_T,0.004,0.002,27,13,676,1800,Medium,7,56
+7/2/2022,121,Autumn Clothing,Brand_T,0.003,0.003,12,6,620,1800,Medium,8,40
+7/3/2022,121,Autumn Clothing,Brand_T,0.005,0.001,26,9,580,1800,Medium,9,47
+7/4/2022,121,Autumn Clothing,Brand_T,0.002,0.002,26,7,533,1800,Low,10,44
+7/5/2022,121,Autumn Clothing,Brand_T,0.004,0.003,9,5,489,1800,Low,11,52
+7/6/2022,121,Autumn Clothing,Brand_T,0.005,0.002,10,17,437,1800,Low,12,48
+7/7/2022,121,Autumn Clothing,Brand_T,0.002,0.002,24,11,389,1800,Low,13,57
+7/8/2022,121,Autumn Clothing,Brand_T,0.003,0.002,16,8,332,1800,Low,14,40
+7/9/2022,121,Autumn Clothing,Brand_T,0.002,0.001,8,20,292,1800,Low,15,50
+7/10/2022,121,Autumn Clothing,Brand_T,0.004,0.002,24,19,242,1800,Low,16,41
+7/11/2022,121,Autumn Clothing,Brand_T,0.004,0.001,16,20,201,1800,Low,17,60
+7/12/2022,121,Autumn Clothing,Brand_T,0.005,0.002,13,19,941,1800,Medium,1,43
+7/13/2022,121,Autumn Clothing,Brand_T,0.002,0.002,16,12,898,1800,Medium,2,45
+7/14/2022,121,Autumn Clothing,Brand_T,0.003,0.001,15,6,853,1800,Medium,3,46
+7/15/2022,121,Autumn Clothing,Brand_T,0.001,0.003,25,7,807,1800,Medium,4,56
+7/16/2022,121,Autumn Clothing,Brand_T,0.002,0.003,12,17,751,1800,Medium,5,45
+7/17/2022,121,Autumn Clothing,Brand_T,0.001,0.001,28,14,706,1800,Medium,6,56
+7/18/2022,121,Autumn Clothing,Brand_T,0.002,0.003,14,20,650,1800,Medium,7,41
+7/19/2022,121,Autumn Clothing,Brand_T,0.001,0.003,25,8,609,1800,Medium,8,60
+7/20/2022,121,Autumn Clothing,Brand_T,0.005,0.002,28,9,549,1800,Medium,9,45
+7/21/2022,121,Autumn Clothing,Brand_T,0.005,0.001,9,6,504,1800,Low,10,42
+7/22/2022,121,Autumn Clothing,Brand_T,0.005,0.001,20,11,462,1800,Low,11,58
+7/23/2022,121,Autumn Clothing,Brand_T,0.001,0.003,23,19,404,1800,Low,12,52
+7/24/2022,121,Autumn Clothing,Brand_T,0.002,0.002,21,12,352,1800,Low,13,57
+7/25/2022,121,Autumn Clothing,Brand_T,0.002,0.002,26,17,295,1800,Low,14,52
+7/26/2022,121,Autumn Clothing,Brand_T,0.002,0.002,11,15,243,1800,Low,15,40
+7/27/2022,121,Autumn Clothing,Brand_T,0.003,0.002,20,15,203,1800,Low,16,48
+7/28/2022,121,Autumn Clothing,Brand_T,0.002,0.003,30,17,955,1800,Medium,1,44
+7/29/2022,121,Autumn Clothing,Brand_T,0.001,0.002,17,7,911,1800,Medium,2,60
+7/30/2022,121,Autumn Clothing,Brand_T,0.003,0.001,22,12,851,1800,Medium,3,50
+7/31/2022,121,Autumn Clothing,Brand_T,0.001,0.001,28,19,801,1800,Medium,4,51
+8/1/2022,121,Autumn Clothing,Brand_T,0.002,0.002,8,20,2550,3000,High,1,135
+8/2/2022,121,Autumn Clothing,Brand_T,0.002,0.002,7,14,2415,3000,High,2,106
+8/3/2022,121,Autumn Clothing,Brand_T,0.004,0.001,7,11,2309,3000,High,3,130
+8/4/2022,121,Autumn Clothing,Brand_T,0.003,0.002,8,5,2179,3000,High,4,113
+8/5/2022,121,Autumn Clothing,Brand_T,0.002,0.002,7,15,2066,3000,Medium,5,101
+8/6/2022,121,Autumn Clothing,Brand_T,0.005,0.001,6,9,1965,3000,Medium,6,109
+8/7/2022,121,Autumn Clothing,Brand_T,0.004,0.001,8,17,1856,3000,Medium,7,139
+8/8/2022,121,Autumn Clothing,Brand_T,0.002,0.001,6,8,1717,3000,Medium,8,130
+8/9/2022,121,Autumn Clothing,Brand_T,0.004,0.002,6,6,1587,3000,Medium,9,111
+8/10/2022,121,Autumn Clothing,Brand_T,0.003,0.002,6,18,1476,3000,Medium,10,127
+8/11/2022,121,Autumn Clothing,Brand_T,0.001,0.001,5,10,1349,3000,Medium,11,117
+8/12/2022,121,Autumn Clothing,Brand_T,0.005,0.003,5,7,1232,3000,Medium,12,127
+8/13/2022,121,Autumn Clothing,Brand_T,0.001,0.002,7,12,1105,3000,Medium,13,109
+8/14/2022,121,Autumn Clothing,Brand_T,0.005,0.002,4,19,2796,3000,High,1,134
+8/15/2022,121,Autumn Clothing,Brand_T,0.004,0.003,8,15,2662,3000,High,2,113
+8/16/2022,121,Autumn Clothing,Brand_T,0.002,0.001,9,14,2549,3000,High,3,138
+8/17/2022,121,Autumn Clothing,Brand_T,0.002,0.001,6.909090909,5,2411,3000,High,4,122
+8/18/2022,121,Autumn Clothing,Brand_T,0.001,0.002,7,18,2289,3000,High,5,138
+8/19/2022,121,Autumn Clothing,Brand_T,0.001,0.002,7.090909091,15,2151,3000,High,6,130
+8/20/2022,121,Autumn Clothing,Brand_T,0.003,0.002,7.181818182,6,2021,3000,Medium,7,104
+8/21/2022,121,Autumn Clothing,Brand_T,0.003,0.003,7.272727273,13,1917,3000,Medium,8,119
+8/22/2022,121,Autumn Clothing,Brand_T,0.002,0.002,7.363636364,6,1798,3000,Medium,9,104
+8/23/2022,121,Autumn Clothing,Brand_T,0.002,0.002,7.454545455,17,1694,3000,Medium,10,124
+8/24/2022,121,Autumn Clothing,Brand_T,0.002,0.003,7.545454545,7,1570,3000,Medium,11,133
+8/25/2022,121,Autumn Clothing,Brand_T,0.004,0.002,7.636363636,15,1437,3000,Medium,12,116
+8/26/2022,121,Autumn Clothing,Brand_T,0.004,0.002,7.727272727,6,1321,3000,Medium,13,102
+8/27/2022,121,Autumn Clothing,Brand_T,0.001,0.003,7.818181818,8,1219,3000,Medium,14,115
+8/28/2022,121,Autumn Clothing,Brand_T,0.004,0.001,7.909090909,19,1104,3000,Medium,15,115
+8/29/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8,10,2789,3000,High,1,131
+8/30/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.090909091,20,2658,3000,High,2,128
+8/31/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.181818182,9,2530,3000,High,3,105
+9/1/2022,121,Autumn Clothing,Brand_T,0.001,0.002,8.272727273,8,2425,3000,High,4,132
+9/2/2022,121,Autumn Clothing,Brand_T,0.002,0.002,8.363636364,8,2293,3000,High,5,140
+9/3/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.454545455,8,2153,3000,High,6,132
+9/4/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.545454545,7,2021,3000,Medium,7,115
+9/5/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.636363636,6,1906,3000,Medium,8,134
+9/6/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.727272727,18,1772,3000,Medium,9,132
+9/7/2022,121,Autumn Clothing,Brand_T,0.003,0.001,8.818181818,20,1640,3000,Medium,10,128
+9/8/2022,121,Autumn Clothing,Brand_T,0.004,0.002,8.909090909,11,1512,3000,Medium,11,118
+9/9/2022,121,Autumn Clothing,Brand_T,0.003,0.003,9,13,1394,3000,Medium,12,107
+9/10/2022,121,Autumn Clothing,Brand_T,0.001,0.001,9.090909091,10,1287,3000,Medium,13,102
+9/11/2022,121,Autumn Clothing,Brand_T,0.003,0.001,9.181818182,16,1185,3000,Medium,14,140
+9/12/2022,121,Autumn Clothing,Brand_T,0.003,0.001,9.272727273,19,1045,3000,Medium,15,136
+9/13/2022,121,Autumn Clothing,Brand_T,0.001,0.002,9.363636364,16,2709,3000,High,1,136
+9/14/2022,121,Autumn Clothing,Brand_T,0.005,0.003,9.454545455,13,2573,3000,High,2,106
+9/15/2022,121,Autumn Clothing,Brand_T,0.001,0.001,9.545454545,8,2467,3000,High,3,113
+9/16/2022,121,Autumn Clothing,Brand_T,0.003,0.003,9.636363636,13,2354,3000,High,4,128
+9/17/2022,121,Autumn Clothing,Brand_T,0.002,0.002,9.727272727,14,2226,3000,High,5,105
+9/18/2022,121,Autumn Clothing,Brand_T,0.004,0.002,9.818181818,14,2121,3000,High,6,109
+9/19/2022,121,Autumn Clothing,Brand_T,0.003,0.001,9.909090909,18,2012,3000,Medium,7,118
+9/20/2022,121,Autumn Clothing,Brand_T,0.003,0.001,10,10,1894,3000,Medium,8,106
+9/21/2022,121,Autumn Clothing,Brand_T,0.002,0.002,10.09090909,18,1788,3000,Medium,9,135
+9/22/2022,121,Autumn Clothing,Brand_T,0.001,0.002,10.18181818,20,1653,3000,Medium,10,107
+9/23/2022,121,Autumn Clothing,Brand_T,0.004,0.001,10.27272727,14,1546,3000,Medium,11,101
+9/24/2022,121,Autumn Clothing,Brand_T,0.002,0.001,10.36363636,10,1445,3000,Medium,12,125
+9/25/2022,121,Autumn Clothing,Brand_T,0.001,0.002,10.45454545,13,1320,3000,Medium,13,127
+9/26/2022,121,Autumn Clothing,Brand_T,0.003,0.001,10.54545455,12,1193,3000,Medium,14,112
+9/27/2022,121,Autumn Clothing,Brand_T,0.004,0.002,10.63636364,17,1081,3000,Medium,15,136
+9/28/2022,121,Autumn Clothing,Brand_T,0.003,0.002,10.72727273,6,2745,3000,High,1,108
+9/29/2022,121,Autumn Clothing,Brand_T,0.004,0.002,10.81818182,17,2637,3000,High,2,121
+9/30/2022,121,Autumn Clothing,Brand_T,0.001,0.002,10.90909091,19,2516,3000,High,3,124
+10/1/2022,121,Autumn Clothing,Brand_T,0.005,0.002,11,8,2392,3000,High,4,128
+10/2/2022,121,Autumn Clothing,Brand_T,0.002,0.003,11.09090909,11,2264,3000,High,5,112
+10/3/2022,121,Autumn Clothing,Brand_T,0.005,0.002,11.18181818,12,2152,3000,High,6,117
+10/4/2022,121,Autumn Clothing,Brand_T,0.003,0.002,11.27272727,12,2035,3000,Medium,7,137
+10/5/2022,121,Autumn Clothing,Brand_T,0.003,0.002,11.36363636,9,1898,3000,Medium,8,125
+10/6/2022,121,Autumn Clothing,Brand_T,0.004,0.003,11.45454545,7,1773,3000,Medium,9,102
+10/7/2022,121,Autumn Clothing,Brand_T,0.001,0.003,11.54545455,16,1671,3000,Medium,10,121
+10/8/2022,121,Autumn Clothing,Brand_T,0.003,0.002,11.63636364,6,1550,3000,Medium,11,105
+10/9/2022,121,Autumn Clothing,Brand_T,0.003,0.001,11.72727273,7,1445,3000,Medium,12,133
+10/10/2022,121,Autumn Clothing,Brand_T,0.002,0.002,11.81818182,17,1312,3000,Medium,13,139
+10/11/2022,121,Autumn Clothing,Brand_T,0.005,0.002,11.90909091,19,1173,3000,Medium,14,113
+10/12/2022,121,Autumn Clothing,Brand_T,0.003,0.003,12,13,1060,3000,Medium,15,110
+10/13/2022,121,Autumn Clothing,Brand_T,0.001,0.003,12.09090909,9,2750,3000,High,1,125
+10/14/2022,121,Autumn Clothing,Brand_T,0.002,0.002,12.18181818,13,2625,3000,High,2,110
+10/15/2022,121,Autumn Clothing,Brand_T,0.003,0.002,12.27272727,6,2515,3000,High,3,118
+10/16/2022,121,Autumn Clothing,Brand_T,0.005,0.001,12.36363636,14,2397,3000,High,4,109
+10/17/2022,121,Autumn Clothing,Brand_T,0.004,0.001,12.45454545,17,2288,3000,High,5,115
+10/18/2022,121,Autumn Clothing,Brand_T,0.005,0.001,12.54545455,18,2173,3000,High,6,119
+10/19/2022,121,Autumn Clothing,Brand_T,0.004,0.002,12.63636364,8,2054,3000,Medium,7,120
+10/20/2022,121,Autumn Clothing,Brand_T,0.004,0.003,12.72727273,12,1934,3000,Medium,8,128
+10/21/2022,121,Autumn Clothing,Brand_T,0.005,0.002,12.81818182,5,1806,3000,Medium,9,105
+10/22/2022,121,Autumn Clothing,Brand_T,0.002,0.001,12.90909091,5,1701,3000,Medium,10,125
+10/23/2022,121,Autumn Clothing,Brand_T,0.003,0.002,13,19,1576,3000,Medium,11,119
+10/24/2022,121,Autumn Clothing,Brand_T,0.001,0.002,13.09090909,15,1457,3000,Medium,12,129
+10/25/2022,121,Autumn Clothing,Brand_T,0.003,0.001,13.18181818,17,1328,3000,Medium,13,108
+10/26/2022,121,Autumn Clothing,Brand_T,0.004,0.002,13.27272727,6,1220,3000,Medium,14,118
+10/27/2022,121,Autumn Clothing,Brand_T,0.004,0.002,13.36363636,6,1102,3000,Medium,15,105
+10/28/2022,121,Autumn Clothing,Brand_T,0.002,0.003,13.45454545,16,2797,3000,High,1,122
+10/29/2022,121,Autumn Clothing,Brand_T,0.002,0.002,13.54545455,18,2675,3000,High,2,119
+10/30/2022,121,Autumn Clothing,Brand_T,0.002,0.002,13.63636364,15,2556,3000,High,3,138
+10/31/2022,121,Autumn Clothing,Brand_T,0.002,0.002,13.72727273,7,2418,3000,High,4,108
+11/1/2022,121,Autumn Clothing,Brand_T,0.004,0.001,18,14,2310,1800,High,5,47
+11/2/2022,121,Autumn Clothing,Brand_T,0.002,0.003,13,16,2263,1800,High,6,49
+11/3/2022,121,Autumn Clothing,Brand_T,0.005,0.003,26,5,2214,1800,High,7,41
+11/4/2022,121,Autumn Clothing,Brand_T,0.004,0.001,14,17,2173,1800,High,8,52
+11/5/2022,121,Autumn Clothing,Brand_T,0.005,0.002,15,15,2121,1800,High,9,42
+11/6/2022,121,Autumn Clothing,Brand_T,0.002,0.003,12,8,2079,1800,High,10,54
+11/7/2022,121,Autumn Clothing,Brand_T,0.005,0.001,13,15,2025,1800,High,11,58
+11/8/2022,121,Autumn Clothing,Brand_T,0.004,0.002,25,14,1967,1800,High,12,52
+11/9/2022,121,Autumn Clothing,Brand_T,0.005,0.002,29,17,1915,1800,High,13,58
+11/10/2022,121,Autumn Clothing,Brand_T,0.002,0.002,22,9,1857,1800,High,14,48
+11/11/2022,121,Autumn Clothing,Brand_T,0.002,0.001,20,6,1809,1800,High,15,47
+11/12/2022,121,Autumn Clothing,Brand_T,0.005,0.003,26,14,1762,1800,High,16,40
+11/13/2022,121,Autumn Clothing,Brand_T,0.004,0.003,23,18,1722,1800,High,17,53
+11/14/2022,121,Autumn Clothing,Brand_T,0.001,0.001,17,17,1669,1800,High,18,52
+11/15/2022,121,Autumn Clothing,Brand_T,0.005,0.003,30,19,1617,1800,High,19,57
+11/16/2022,121,Autumn Clothing,Brand_T,0.002,0.003,26,15,1560,1800,High,20,58
+11/17/2022,121,Autumn Clothing,Brand_T,0.001,0.001,22,7,1502,1800,High,21,56
+11/18/2022,121,Autumn Clothing,Brand_T,0.003,0.003,12,8,1446,1800,High,22,48
+11/19/2022,121,Autumn Clothing,Brand_T,0.002,0.003,29,7,1398,1800,High,23,42
+11/20/2022,121,Autumn Clothing,Brand_T,0.004,0.003,16,19,1356,1800,High,24,50
+11/21/2022,121,Autumn Clothing,Brand_T,0.005,0.002,13,13,1306,1800,High,25,40
+11/22/2022,121,Autumn Clothing,Brand_T,0.002,0.002,21,18,1266,1800,High,26,56
+11/23/2022,121,Autumn Clothing,Brand_T,0.003,0.003,28,6,1210,1800,Medium,27,57
+11/24/2022,121,Autumn Clothing,Brand_T,0.003,0.002,14,15,1153,1800,Medium,28,59
+11/25/2022,121,Autumn Clothing,Brand_T,0.002,0.003,25,12,1094,1800,Medium,29,40
+11/26/2022,121,Autumn Clothing,Brand_T,0.004,0.002,21,17,1054,1800,Medium,30,53
+11/27/2022,121,Autumn Clothing,Brand_T,0.002,0.003,25,6,1001,1800,Medium,31,46
+11/28/2022,121,Autumn Clothing,Brand_T,0.003,0.001,13,19,955,1800,Medium,32,56
+11/29/2022,121,Autumn Clothing,Brand_T,0.004,0.002,17,20,899,1800,Medium,33,44
+11/30/2022,121,Autumn Clothing,Brand_T,0.001,0.002,8,8,855,1800,Medium,34,53
+12/1/2022,121,Autumn Clothing,Brand_T,0.003,0.001,14,9,802,1800,Medium,35,48
+12/2/2022,121,Autumn Clothing,Brand_T,0.002,0.002,8,6,754,1800,Medium,36,55
+12/3/2022,121,Autumn Clothing,Brand_T,0.003,0.001,27,8,699,1800,Medium,37,56
+12/4/2022,121,Autumn Clothing,Brand_T,0.003,0.002,27,9,643,1800,Medium,38,47
+12/5/2022,121,Autumn Clothing,Brand_T,0.005,0.002,22,19,596,1800,Medium,39,43
+12/6/2022,121,Autumn Clothing,Brand_T,0.003,0.002,24,19,553,1800,Medium,40,49
+12/7/2022,121,Autumn Clothing,Brand_T,0.004,0.003,8,16,504,1800,Low,41,40
+12/8/2022,121,Autumn Clothing,Brand_T,0.005,0.002,18,18,464,1800,Low,42,40
+12/9/2022,121,Autumn Clothing,Brand_T,0.003,0.002,22,15,424,1800,Low,43,44
+12/10/2022,121,Autumn Clothing,Brand_T,0.004,0.002,16,13,380,1800,Low,44,48
+12/11/2022,121,Autumn Clothing,Brand_T,0.004,0.001,25,10,332,1800,Low,45,54
+12/12/2022,121,Autumn Clothing,Brand_T,0.005,0.002,16,20,278,1800,Low,46,56
+12/13/2022,121,Autumn Clothing,Brand_T,0.005,0.001,21,15,222,1800,Low,47,60
+12/14/2022,121,Autumn Clothing,Brand_T,0.002,0.002,19,15,962,1800,Medium,1,44
+12/15/2022,121,Autumn Clothing,Brand_T,0.003,0.003,22,16,918,1800,Medium,2,57
+12/16/2022,121,Autumn Clothing,Brand_T,0.003,0.003,25,5,861,1800,Medium,3,45
+12/17/2022,121,Autumn Clothing,Brand_T,0.004,0.002,16,15,816,1800,Medium,4,45
+12/18/2022,121,Autumn Clothing,Brand_T,0.005,0.003,18,6,771,1800,Medium,5,48
+12/19/2022,121,Autumn Clothing,Brand_T,0.003,0.001,18,12,723,1800,Medium,6,41
+12/20/2022,121,Autumn Clothing,Brand_T,0.001,0.002,21,7,682,1800,Medium,7,48
+12/21/2022,121,Autumn Clothing,Brand_T,0.002,0.002,24,8,634,1800,Medium,8,55
+12/22/2022,121,Autumn Clothing,Brand_T,0.003,0.002,16,12,579,1800,Medium,9,49
+12/23/2022,121,Autumn Clothing,Brand_T,0.001,0.001,9,20,530,1800,Low,10,56
+12/24/2022,121,Autumn Clothing,Brand_T,0.005,0.001,25,8,474,1800,Low,11,55
+12/25/2022,121,Autumn Clothing,Brand_T,0.003,0.003,14,8,419,1800,Low,12,46
+12/26/2022,121,Autumn Clothing,Brand_T,0.003,0.002,7,13,373,1800,Low,13,55
+12/27/2022,121,Autumn Clothing,Brand_T,0.005,0.002,10,7,318,1800,Low,14,51
+12/28/2022,121,Autumn Clothing,Brand_T,0.003,0.002,26,6,267,1800,Low,15,41
+12/29/2022,121,Autumn Clothing,Brand_T,0.003,0.002,13,9,226,1800,Low,16,49
+12/30/2022,121,Autumn Clothing,Brand_T,0.003,0.002,18,16,977,1800,Medium,1,50
+12/31/2022,121,Autumn Clothing,Brand_T,0.004,0.002,17,17,927,1800,Medium,2,55
+1/1/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1785,1800,High,5,15
+1/2/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,1770,1800,High,6,22
+1/3/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,1748,1800,High,7,12
+1/4/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,1736,1800,High,8,7
+1/5/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,1729,1800,High,9,26
+1/6/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1703,1800,High,10,7
+1/7/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1696,1800,High,11,28
+1/8/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,1668,1800,High,12,7
+1/9/2022,165,Electronics,Brand_Y,0.005,0.003,40,10,1661,1800,High,13,13
+1/10/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1648,1800,High,14,6
+1/11/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1642,1800,High,15,12
+1/12/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1630,1800,High,16,8
+1/13/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1622,1800,High,17,15
+1/14/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,1607,1800,High,18,14
+1/15/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,1593,1800,High,19,22
+1/16/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1571,1800,High,20,18
+1/17/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,1553,1800,High,21,21
+1/18/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1532,1800,High,22,19
+1/19/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,1513,1800,High,23,29
+1/20/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1484,1800,High,24,17
+1/21/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1467,1800,High,25,11
+1/22/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,1456,1800,High,26,9
+1/23/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1447,1800,High,27,5
+1/24/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,1442,1800,High,28,27
+1/25/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,1415,1800,High,29,18
+1/26/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1397,1800,High,30,28
+1/27/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,1369,1800,High,31,9
+1/28/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,1360,1800,High,32,10
+1/29/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,1350,1800,High,33,9
+1/30/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1341,1800,High,34,8
+1/31/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,1333,1800,High,35,16
+2/1/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1317,1800,High,36,28
+2/2/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1289,1800,High,37,29
+2/3/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1260,1800,High,38,7
+2/4/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1253,1800,Medium,39,6
+2/5/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1247,1800,Medium,40,27
+2/6/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1220,1800,Medium,41,15
+2/7/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1205,1800,Medium,42,15
+2/8/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1190,1800,Medium,43,17
+2/9/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1173,1800,Medium,44,25
+2/10/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,1148,1800,Medium,45,20
+2/11/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1128,1800,Medium,46,13
+2/12/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1115,1800,Medium,47,29
+2/13/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1086,1800,Medium,48,18
+2/14/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1068,1800,Medium,49,11
+2/15/2022,165,Electronics,Brand_Y,0.001,0.003,40,10,1057,1800,Medium,50,17
+2/16/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1040,1800,Medium,51,21
+2/17/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,1019,1800,Medium,52,23
+2/18/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,996,1800,Medium,53,13
+2/19/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,983,1800,Medium,54,23
+2/20/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,960,1800,Medium,55,26
+2/21/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,934,1800,Medium,56,27
+2/22/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,907,1800,Medium,57,12
+2/23/2022,165,Electronics,Brand_Y,0.001,0.003,40,10,895,1800,Medium,58,23
+2/24/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,872,1800,Medium,59,20
+2/25/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,852,1800,Medium,60,12
+2/26/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,840,1800,Medium,61,27
+2/27/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,813,1800,Medium,62,19
+2/28/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,794,1800,Medium,63,26
+3/1/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,768,1800,Medium,64,18
+3/2/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,750,1800,Medium,65,7
+3/3/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,743,1800,Medium,66,23
+3/4/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,720,1800,Medium,67,29
+3/5/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,691,1800,Medium,68,18
+3/6/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,673,1800,Medium,69,28
+3/7/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,645,1800,Medium,70,21
+3/8/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,624,1800,Medium,71,7
+3/9/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,617,1800,Medium,72,6
+3/10/2022,165,Electronics,Brand_Y,0.005,0.003,40,10,611,1800,Medium,73,23
+3/11/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,588,1800,Medium,74,19
+3/12/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,569,1800,Medium,75,20
+3/13/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,549,1800,Medium,76,26
+3/14/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,523,1800,Low,77,15
+3/15/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,508,1800,Low,78,10
+3/16/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,498,1800,Low,79,30
+3/17/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,468,1800,Low,80,13
+3/18/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,455,1800,Low,81,25
+3/19/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,430,1800,Low,82,10
+3/20/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,420,1800,Low,83,13
+3/21/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,407,1800,Low,84,11
+3/22/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,396,1800,Low,85,23
+3/23/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,373,1800,Low,86,25
+3/24/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,348,1800,Low,87,26
+3/25/2022,165,Electronics,Brand_Y,0.001,0.003,40,10,322,1800,Low,88,10
+3/26/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,312,1800,Low,89,6
+3/27/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,306,1800,Low,90,30
+3/28/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,276,1800,Low,91,11
+3/29/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,265,1800,Low,92,24
+3/30/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,241,1800,Low,93,5
+3/31/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,236,1800,Low,94,11
+4/1/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,225,1800,Low,95,30
+4/2/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1195,1800,Medium,1,27
+4/3/2022,165,Electronics,Brand_Y,0.005,0.003,40,10,1168,1800,Medium,2,30
+4/4/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1138,1800,Medium,3,15
+4/5/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1123,1800,Medium,4,16
+4/6/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,1107,1800,Medium,5,20
+4/7/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,1087,1800,Medium,6,11
+4/8/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1076,1800,Medium,7,7
+4/9/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1069,1800,Medium,8,19
+4/10/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,1050,1800,Medium,9,29
+4/11/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1021,1800,Medium,10,10
+4/12/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1011,1800,Medium,11,17
+4/13/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,994,1800,Medium,12,18
+4/14/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,976,1800,Medium,13,18
+4/15/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,958,1800,Medium,14,13
+4/16/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,945,1800,Medium,15,14
+4/17/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,931,1800,Medium,16,8
+4/18/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,923,1800,Medium,17,30
+4/19/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,893,1800,Medium,18,19
+4/20/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,874,1800,Medium,19,14
+4/21/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,860,1800,Medium,20,20
+4/22/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,840,1800,Medium,21,12
+4/23/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,828,1800,Medium,22,30
+4/24/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,798,1800,Medium,23,16
+4/25/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,782,1800,Medium,24,9
+4/26/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,773,1800,Medium,25,11
+4/27/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,762,1800,Medium,26,7
+4/28/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,755,1800,Medium,27,15
+4/29/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,740,1800,Medium,28,11
+4/30/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,729,1800,Medium,29,24
+5/1/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,705,1800,Medium,30,15
+5/2/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,690,1800,Medium,31,5
+5/3/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,685,1800,Medium,32,25
+5/4/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,660,1800,Medium,33,8
+5/5/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,652,1800,Medium,34,26
+5/6/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,626,1800,Medium,35,21
+5/7/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,605,1800,Medium,36,17
+5/8/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,588,1800,Medium,37,30
+5/9/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,558,1800,Medium,38,27
+5/10/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,531,1800,Low,39,26
+5/11/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,505,1800,Low,40,22
+5/12/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,483,1800,Low,41,18
+5/13/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,465,1800,Low,42,16
+5/14/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,449,1800,Low,43,29
+5/15/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,420,1800,Low,44,21
+5/16/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,399,1800,Low,45,20
+5/17/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,379,1800,Low,46,27
+5/18/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,352,1800,Low,47,20
+5/19/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,332,1800,Low,48,10
+5/20/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,322,1800,Low,49,20
+5/21/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,302,1800,Low,50,7
+5/22/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,295,1800,Low,51,22
+5/23/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,273,1800,Low,52,23
+5/24/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,250,1800,Low,53,6
+5/25/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,244,1800,Low,54,6
+5/26/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,238,1800,Low,55,23
+5/27/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,215,1800,Low,56,5
+5/28/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,210,1800,Low,57,18
+5/29/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,1192,1800,Medium,1,22
+5/30/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1170,1800,Medium,2,27
+5/31/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,1143,1800,Medium,3,16
+6/1/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,1127,1800,Medium,4,10
+6/2/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,1117,1800,Medium,5,14
+6/3/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1103,1800,Medium,6,28
+6/4/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1075,1800,Medium,7,9
+6/5/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1066,1800,Medium,8,7
+6/6/2022,165,Electronics,Brand_Y,0.001,0.003,40,10,1059,1800,Medium,9,6
+6/7/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,1053,1800,Medium,10,26
+6/8/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1027,1800,Medium,11,11
+6/9/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1016,1800,Medium,12,8
+6/10/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,1008,1800,Medium,13,16
+6/11/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,992,1800,Medium,14,26
+6/12/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,966,1800,Medium,15,19
+6/13/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,947,1800,Medium,16,15
+6/14/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,932,1800,Medium,17,24
+6/15/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,908,1800,Medium,18,24
+6/16/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,884,1800,Medium,19,24
+6/17/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,860,1800,Medium,20,23
+6/18/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,837,1800,Medium,21,7
+6/19/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,830,1800,Medium,22,29
+6/20/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,801,1800,Medium,23,9
+6/21/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,792,1800,Medium,24,11
+6/22/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,781,1800,Medium,25,13
+6/23/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,768,1800,Medium,26,8
+6/24/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,760,1800,Medium,27,19
+6/25/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,741,1800,Medium,28,28
+6/26/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,713,1800,Medium,29,5
+6/27/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,708,1800,Medium,30,17
+6/28/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,691,1800,Medium,31,20
+6/29/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,671,1800,Medium,32,16
+6/30/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,655,1800,Medium,33,30
+7/1/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,625,1800,Medium,34,26
+7/2/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,599,1800,Medium,35,18
+7/3/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,581,1800,Medium,36,21
+7/4/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,560,1800,Medium,37,14
+7/5/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,546,1800,Medium,38,10
+7/6/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,536,1800,Low,39,28
+7/7/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,508,1800,Low,40,14
+7/8/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,494,1800,Low,41,21
+7/9/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,473,1800,Low,42,23
+7/10/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,450,1800,Low,43,27
+7/11/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,423,1800,Low,44,24
+7/12/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,399,1800,Low,45,22
+7/13/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,377,1800,Low,46,15
+7/14/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,362,1800,Low,47,14
+7/15/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,348,1800,Low,48,26
+7/16/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,322,1800,Low,49,25
+7/17/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,297,1800,Low,50,20
+7/18/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,277,1800,Low,51,30
+7/19/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,247,1800,Low,52,20
+7/20/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,227,1800,Low,53,12
+7/21/2022,165,Electronics,Brand_Y,0.001,0.003,40,10,215,1800,Low,54,7
+7/22/2022,165,Electronics,Brand_Y,0.001,0.001,40,10,208,1800,Low,55,30
+7/23/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,1178,1800,Medium,1,6
+7/24/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,1172,1800,Medium,2,19
+7/25/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1153,1800,Medium,3,23
+7/26/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1130,1800,Medium,4,5
+7/27/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,1125,1800,Medium,5,11
+7/28/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,1114,1800,Medium,6,6
+7/29/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,1108,1800,Medium,7,24
+7/30/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,1084,1800,Medium,8,25
+7/31/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,1059,1800,Medium,9,9
+8/1/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1050,1800,Medium,10,22
+8/2/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1028,1800,Medium,11,28
+8/3/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,1000,1800,Medium,12,15
+8/4/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,985,1800,Medium,13,30
+8/5/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,955,1800,Medium,14,26
+8/6/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,929,1800,Medium,15,27
+8/7/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,902,1800,Medium,16,7
+8/8/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,895,1800,Medium,17,10
+8/9/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,885,1800,Medium,18,26
+8/10/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,859,1800,Medium,19,27
+8/11/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,832,1800,Medium,20,5
+8/12/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,827,1800,Medium,21,9
+8/13/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,818,1800,Medium,22,12
+8/14/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,806,1800,Medium,23,23
+8/15/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,783,1800,Medium,24,30
+8/16/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,753,1800,Medium,25,24
+8/17/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,729,1800,Medium,26,20
+8/18/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,709,1800,Medium,27,13
+8/19/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,696,1800,Medium,28,15
+8/20/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,681,1800,Medium,29,18
+8/21/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,663,1800,Medium,30,24
+8/22/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,639,1800,Medium,31,28
+8/23/2022,165,Electronics,Brand_Y,0.001,0.003,40,10,611,1800,Medium,32,29
+8/24/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,582,1800,Medium,33,24
+8/25/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,558,1800,Medium,34,27
+8/26/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,531,1800,Low,35,25
+8/27/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,506,1800,Low,36,30
+8/28/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,476,1800,Low,37,23
+8/29/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,453,1800,Low,38,17
+8/30/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,436,1800,Low,39,23
+8/31/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,413,1800,Low,40,23
+9/1/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,390,1800,Low,41,9
+9/2/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,381,1800,Low,42,9
+9/3/2022,165,Electronics,Brand_Y,0.004,0.001,40,10,372,1800,Low,43,7
+9/4/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,365,1800,Low,44,7
+9/5/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,358,1800,Low,45,25
+9/6/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,333,1800,Low,46,14
+9/7/2022,165,Electronics,Brand_Y,0.002,0.003,40,10,319,1800,Low,47,6
+9/8/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,313,1800,Low,48,17
+9/9/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,296,1800,Low,49,25
+9/10/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,271,1800,Low,50,13
+9/11/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,258,1800,Low,51,27
+9/12/2022,165,Electronics,Brand_Y,0.002,0.001,40,10,231,1800,Low,52,20
+9/13/2022,165,Electronics,Brand_Y,0.003,0.001,40,10,211,1800,Low,53,23
+9/14/2022,165,Electronics,Brand_Y,0.005,0.001,40,10,1188,1800,Medium,1,12
+9/15/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,1176,1800,Medium,2,21
+9/16/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,1155,1800,Medium,3,10
+9/17/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1145,1800,Medium,4,13
+9/18/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,1132,1800,Medium,5,12
+9/19/2022,165,Electronics,Brand_Y,0.004,0.002,40,10,1120,1800,Medium,6,19
+9/20/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1101,1800,Medium,7,16
+9/21/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1085,1800,Medium,8,27
+9/22/2022,165,Electronics,Brand_Y,0.003,0.002,40,10,1058,1800,Medium,9,21
+9/23/2022,165,Electronics,Brand_Y,0.005,0.002,40,10,1037,1800,Medium,10,6
+9/24/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1031,1800,Medium,11,11
+9/25/2022,165,Electronics,Brand_Y,0.002,0.002,40,10,1020,1800,Medium,12,23
+9/26/2022,165,Electronics,Brand_Y,0.001,0.002,40,10,997,1800,Medium,13,28
+9/27/2022,165,Electronics,Brand_Y,0.005,0.003,40,10,969,1800,Medium,14,7
+9/28/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,962,1800,Medium,15,22
+9/29/2022,165,Electronics,Brand_Y,0.003,0.003,40,10,940,1800,Medium,16,5
+9/30/2022,165,Electronics,Brand_Y,0.004,0.003,40,10,935,1800,Medium,17,26
+10/1/2022,165,Electronics,Brand_Y,0.004,0.002,14,7,909,4000,Low,18,82
+10/2/2022,165,Electronics,Brand_Y,0.003,0.002,14,7,827,4000,Low,19,94
+10/3/2022,165,Electronics,Brand_Y,0.002,0.002,14,7,733,4000,Low,20,84
+10/4/2022,165,Electronics,Brand_Y,0.004,0.002,14,7,649,4000,Low,21,86
+10/5/2022,165,Electronics,Brand_Y,0.005,0.002,14,7,563,4000,Low,22,115
+10/6/2022,165,Electronics,Brand_Y,0.002,0.003,14,7,3448,4000,High,1,113
+10/7/2022,165,Electronics,Brand_Y,0.003,0.001,14,7,3335,4000,High,2,100
+10/8/2022,165,Electronics,Brand_Y,0.003,0.002,14,7,3235,4000,High,3,82
+10/9/2022,165,Electronics,Brand_Y,0.002,0.002,14,7,3153,4000,High,4,103
+10/10/2022,165,Electronics,Brand_Y,0.002,0.001,14,7,3050,4000,High,5,99
+10/11/2022,165,Electronics,Brand_Y,0.003,0.001,14,7,2951,4000,High,6,118
+10/12/2022,165,Electronics,Brand_Y,0.005,0.001,14,7,2833,4000,High,7,86
+10/13/2022,165,Electronics,Brand_Y,0.002,0.003,14,7,2747,4000,Medium,8,118
+10/14/2022,165,Electronics,Brand_Y,0.005,0.003,14,7,2629,4000,Medium,9,88
+10/15/2022,165,Electronics,Brand_Y,0.003,0.003,14,7,2541,4000,Medium,10,119
+10/16/2022,165,Electronics,Brand_Y,0.005,0.002,14,7,2422,4000,Medium,11,94
+10/17/2022,165,Electronics,Brand_Y,0.004,0.002,14,7,2328,4000,Medium,12,100
+10/18/2022,165,Electronics,Brand_Y,0.005,0.002,14,7,2228,4000,Medium,13,82
+10/19/2022,165,Electronics,Brand_Y,0.003,0.003,14,7,2146,4000,Medium,14,98
+10/20/2022,165,Electronics,Brand_Y,0.001,0.003,14,7,2048,4000,Medium,15,99
+10/21/2022,165,Electronics,Brand_Y,0.004,0.002,14,7,1949,4000,Medium,16,105
+10/22/2022,165,Electronics,Brand_Y,0.004,0.003,14,7,1844,4000,Medium,17,100
+10/23/2022,165,Electronics,Brand_Y,0.002,0.001,14,7,1744,4000,Medium,18,82
+10/24/2022,165,Electronics,Brand_Y,0.002,0.001,14,7,1662,4000,Medium,19,86
+10/25/2022,165,Electronics,Brand_Y,0.002,0.002,14,7,1576,4000,Medium,20,86
+10/26/2022,165,Electronics,Brand_Y,0.004,0.002,14,7,1490,4000,Medium,21,115
+10/27/2022,165,Electronics,Brand_Y,0.004,0.003,14,7,1375,4000,Medium,22,100
+10/28/2022,165,Electronics,Brand_Y,0.003,0.002,14,7,1275,4000,Medium,23,103
+10/29/2022,165,Electronics,Brand_Y,0.004,0.003,14,7,1172,4000,Low,24,117
+10/30/2022,165,Electronics,Brand_Y,0.004,0.003,14,7,1055,4000,Low,25,106
+10/31/2022,165,Electronics,Brand_Y,0.001,0.001,14,7,949,4000,Low,26,119
+11/1/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,830,7000,Low,27,135
+11/2/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,6695,7000,High,1,138
+11/3/2022,165,Electronics,Brand_Y,0.005,0.003,50,18,6557,7000,High,2,100
+11/4/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,6457,7000,High,3,111
+11/5/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,6346,7000,High,4,102
+11/6/2022,165,Electronics,Brand_Y,0.004,0.002,50,18,6244,7000,High,5,131
+11/7/2022,165,Electronics,Brand_Y,0.001,0.003,50,18,6113,7000,High,6,112
+11/8/2022,165,Electronics,Brand_Y,0.004,0.003,50,18,6001,7000,High,7,111
+11/9/2022,165,Electronics,Brand_Y,0.005,0.002,50,18,5890,7000,High,8,100
+11/10/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,5790,7000,High,9,132
+11/11/2022,165,Electronics,Brand_Y,0.004,0.002,50,18,5658,7000,High,10,107
+11/12/2022,165,Electronics,Brand_Y,0.003,0.003,50,18,5551,7000,High,11,132
+11/13/2022,165,Electronics,Brand_Y,0.001,0.001,50,18,5419,7000,High,12,108
+11/14/2022,165,Electronics,Brand_Y,0.001,0.001,50,18,5311,7000,High,13,116
+11/15/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,5195,7000,High,14,108
+11/16/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,5087,7000,High,15,112
+11/17/2022,165,Electronics,Brand_Y,0.002,0.003,50,18,4975,7000,High,16,125
+11/18/2022,165,Electronics,Brand_Y,0.002,0.003,50,18,4850,7000,Medium,17,133
+11/19/2022,165,Electronics,Brand_Y,0.002,0.003,50,18,4717,7000,Medium,18,135
+11/20/2022,165,Electronics,Brand_Y,0.004,0.003,50,18,4582,7000,Medium,19,125
+11/21/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,4457,7000,Medium,20,121
+11/22/2022,165,Electronics,Brand_Y,0.005,0.002,50,18,4336,7000,Medium,21,104
+11/23/2022,165,Electronics,Brand_Y,0.001,0.003,50,18,4232,7000,Medium,22,134
+11/24/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,4098,7000,Medium,23,114
+11/25/2022,165,Electronics,Brand_Y,0.002,0.003,50,18,3984,7000,Medium,24,113
+11/26/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,3871,7000,Medium,25,113
+11/27/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,3758,7000,Medium,26,101
+11/28/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,3657,7000,Medium,27,127
+11/29/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,3530,7000,Medium,28,116
+11/30/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,3414,7000,Medium,29,136
+12/1/2022,165,Electronics,Brand_Y,0.003,0.001,50,18,3278,7000,Medium,30,120
+12/2/2022,165,Electronics,Brand_Y,0.003,0.003,50,18,3158,7000,Medium,31,119
+12/3/2022,165,Electronics,Brand_Y,0.001,0.002,50,18,3039,7000,Medium,32,107
+12/4/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,2932,7000,Medium,33,108
+12/5/2022,165,Electronics,Brand_Y,0.005,0.002,50,18,2824,7000,Medium,34,132
+12/6/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,2692,7000,Medium,35,131
+12/7/2022,165,Electronics,Brand_Y,0.005,0.003,50,18,2561,7000,Medium,36,116
+12/8/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,2445,7000,Medium,37,123
+12/9/2022,165,Electronics,Brand_Y,0.004,0.002,50,18,2322,7000,Medium,38,119
+12/10/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,2203,7000,Medium,39,125
+12/11/2022,165,Electronics,Brand_Y,0.005,0.001,50,18,2078,7000,Low,40,136
+12/12/2022,165,Electronics,Brand_Y,0.004,0.002,50,18,1942,7000,Low,41,120
+12/13/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,1822,7000,Low,42,121
+12/14/2022,165,Electronics,Brand_Y,0.003,0.001,50,18,1701,7000,Low,43,115
+12/15/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,1586,7000,Low,44,125
+12/16/2022,165,Electronics,Brand_Y,0.004,0.003,50,18,1461,7000,Low,45,116
+12/17/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,1345,7000,Low,46,127
+12/18/2022,165,Electronics,Brand_Y,0.002,0.001,50,18,1218,7000,Low,47,107
+12/19/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,1111,7000,Low,48,139
+12/20/2022,165,Electronics,Brand_Y,0.002,0.001,50,18,972,7000,Low,49,113
+12/21/2022,165,Electronics,Brand_Y,0.004,0.002,50,18,859,7000,Low,50,121
+12/22/2022,165,Electronics,Brand_Y,0.003,0.001,50,18,738,7000,Low,51,139
+12/23/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,6599,7000,High,1,135
+12/24/2022,165,Electronics,Brand_Y,0.005,0.002,50,18,6464,7000,High,2,109
+12/25/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,6355,7000,High,3,136
+12/26/2022,165,Electronics,Brand_Y,0.002,0.002,50,18,6219,7000,High,4,105
+12/27/2022,165,Electronics,Brand_Y,0.002,0.003,50,18,6114,7000,High,5,130
+12/28/2022,165,Electronics,Brand_Y,0.005,0.002,50,18,5984,7000,High,6,118
+12/29/2022,165,Electronics,Brand_Y,0.003,0.001,50,18,5866,7000,High,7,110
+12/30/2022,165,Electronics,Brand_Y,0.003,0.002,50,18,5756,7000,High,8,108
+12/31/2022,165,Electronics,Brand_Y,0.004,0.001,50,18,5648,7000,High,9,111
