@@ -1,4 +1,5 @@
-from fastapi import FastAPI,Response,status,HTTPException,Depends
-import tmp
+from fastapi import FastAPI
+from router import predict_sale
+
 app = FastAPI()
-app.include_router(tmp.router)
+app.include_router(predict_sale.router)

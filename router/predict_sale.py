@@ -1,6 +1,7 @@
-from fastapi import FastAPI,Response,status,HTTPException,Depends,APIRouter
+from fastapi import status, APIRouter
 from schemas import DataPredict,ListDataPredict
-import predict
+from repository import predict
+
 router=APIRouter(
     prefix="/predict",tags=["predict"]
 )

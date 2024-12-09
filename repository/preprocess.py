@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import schemas
 import numpy as np
-df=pd.read_csv("data.csv")
+df=pd.read_csv("../data.csv")
 df["Date"]=pd.to_datetime(df["Date"])
 df['day_of_week'] = df['Date'].dt.dayofweek
 df['month'] = df['Date'].dt.month
